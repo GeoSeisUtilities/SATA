@@ -139,4 +139,4 @@ line=f'Last eqs: {l_ev[2]}-{l_ev[1]}-{l_ev[0][-2:]} {l_ev[3]}:{l_ev[4]}:{l_ev[5]
 with open(pt+'all_data','w') as o:
     o.write(str(line))
 with open(pt+'coord_section_map_view','w') as o:
-    o.write(f'{start_lon}\t{start_lat}\t{end_lon}\t{end_lat}')
+    o.write(f'{start_lon}\t{start_lat}\n{end_lon}\t{end_lat}')

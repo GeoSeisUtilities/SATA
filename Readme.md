@@ -1,6 +1,6 @@
 # SATA - Seismicity Automatic Tool Analysis
 
-<img title="" src="file:///E:/Geologia/GeoSisUtilities/Downoad-plot_earthquakes/Example_of_SATA.png" alt="" width="496" data-align="center">
+![](https://user-images.githubusercontent.com/129282947/248035724-7bdefbfc-8158-4604-8301-93b28b5f7e32.png)
 
 **SATA** is a Python and GMT tool designed to automatically retrieve data from the INGV ([http://terremoti.ingv.it/](http://terremoti.ingv.it/)) online earthquakes database. It captures earthquake information and generates real-time plots. This *readme.md* file provides a comprehensive overview of the tool in its current release. Furthermore, quick commands and relevant information are also available within each window of the SATA GUI (Graphical User Interface).
 
