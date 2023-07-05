@@ -387,9 +387,10 @@ to comunicate the refresh of the database.
 hp = tk.Label(wd, text = str(txt), justify='center',background="#E5E5E5")
 hp.pack()
 hp.configure(font=("arial", 11))
-txt2='''In the panel below select the path where the list will be created and
-the time length of earhquakes list. Remember that SATA considers the time starting from 
-midnight of today (not from the begin of the current week or of the current month).
+txt2='''In the panel below select the path where the list will be created (it creates
+a new folder in the path) and the time length of earhquakes list. Remember that SATA 
+considers the time starting from midnight of today (not from the begin of the current 
+week or of the current month).
 '''
 hp2 = tk.Label(wd, text = str(txt2), justify='center',background="#E5E5E5")
 hp2.pack()

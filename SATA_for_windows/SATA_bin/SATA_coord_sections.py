@@ -32,7 +32,7 @@ for s in strike:
     ls=s.split(',')
     slat=float(ls[1])
     slon=float(ls[0])
-    strike_l.append(int(ls[-1]))
+    strike_l.append(float(ls[-2]))
     coords.append([slat,slon])
 min_distance=np.sqrt((coords[0][0]-eq_coord[0])**2+(coords[0][1]-eq_coord[0])**2)
 #Find nearest fault
@@ -42,52 +42,54 @@ for l_c in coords:
         min_distance=act_distance
         i=coords.index(l_c)
 #Calculate section strike
-strike_sez=strike_l[i]
+strike_sez=strike_l[i]-90
 if strike_sez<0:
     strike_sez=strike_sez+360
+elif strike_sez>360:
+    strike_sez=strike_sez-360
 #Calculate start and end coordinates
 if strike_sez>0 and strike_sez<90:
-    start_lat=lat-np.cos((strike_sez/360)*2*np.pi)*0.75
-    start_lon=lon-np.sin((strike_sez/360)*2*np.pi)*0.75
-    end_lat=lat+np.cos((strike_sez/360)*2*np.pi)*0.25
-    end_lon=lon+np.sin((strike_sez/360)*2*np.pi)*0.25
+    start_lat=lat-np.abs(np.cos((strike_sez/360)*2*np.pi)*0.50)
+    start_lon=lon-np.abs(np.sin((strike_sez/360)*2*np.pi)*0.50)
+    end_lat=lat+np.abs(np.cos((strike_sez/360)*2*np.pi)*0.25)
+    end_lon=lon+np.abs(np.sin((strike_sez/360)*2*np.pi)*0.25)
 elif strike_sez>90 and strike_sez<180:
-    start_lat=lat+np.cos((strike_sez/360)*2*np.pi)*0.75
-    start_lon=lon-np.sin((strike_sez/360)*2*np.pi)*0.75
-    end_lat=lat-np.cos((strike_sez/360)*2*np.pi)*0.25
-    end_lon=lon+np.sin((strike_sez/360)*2*np.pi)*0.25
+    start_lat=lat+np.abs(np.cos((strike_sez/360)*2*np.pi)*0.50)
+    start_lon=lon-np.abs(np.sin((strike_sez/360)*2*np.pi)*0.50)
+    end_lat=lat-np.abs(np.cos((strike_sez/360)*2*np.pi)*0.25)
+    end_lon=lon+np.abs(np.sin((strike_sez/360)*2*np.pi)*0.25)
 elif strike_sez>180 and strike_sez<270:
-    start_lat=lat+np.cos((strike_sez/360)*2*np.pi)*0.75
-    start_lon=lon+np.sin((strike_sez/360)*2*np.pi)*0.75
-    end_lat=lat-np.cos((strike_sez/360)*2*np.pi)*0.25
-    end_lon=lon-np.sin((strike_sez/360)*2*np.pi)*0.25
+    start_lat=lat+np.abs(np.cos((strike_sez/360)*2*np.pi)*0.50)
+    start_lon=lon+np.abs(np.sin((strike_sez/360)*2*np.pi)*0.50)
+    end_lat=lat-np.abs(np.cos((strike_sez/360)*2*np.pi)*0.25)
+    end_lon=lon-np.abs(np.sin((strike_sez/360)*2*np.pi)*0.25)
 elif strike_sez>270 and strike_sez<360:
-    start_lat=lat-np.cos((strike_sez/360)*2*np.pi)*0.75
-    start_lon=lon+np.sin((strike_sez/360)*2*np.pi)*0.75
-    end_lat=lat+np.cos((strike_sez/360)*2*np.pi)*0.25
-    end_lon=lon-np.sin((strike_sez/360)*2*np.pi)*0.25
+    start_lat=lat-np.abs(np.cos((strike_sez/360)*2*np.pi)*0.50)
+    start_lon=lon+np.abs(np.sin((strike_sez/360)*2*np.pi)*0.50)
+    end_lat=lat+np.abs(np.cos((strike_sez/360)*2*np.pi)*0.25)
+    end_lon=lon-np.abs(np.sin((strike_sez/360)*2*np.pi)*0.25)
 elif strike_sez==0:
-    start_lat=lat-0.75
+    start_lat=lat-0.50
     start_lon=lon
     end_lat=lat+0.25
     end_lon=lon
 elif strike_sez==90:
     start_lat=lat
-    start_lon=lon-0.75
+    start_lon=lon-0.50
     end_lat=lat
     end_lon=lon+0.25
 elif strike_sez==180:
-    start_lat=lat+0.75
+    start_lat=lat+0.50
     start_lon=lon
     end_lat=lat-0.25
     end_lon=lon
 elif strike_sez==270:
     start_lat=lat
-    start_lon=lon+0.75
+    start_lon=lon+0.50
     end_lat=lat
     end_lon=lon-0.25
 elif strike_sez==360:
-    start_lat=lat-0.75
+    start_lat=lat-0.50
     start_lon=lon
     end_lat=lat+0.25
     end_lon=lon
@@ -98,11 +100,25 @@ elif dep>0 and dep<=10:
     end_dep=-15
 elif dep>10 and dep<=20:
     end_dep=-30
-elif dep>20 and dep<=50:
-    end_dep=-70
-elif dep>50 and dep<=90:
+elif dep>20 and dep<=30:
+    end_dep=-40
+elif dep>30 and dep<=40:
+    end_dep=-50
+elif dep>40 and dep<=50:
+    end_dep=-60
+elif dep>50 and dep<=60:
+    end_dep=-750
+elif dep>60 and dep<=70:
+    end_dep=-80
+elif dep>70 and dep<=80:
+    end_dep=-90
+elif dep>80 and dep<=90:
+    end_dep=-100
+elif dep>90 and dep<=100:
     end_dep=-150
-elif dep>90:
+elif dep>100 and dep<=150:
+    end_dep=-200
+elif dep>150:
     end_dep=-300
 #Calculate length in km
 st_p = (start_lat,start_lon)
@@ -140,3 +156,7 @@ with open(pt+'all_data','w') as o:
     o.write(str(line))
 with open(pt+'coord_section_map_view','w') as o:
     o.write(f'{start_lon}\t{start_lat}\n{end_lon}\t{end_lat}')
+with open(pt+'coord_section_start','w') as o:
+    o.write(f'{start_lon}\t{start_lat}')
+with open(pt+'coord_section_end','w') as o:
+    o.write(f'{end_lon}\t{end_lat}')

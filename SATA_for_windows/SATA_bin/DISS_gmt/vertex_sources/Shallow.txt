@@ -1,0 +1,1169 @@
+14.148514	42.296	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.39945916	42.08038477	-7.4490233	Shallow Abruzzo Citeriore Basal Thrust
+14.2983051	42.24766974	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.22166275	42.20420262	-7.8125011	Shallow Abruzzo Citeriore Basal Thrust
+14.26682435	42.18550025	-7.7812687	Shallow Abruzzo Citeriore Basal Thrust
+14.14631239	42.2938755	-3.1937504	Shallow Abruzzo Citeriore Basal Thrust
+14.39558444	42.15189375	-4.393774	Shallow Abruzzo Citeriore Basal Thrust
+14.35202594	42.13902903	-6.9789064	Shallow Abruzzo Citeriore Basal Thrust
+14.18195765	42.2162155	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.36821233	42.11150557	-7.4315667	Shallow Abruzzo Citeriore Basal Thrust
+14.35323243	42.16983092	-5.5265614	Shallow Abruzzo Citeriore Basal Thrust
+14.38311047	42.1314551	-5.8695726	Shallow Abruzzo Citeriore Basal Thrust
+14.42308576	42.07964002	-6.4331053	Shallow Abruzzo Citeriore Basal Thrust
+14.23325238	42.21149932	-7.0391429	Shallow Abruzzo Citeriore Basal Thrust
+14.16996462	42.23278993	-7.20626	Shallow Abruzzo Citeriore Basal Thrust
+14.34765528	42.12356152	-7.843944	Shallow Abruzzo Citeriore Basal Thrust
+14.30838977	42.18596563	-6.4182617	Shallow Abruzzo Citeriore Basal Thrust
+14.38513874	42.17070031	-4.0784181	Shallow Abruzzo Citeriore Basal Thrust
+14.25533568	42.22592584	-5.5320237	Shallow Abruzzo Citeriore Basal Thrust
+14.14091512	42.28866681	-3.6687501	Shallow Abruzzo Citeriore Basal Thrust
+14.40303749	42.17197712	-3.1875001	Shallow Abruzzo Citeriore Basal Thrust
+14.22428961	42.26441263	-3.7928712	Shallow Abruzzo Citeriore Basal Thrust
+14.27356814	42.20248962	-6.5254095	Shallow Abruzzo Citeriore Basal Thrust
+14.13558921	42.2835263	-4.1374999	Shallow Abruzzo Citeriore Basal Thrust
+14.31241998	42.15426111	-7.9125001	Shallow Abruzzo Citeriore Basal Thrust
+14.29765352	42.21525696	-5.0687578	Shallow Abruzzo Citeriore Basal Thrust
+14.16170945	42.22782258	-7.7255861	Shallow Abruzzo Citeriore Basal Thrust
+14.17371369	42.28312449	-3.6312498	Shallow Abruzzo Citeriore Basal Thrust
+14.32343145	42.19429083	-5.453125	Shallow Abruzzo Citeriore Basal Thrust
+14.27663894	42.22605094	-4.9513671	Shallow Abruzzo Citeriore Basal Thrust
+14.16904676	42.28741526	-3.3683593	Shallow Abruzzo Citeriore Basal Thrust
+14.13171926	42.27979063	-4.4781252	Shallow Abruzzo Citeriore Basal Thrust
+14.16408283	42.25059367	-6.094532	Shallow Abruzzo Citeriore Basal Thrust
+14.11863291	42.23620598	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.35119145	42.11603988	-8.0000621	Shallow Abruzzo Citeriore Basal Thrust
+14.41580005	42.0680093	-7.2812499	Shallow Abruzzo Citeriore Basal Thrust
+14.12586142	42.27413537	-4.99375	Shallow Abruzzo Citeriore Basal Thrust
+14.19285713	42.2328548	-6.6390625	Shallow Abruzzo Citeriore Basal Thrust
+14.21347338	42.28023366	-3.0000922	Shallow Abruzzo Citeriore Basal Thrust
+14.42567481	42.08605684	-6.0287111	Shallow Abruzzo Citeriore Basal Thrust
+14.42130533	42.07332725	-6.7968751	Shallow Abruzzo Citeriore Basal Thrust
+14.12408125	42.23520388	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.44221637	42.12324098	-3.6167969	Shallow Abruzzo Citeriore Basal Thrust
+14.15872522	42.27819773	-4.219778	Shallow Abruzzo Citeriore Basal Thrust
+14.40426031	42.13079586	-4.9608888	Shallow Abruzzo Citeriore Basal Thrust
+14.38376317	42.19614723	-3.0000233	Shallow Abruzzo Citeriore Basal Thrust
+14.18953881	42.25692237	-5.1212402	Shallow Abruzzo Citeriore Basal Thrust
+14.37240892	42.13224816	-6.3160044	Shallow Abruzzo Citeriore Basal Thrust
+14.1822472	42.21874782	-7.8265629	Shallow Abruzzo Citeriore Basal Thrust
+14.22734627	42.23520803	-5.6363297	Shallow Abruzzo Citeriore Basal Thrust
+14.42326973	42.11230621	-4.9515614	Shallow Abruzzo Citeriore Basal Thrust
+14.2373895	42.19456199	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.37566145	42.09720271	-7.7468751	Shallow Abruzzo Citeriore Basal Thrust
+14.12508903	42.23492909	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.2987767	42.21897741	-4.8040139	Shallow Abruzzo Citeriore Basal Thrust
+14.35337481	42.2155051	-3.2113282	Shallow Abruzzo Citeriore Basal Thrust
+14.11824682	42.26678288	-5.6640625	Shallow Abruzzo Citeriore Basal Thrust
+14.40166041	42.07029503	-7.806299	Shallow Abruzzo Citeriore Basal Thrust
+14.41989972	42.1588488	-3.0000157	Shallow Abruzzo Citeriore Basal Thrust
+14.34287256	42.14956991	-6.9562504	Shallow Abruzzo Citeriore Basal Thrust
+14.26449435	42.18544238	-7.848537	Shallow Abruzzo Citeriore Basal Thrust
+14.3981071	42.11578638	-5.9117159	Shallow Abruzzo Citeriore Basal Thrust
+14.11073938	42.25953251	-6.3249999	Shallow Abruzzo Citeriore Basal Thrust
+14.21214904	42.22659471	-6.5758247	Shallow Abruzzo Citeriore Basal Thrust
+14.40849349	42.14600808	-4.0860426	Shallow Abruzzo Citeriore Basal Thrust
+14.31081866	42.15957907	-7.7063478	Shallow Abruzzo Citeriore Basal Thrust
+14.22964918	42.24780185	-4.7523362	Shallow Abruzzo Citeriore Basal Thrust
+14.2915198	42.18023274	-7.2921875	Shallow Abruzzo Citeriore Basal Thrust
+14.26387274	42.26166325	-2.9999994	Shallow Abruzzo Citeriore Basal Thrust
+14.25665849	42.25251447	-3.778516	Shallow Abruzzo Citeriore Basal Thrust
+14.36839693	42.17420449	-4.7109293	Shallow Abruzzo Citeriore Basal Thrust
+14.3813016	42.15097679	-5.1003929	Shallow Abruzzo Citeriore Basal Thrust
+14.30691134	42.15679827	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.33243998	42.19496255	-5.0702122	Shallow Abruzzo Citeriore Basal Thrust
+14.26562655	42.24155743	-4.2656245	Shallow Abruzzo Citeriore Basal Thrust
+14.10332134	42.25236714	-6.9781249	Shallow Abruzzo Citeriore Basal Thrust
+14.15339556	42.22831936	-7.8652216	Shallow Abruzzo Citeriore Basal Thrust
+14.3279772	42.2300775	-3.2365238	Shallow Abruzzo Citeriore Basal Thrust
+14.39718257	42.13721843	-4.9848644	Shallow Abruzzo Citeriore Basal Thrust
+14.15483243	42.29129227	-3.2716307	Shallow Abruzzo Citeriore Basal Thrust
+14.32216253	42.16887089	-6.7921876	Shallow Abruzzo Citeriore Basal Thrust
+14.39673677	42.10912027	-6.2735748	Shallow Abruzzo Citeriore Basal Thrust
+14.27754935	42.19585463	-6.8374949	Shallow Abruzzo Citeriore Basal Thrust
+14.38209213	42.19470758	-3.1383827	Shallow Abruzzo Citeriore Basal Thrust
+14.27333344	42.21604142	-5.6739282	Shallow Abruzzo Citeriore Basal Thrust
+14.21285268	42.27386575	-3.4534438	Shallow Abruzzo Citeriore Basal Thrust
+14.31778553	42.19516635	-5.5839845	Shallow Abruzzo Citeriore Basal Thrust
+14.09771387	42.2469498	-7.4718748	Shallow Abruzzo Citeriore Basal Thrust
+14.25405173	42.21818796	-6.0564357	Shallow Abruzzo Citeriore Basal Thrust
+14.34453336	42.13758295	-7.3908202	Shallow Abruzzo Citeriore Basal Thrust
+14.15827875	42.22490368	-8.0001984	Shallow Abruzzo Citeriore Basal Thrust
+14.18384924	42.2769999	-3.8460936	Shallow Abruzzo Citeriore Basal Thrust
+14.29141809	42.2505941	-2.9999999	Shallow Abruzzo Citeriore Basal Thrust
+14.32881484	42.17146613	-6.4003906	Shallow Abruzzo Citeriore Basal Thrust
+14.232632	42.27091521	-3.1604489	Shallow Abruzzo Citeriore Basal Thrust
+14.44041677	42.09178275	-5.1156247	Shallow Abruzzo Citeriore Basal Thrust
+14.09356174	42.24293797	-7.8375001	Shallow Abruzzo Citeriore Basal Thrust
+14.15993574	42.26982772	-4.8437369	Shallow Abruzzo Citeriore Basal Thrust
+14.14503802	42.25419702	-6.2437497	Shallow Abruzzo Citeriore Basal Thrust
+14.42406396	42.12652873	-4.2746691	Shallow Abruzzo Citeriore Basal Thrust
+14.09171643	42.24115486	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.40876031	42.06438927	-7.7572262	Shallow Abruzzo Citeriore Basal Thrust
+14.35541799	42.14833263	-6.4229003	Shallow Abruzzo Citeriore Basal Thrust
+14.31312986	42.18434923	-6.359375	Shallow Abruzzo Citeriore Basal Thrust
+14.18640446	42.28583667	-3.1786813	Shallow Abruzzo Citeriore Basal Thrust
+14.24983238	42.25421949	-3.8343751	Shallow Abruzzo Citeriore Basal Thrust
+14.28909974	42.21633072	-5.2316073	Shallow Abruzzo Citeriore Basal Thrust
+14.40121321	42.16594917	-3.5302728	Shallow Abruzzo Citeriore Basal Thrust
+14.46144679	42.11797936	-2.9999999	Shallow Abruzzo Citeriore Basal Thrust
+14.17784695	42.25805768	-5.2875007	Shallow Abruzzo Citeriore Basal Thrust
+14.12583611	42.25812087	-6.2205566	Shallow Abruzzo Citeriore Basal Thrust
+14.1780787	42.24313668	-6.3189053	Shallow Abruzzo Citeriore Basal Thrust
+14.19324735	42.2260777	-7.0746036	Shallow Abruzzo Citeriore Basal Thrust
+14.2728781	42.25829203	-3.0000045	Shallow Abruzzo Citeriore Basal Thrust
+14.14215457	42.28534472	-3.9057616	Shallow Abruzzo Citeriore Basal Thrust
+14.33693371	42.1712255	-6.0945313	Shallow Abruzzo Citeriore Basal Thrust
+14.19709749	42.26454891	-4.433076	Shallow Abruzzo Citeriore Basal Thrust
+14.26637622	42.24735848	-3.8781166	Shallow Abruzzo Citeriore Basal Thrust
+14.12536155	42.24435696	-7.2811788	Shallow Abruzzo Citeriore Basal Thrust
+14.16478157	42.22778407	-7.6624755	Shallow Abruzzo Citeriore Basal Thrust
+14.35034431	42.17880096	-5.1861806	Shallow Abruzzo Citeriore Basal Thrust
+14.37326814	42.13897246	-5.9886098	Shallow Abruzzo Citeriore Basal Thrust
+14.40924178	42.13629732	-4.4914052	Shallow Abruzzo Citeriore Basal Thrust
+14.20748582	42.27949704	-3.1767308	Shallow Abruzzo Citeriore Basal Thrust
+14.31868578	42.16481603	-7.1333984	Shallow Abruzzo Citeriore Basal Thrust
+14.40407333	42.1594559	-3.6746737	Shallow Abruzzo Citeriore Basal Thrust
+14.41776355	42.07674693	-6.7999998	Shallow Abruzzo Citeriore Basal Thrust
+14.20683672	42.27370571	-3.5929063	Shallow Abruzzo Citeriore Basal Thrust
+14.35861364	42.14044993	-6.6103517	Shallow Abruzzo Citeriore Basal Thrust
+14.27224622	42.21077211	-6.0367062	Shallow Abruzzo Citeriore Basal Thrust
+14.33219097	42.14317698	-7.6984027	Shallow Abruzzo Citeriore Basal Thrust
+14.24254486	42.25785082	-3.7750004	Shallow Abruzzo Citeriore Basal Thrust
+14.19013421	42.21933705	-7.5938837	Shallow Abruzzo Citeriore Basal Thrust
+14.32117369	42.23794352	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.36074646	42.10625336	-8.0000031	Shallow Abruzzo Citeriore Basal Thrust
+14.3479488	42.18881746	-4.7735352	Shallow Abruzzo Citeriore Basal Thrust
+14.29406883	42.20627253	-5.7038087	Shallow Abruzzo Citeriore Basal Thrust
+14.4029655	42.15353487	-3.9911254	Shallow Abruzzo Citeriore Basal Thrust
+14.12031794	42.24943619	-6.9632813	Shallow Abruzzo Citeriore Basal Thrust
+14.45482921	42.11037941	-3.6367186	Shallow Abruzzo Citeriore Basal Thrust
+14.14968548	42.2274992	-7.9999989	Shallow Abruzzo Citeriore Basal Thrust
+14.23112139	42.21778846	-6.6876644	Shallow Abruzzo Citeriore Basal Thrust
+14.26931596	42.1913806	-7.3431117	Shallow Abruzzo Citeriore Basal Thrust
+14.28386273	42.2391724	-3.9263671	Shallow Abruzzo Citeriore Basal Thrust
+14.35402184	42.12719	-7.3914064	Shallow Abruzzo Citeriore Basal Thrust
+14.30974437	42.19245693	-5.9992188	Shallow Abruzzo Citeriore Basal Thrust
+14.37137076	42.10161391	-7.7380861	Shallow Abruzzo Citeriore Basal Thrust
+14.28312547	42.20123707	-6.3468761	Shallow Abruzzo Citeriore Basal Thrust
+14.36790666	42.15654756	-5.4883301	Shallow Abruzzo Citeriore Basal Thrust
+14.29351943	42.24641383	-3.208203	Shallow Abruzzo Citeriore Basal Thrust
+14.38711259	42.17675134	-3.7276368	Shallow Abruzzo Citeriore Basal Thrust
+14.30067392	42.17102351	-7.525	Shallow Abruzzo Citeriore Basal Thrust
+14.26615757	42.22580061	-5.2490234	Shallow Abruzzo Citeriore Basal Thrust
+14.30806952	42.22073504	-4.4169915	Shallow Abruzzo Citeriore Basal Thrust
+14.1975274	42.21214652	-7.8843751	Shallow Abruzzo Citeriore Basal Thrust
+14.27211563	42.19060901	-7.3156238	Shallow Abruzzo Citeriore Basal Thrust
+14.16931022	42.27887527	-4.0187501	Shallow Abruzzo Citeriore Basal Thrust
+14.35132301	42.22119503	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.39545773	42.17922625	-3.2319576	Shallow Abruzzo Citeriore Basal Thrust
+14.39498125	42.15940943	-4.100882	Shallow Abruzzo Citeriore Basal Thrust
+14.40763156	42.06011744	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.32362879	42.19787826	-5.2392578	Shallow Abruzzo Citeriore Basal Thrust
+14.37246258	42.12651939	-6.5647861	Shallow Abruzzo Citeriore Basal Thrust
+14.22711819	42.20904542	-7.3596537	Shallow Abruzzo Citeriore Basal Thrust
+14.36737398	42.18839306	-4.0340718	Shallow Abruzzo Citeriore Basal Thrust
+14.2177626	42.27892231	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.24895632	42.22795577	-5.5749999	Shallow Abruzzo Citeriore Basal Thrust
+14.32913232	42.21884023	-3.8496093	Shallow Abruzzo Citeriore Basal Thrust
+14.43461244	42.12456185	-3.8949208	Shallow Abruzzo Citeriore Basal Thrust
+14.25932254	42.22157685	-5.7001952	Shallow Abruzzo Citeriore Basal Thrust
+14.38996708	42.18744512	-3.1373046	Shallow Abruzzo Citeriore Basal Thrust
+14.14075705	42.26306983	-5.631445	Shallow Abruzzo Citeriore Basal Thrust
+14.35687258	42.19173489	-4.2764657	Shallow Abruzzo Citeriore Basal Thrust
+14.18762506	42.25059862	-5.6006595	Shallow Abruzzo Citeriore Basal Thrust
+14.40376737	42.14155867	-4.4966791	Shallow Abruzzo Citeriore Basal Thrust
+14.10692035	42.23835982	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.28033549	42.24617596	-3.5777311	Shallow Abruzzo Citeriore Basal Thrust
+14.16950325	42.26733762	-4.8180399	Shallow Abruzzo Citeriore Basal Thrust
+14.16472921	42.27445435	-4.4218369	Shallow Abruzzo Citeriore Basal Thrust
+14.17563139	42.27811503	-3.940999	Shallow Abruzzo Citeriore Basal Thrust
+14.29116176	42.19889273	-6.2242196	Shallow Abruzzo Citeriore Basal Thrust
+14.30210279	42.17959506	-6.9888672	Shallow Abruzzo Citeriore Basal Thrust
+14.28020921	42.1908306	-7.0426765	Shallow Abruzzo Citeriore Basal Thrust
+14.2820917	42.21030307	-5.8016414	Shallow Abruzzo Citeriore Basal Thrust
+14.34613485	42.21619193	-3.4562501	Shallow Abruzzo Citeriore Basal Thrust
+14.35999462	42.11287803	-7.7338468	Shallow Abruzzo Citeriore Basal Thrust
+14.14024818	42.25785966	-6.0376013	Shallow Abruzzo Citeriore Basal Thrust
+14.45814118	42.11591277	-3.2400387	Shallow Abruzzo Citeriore Basal Thrust
+14.3798021	42.12252946	-6.4194413	Shallow Abruzzo Citeriore Basal Thrust
+14.28706805	42.20504219	-5.9999958	Shallow Abruzzo Citeriore Basal Thrust
+14.4312176	42.14773043	-2.9999999	Shallow Abruzzo Citeriore Basal Thrust
+14.24988444	42.24902429	-4.1744137	Shallow Abruzzo Citeriore Basal Thrust
+14.18609514	42.24485583	-6.0169934	Shallow Abruzzo Citeriore Basal Thrust
+14.10078705	42.24542582	-7.5453124	Shallow Abruzzo Citeriore Basal Thrust
+14.4482495	42.10940129	-3.9730955	Shallow Abruzzo Citeriore Basal Thrust
+14.23900205	42.19723735	-7.7873104	Shallow Abruzzo Citeriore Basal Thrust
+14.33739386	42.20776129	-4.2249999	Shallow Abruzzo Citeriore Basal Thrust
+14.37648641	42.09078612	-8.0000638	Shallow Abruzzo Citeriore Basal Thrust
+14.2774486	42.25315086	-3.2136993	Shallow Abruzzo Citeriore Basal Thrust
+14.09603615	42.24165157	-7.901172	Shallow Abruzzo Citeriore Basal Thrust
+14.23128046	42.22344726	-6.3120931	Shallow Abruzzo Citeriore Basal Thrust
+14.20381961	42.28314971	-2.9999996	Shallow Abruzzo Citeriore Basal Thrust
+14.29211535	42.17091982	-7.8117189	Shallow Abruzzo Citeriore Basal Thrust
+14.29881314	42.16307147	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.26953363	42.18021363	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.25896911	42.18886936	-7.7800336	Shallow Abruzzo Citeriore Basal Thrust
+14.4455681	42.13055716	-3.1378905	Shallow Abruzzo Citeriore Basal Thrust
+14.13344026	42.26642251	-5.4777344	Shallow Abruzzo Citeriore Basal Thrust
+14.31303687	42.23009651	-3.7156273	Shallow Abruzzo Citeriore Basal Thrust
+14.33485349	42.22560452	-3.2743165	Shallow Abruzzo Citeriore Basal Thrust
+14.36782032	42.12887347	-6.6745792	Shallow Abruzzo Citeriore Basal Thrust
+14.40066811	42.12264689	-5.4882806	Shallow Abruzzo Citeriore Basal Thrust
+14.35554047	42.20298809	-3.7595704	Shallow Abruzzo Citeriore Basal Thrust
+14.44710372	42.10138044	-4.3857421	Shallow Abruzzo Citeriore Basal Thrust
+14.1825802	42.27183475	-4.2314467	Shallow Abruzzo Citeriore Basal Thrust
+14.44073602	42.09833691	-4.8058591	Shallow Abruzzo Citeriore Basal Thrust
+14.38628162	42.14213031	-5.2463677	Shallow Abruzzo Citeriore Basal Thrust
+14.12081671	42.23958909	-7.7102316	Shallow Abruzzo Citeriore Basal Thrust
+14.35717932	42.11526551	-7.752951	Shallow Abruzzo Citeriore Basal Thrust
+14.13987021	42.26943793	-5.1562495	Shallow Abruzzo Citeriore Basal Thrust
+14.22951158	42.19790778	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.21394912	42.27737913	-3.1884091	Shallow Abruzzo Citeriore Basal Thrust
+14.42114613	42.09096326	-6.0085939	Shallow Abruzzo Citeriore Basal Thrust
+14.41113769	42.09894408	-6.0931643	Shallow Abruzzo Citeriore Basal Thrust
+14.29120367	42.24181413	-3.5617185	Shallow Abruzzo Citeriore Basal Thrust
+14.20638415	42.24728029	-5.3587893	Shallow Abruzzo Citeriore Basal Thrust
+14.37582301	42.18136886	-4.057821	Shallow Abruzzo Citeriore Basal Thrust
+14.28843463	42.22688723	-4.5812505	Shallow Abruzzo Citeriore Basal Thrust
+14.28743893	42.24987781	-3.1523434	Shallow Abruzzo Citeriore Basal Thrust
+14.34795292	42.19593728	-4.4133307	Shallow Abruzzo Citeriore Basal Thrust
+14.45846644	42.10920494	-3.5281252	Shallow Abruzzo Citeriore Basal Thrust
+14.14516247	42.27642895	-4.5462894	Shallow Abruzzo Citeriore Basal Thrust
+14.28254634	42.25436074	-3.0000067	Shallow Abruzzo Citeriore Basal Thrust
+14.30176364	42.22462594	-4.3661588	Shallow Abruzzo Citeriore Basal Thrust
+14.3887183	42.12567765	-5.8816416	Shallow Abruzzo Citeriore Basal Thrust
+14.34763226	42.15416487	-6.5374996	Shallow Abruzzo Citeriore Basal Thrust
+14.27622707	42.19740865	-6.7757094	Shallow Abruzzo Citeriore Basal Thrust
+14.33136452	42.20064404	-4.8250243	Shallow Abruzzo Citeriore Basal Thrust
+14.24280028	42.20227653	-7.3662118	Shallow Abruzzo Citeriore Basal Thrust
+14.38100559	42.10009454	-7.3791495	Shallow Abruzzo Citeriore Basal Thrust
+14.30839842	42.17401676	-7.0710938	Shallow Abruzzo Citeriore Basal Thrust
+14.25452771	42.20429498	-6.9231445	Shallow Abruzzo Citeriore Basal Thrust
+14.3884785	42.14503636	-5.0187407	Shallow Abruzzo Citeriore Basal Thrust
+14.23071267	42.24058534	-5.2002928	Shallow Abruzzo Citeriore Basal Thrust
+14.4390617	42.12958078	-3.4708973	Shallow Abruzzo Citeriore Basal Thrust
+14.26037283	42.24156702	-4.4062529	Shallow Abruzzo Citeriore Basal Thrust
+14.22299641	42.24445609	-5.135735	Shallow Abruzzo Citeriore Basal Thrust
+14.29152321	42.16799364	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.21359102	42.27075806	-3.6390802	Shallow Abruzzo Citeriore Basal Thrust
+14.19056877	42.27960466	-3.5242117	Shallow Abruzzo Citeriore Basal Thrust
+14.15774687	42.27331626	-4.6074259	Shallow Abruzzo Citeriore Basal Thrust
+14.42459088	42.10359278	-5.2859377	Shallow Abruzzo Citeriore Basal Thrust
+14.28236547	42.23227526	-4.4033201	Shallow Abruzzo Citeriore Basal Thrust
+14.23499435	42.27247286	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.32868929	42.19936396	-4.9906254	Shallow Abruzzo Citeriore Basal Thrust
+14.18485459	42.23147986	-6.9261722	Shallow Abruzzo Citeriore Basal Thrust
+14.16202079	42.28955984	-3.3030758	Shallow Abruzzo Citeriore Basal Thrust
+14.22664321	42.22989044	-6.0029312	Shallow Abruzzo Citeriore Basal Thrust
+14.15325774	42.26166058	-5.5532837	Shallow Abruzzo Citeriore Basal Thrust
+14.14655053	42.25690556	-6.0218381	Shallow Abruzzo Citeriore Basal Thrust
+14.18412968	42.26410446	-4.7357949	Shallow Abruzzo Citeriore Basal Thrust
+14.18239201	42.2476955	-5.9118585	Shallow Abruzzo Citeriore Basal Thrust
+14.30129357	42.19955309	-5.8603516	Shallow Abruzzo Citeriore Basal Thrust
+14.11553305	42.26043916	-6.1880856	Shallow Abruzzo Citeriore Basal Thrust
+14.27372785	42.17985162	-7.8861329	Shallow Abruzzo Citeriore Basal Thrust
+14.30758442	42.23829973	-3.3437382	Shallow Abruzzo Citeriore Basal Thrust
+14.25279445	42.19731109	-7.4118175	Shallow Abruzzo Citeriore Basal Thrust
+14.38981715	42.19082207	-2.9999996	Shallow Abruzzo Citeriore Basal Thrust
+14.4004167	42.15655617	-3.9687335	Shallow Abruzzo Citeriore Basal Thrust
+14.17601655	42.28850963	-3.1863278	Shallow Abruzzo Citeriore Basal Thrust
+14.11153633	42.25569035	-6.6080074	Shallow Abruzzo Citeriore Basal Thrust
+14.38785178	42.19297072	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.30165562	42.24303737	-3.2032235	Shallow Abruzzo Citeriore Basal Thrust
+14.40901446	42.16982832	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.45430899	42.10519271	-3.8937501	Shallow Abruzzo Citeriore Basal Thrust
+14.37367258	42.1305874	-6.327973	Shallow Abruzzo Citeriore Basal Thrust
+14.37560903	42.1710573	-4.5084462	Shallow Abruzzo Citeriore Basal Thrust
+14.34584189	42.18339468	-5.1302734	Shallow Abruzzo Citeriore Basal Thrust
+14.37596673	42.10716456	-7.2834935	Shallow Abruzzo Citeriore Basal Thrust
+14.13647941	42.25385461	-6.3973622	Shallow Abruzzo Citeriore Basal Thrust
+14.25104204	42.23617232	-4.9902514	Shallow Abruzzo Citeriore Basal Thrust
+14.14851939	42.26561823	-5.3269558	Shallow Abruzzo Citeriore Basal Thrust
+14.33377255	42.23094575	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.29452558	42.22201685	-4.7257618	Shallow Abruzzo Citeriore Basal Thrust
+14.33375205	42.16675267	-6.4453121	Shallow Abruzzo Citeriore Basal Thrust
+14.34952723	42.15268692	-6.5121097	Shallow Abruzzo Citeriore Basal Thrust
+14.34570477	42.17062225	-5.7814454	Shallow Abruzzo Citeriore Basal Thrust
+14.24736169	42.2616231	-3.4086871	Shallow Abruzzo Citeriore Basal Thrust
+14.13459472	42.24190336	-7.3167129	Shallow Abruzzo Citeriore Basal Thrust
+14.20206371	42.26377647	-4.3812458	Shallow Abruzzo Citeriore Basal Thrust
+14.42913367	42.14579906	-3.1796884	Shallow Abruzzo Citeriore Basal Thrust
+14.42581722	42.13692183	-3.7277572	Shallow Abruzzo Citeriore Basal Thrust
+14.35940192	42.17127073	-5.212197	Shallow Abruzzo Citeriore Basal Thrust
+14.20958124	42.26406784	-4.177244	Shallow Abruzzo Citeriore Basal Thrust
+14.33818926	42.15119581	-7.0581149	Shallow Abruzzo Citeriore Basal Thrust
+14.18228752	42.22464441	-7.4382811	Shallow Abruzzo Citeriore Basal Thrust
+14.29170349	42.20951561	-5.5921893	Shallow Abruzzo Citeriore Basal Thrust
+14.389328	42.14934736	-4.7949678	Shallow Abruzzo Citeriore Basal Thrust
+14.24565841	42.22260075	-6.0028166	Shallow Abruzzo Citeriore Basal Thrust
+14.32273972	42.18145771	-6.1331053	Shallow Abruzzo Citeriore Basal Thrust
+14.40647282	42.12338328	-5.1974753	Shallow Abruzzo Citeriore Basal Thrust
+14.22370678	42.27669771	-2.9999916	Shallow Abruzzo Citeriore Basal Thrust
+14.30501499	42.20620883	-5.3556641	Shallow Abruzzo Citeriore Basal Thrust
+14.41184498	42.10466651	-5.8036114	Shallow Abruzzo Citeriore Basal Thrust
+14.24582428	42.24361717	-4.6294906	Shallow Abruzzo Citeriore Basal Thrust
+14.34172871	42.21194246	-3.84375	Shallow Abruzzo Citeriore Basal Thrust
+14.36032058	42.19701865	-3.8742192	Shallow Abruzzo Citeriore Basal Thrust
+14.15049148	42.26071055	-5.675	Shallow Abruzzo Citeriore Basal Thrust
+14.14148153	42.24963887	-6.6352239	Shallow Abruzzo Citeriore Basal Thrust
+14.2182466	42.2142279	-7.2381595	Shallow Abruzzo Citeriore Basal Thrust
+14.4351706	42.09164059	-5.3550783	Shallow Abruzzo Citeriore Basal Thrust
+14.16253724	42.27060852	-4.7373458	Shallow Abruzzo Citeriore Basal Thrust
+14.30625328	42.16542701	-7.5894835	Shallow Abruzzo Citeriore Basal Thrust
+14.32460468	42.14743883	-7.7800592	Shallow Abruzzo Citeriore Basal Thrust
+14.33796267	42.19890955	-4.6542928	Shallow Abruzzo Citeriore Basal Thrust
+14.1351544	42.24953894	-6.7464824	Shallow Abruzzo Citeriore Basal Thrust
+14.3073434	42.22983582	-3.8862629	Shallow Abruzzo Citeriore Basal Thrust
+14.38826857	42.13864201	-5.3159147	Shallow Abruzzo Citeriore Basal Thrust
+14.3906072	42.08088321	-7.8197264	Shallow Abruzzo Citeriore Basal Thrust
+14.45374993	42.12555853	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.37293067	42.11807521	-6.92551	Shallow Abruzzo Citeriore Basal Thrust
+14.1368154	42.23563646	-7.7049806	Shallow Abruzzo Citeriore Basal Thrust
+14.34841612	42.131073	-7.4875001	Shallow Abruzzo Citeriore Basal Thrust
+14.25285266	42.18799345	-8.0000072	Shallow Abruzzo Citeriore Basal Thrust
+14.414275	42.15137219	-3.5872386	Shallow Abruzzo Citeriore Basal Thrust
+14.4341287	42.08571146	-5.6687501	Shallow Abruzzo Citeriore Basal Thrust
+14.40297654	42.10212571	-6.3121008	Shallow Abruzzo Citeriore Basal Thrust
+14.12975928	42.23351827	-7.9999384	Shallow Abruzzo Citeriore Basal Thrust
+14.43177793	42.11648972	-4.3849609	Shallow Abruzzo Citeriore Basal Thrust
+14.33192042	42.17733802	-5.9818358	Shallow Abruzzo Citeriore Basal Thrust
+14.15572788	42.26865337	-4.9929685	Shallow Abruzzo Citeriore Basal Thrust
+14.29754871	42.23143512	-4.0482433	Shallow Abruzzo Citeriore Basal Thrust
+14.16593032	42.22221604	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.21953242	42.20214531	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.36920698	42.20285781	-3.2308593	Shallow Abruzzo Citeriore Basal Thrust
+14.19012165	42.2713073	-4.1098514	Shallow Abruzzo Citeriore Basal Thrust
+14.15464949	42.29487193	-3.0000004	Shallow Abruzzo Citeriore Basal Thrust
+14.11310052	42.24533783	-7.3787111	Shallow Abruzzo Citeriore Basal Thrust
+14.37945483	42.0908573	-7.8650529	Shallow Abruzzo Citeriore Basal Thrust
+14.27071985	42.25186987	-3.4751949	Shallow Abruzzo Citeriore Basal Thrust
+14.25752211	42.2417916	-4.4617341	Shallow Abruzzo Citeriore Basal Thrust
+14.30247436	42.17406341	-7.296875	Shallow Abruzzo Citeriore Basal Thrust
+14.40609798	42.07409303	-7.4378907	Shallow Abruzzo Citeriore Basal Thrust
+14.34955565	42.21024884	-3.626757	Shallow Abruzzo Citeriore Basal Thrust
+14.44049703	42.13511186	-3.1576173	Shallow Abruzzo Citeriore Basal Thrust
+14.350328	42.22023556	-3.0875001	Shallow Abruzzo Citeriore Basal Thrust
+14.0964147	42.24029125	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.24174714	42.25127801	-4.2264641	Shallow Abruzzo Citeriore Basal Thrust
+14.33320133	42.20371698	-4.5937501	Shallow Abruzzo Citeriore Basal Thrust
+14.34514905	42.20428381	-4.1009961	Shallow Abruzzo Citeriore Basal Thrust
+14.42140242	42.14396688	-3.6054703	Shallow Abruzzo Citeriore Basal Thrust
+14.12201579	42.26536574	-5.7195308	Shallow Abruzzo Citeriore Basal Thrust
+14.35211528	42.22065835	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.32453284	42.21548815	-4.1914064	Shallow Abruzzo Citeriore Basal Thrust
+14.24518775	42.22779804	-5.684778	Shallow Abruzzo Citeriore Basal Thrust
+14.41522462	42.15892238	-3.2041508	Shallow Abruzzo Citeriore Basal Thrust
+14.19414638	42.24946376	-5.5163527	Shallow Abruzzo Citeriore Basal Thrust
+14.12753563	42.25121184	-6.7256837	Shallow Abruzzo Citeriore Basal Thrust
+14.22419778	42.21032085	-7.348423	Shallow Abruzzo Citeriore Basal Thrust
+14.38572435	42.10661799	-6.8751957	Shallow Abruzzo Citeriore Basal Thrust
+14.37701114	42.18917236	-3.6172706	Shallow Abruzzo Citeriore Basal Thrust
+14.36845137	42.125546	-6.7873934	Shallow Abruzzo Citeriore Basal Thrust
+14.26461167	42.19646598	-7.1475568	Shallow Abruzzo Citeriore Basal Thrust
+14.33100245	42.20869314	-4.3765624	Shallow Abruzzo Citeriore Basal Thrust
+14.20919152	42.23513738	-6.0873919	Shallow Abruzzo Citeriore Basal Thrust
+14.39233901	42.14289888	-4.9431071	Shallow Abruzzo Citeriore Basal Thrust
+14.32059302	42.14619727	-7.9999799	Shallow Abruzzo Citeriore Basal Thrust
+14.24499057	42.26873067	-2.9999803	Shallow Abruzzo Citeriore Basal Thrust
+14.36894145	42.18143875	-4.3243743	Shallow Abruzzo Citeriore Basal Thrust
+14.41002233	42.16473156	-3.1720348	Shallow Abruzzo Citeriore Basal Thrust
+14.35328036	42.15961681	-6.0406412	Shallow Abruzzo Citeriore Basal Thrust
+14.28165022	42.20294235	-6.2796085	Shallow Abruzzo Citeriore Basal Thrust
+14.38724245	42.08667747	-7.7078182	Shallow Abruzzo Citeriore Basal Thrust
+14.3826167	42.1393786	-5.5343654	Shallow Abruzzo Citeriore Basal Thrust
+14.33889449	42.1457291	-7.3062477	Shallow Abruzzo Citeriore Basal Thrust
+14.37591343	42.16262345	-4.8545897	Shallow Abruzzo Citeriore Basal Thrust
+14.42603028	42.12041644	-4.4630807	Shallow Abruzzo Citeriore Basal Thrust
+14.38484907	42.18314804	-3.5600581	Shallow Abruzzo Citeriore Basal Thrust
+14.36764137	42.19510589	-3.6841736	Shallow Abruzzo Citeriore Basal Thrust
+14.23780196	42.21631738	-6.6117463	Shallow Abruzzo Citeriore Basal Thrust
+14.28388811	42.17717881	-7.7141603	Shallow Abruzzo Citeriore Basal Thrust
+14.42363769	42.15105151	-3.1863282	Shallow Abruzzo Citeriore Basal Thrust
+14.20301265	42.2685342	-4.0321713	Shallow Abruzzo Citeriore Basal Thrust
+14.41912198	42.13198561	-4.2477587	Shallow Abruzzo Citeriore Basal Thrust
+14.29448361	42.16634812	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.37749305	42.12933142	-6.2145981	Shallow Abruzzo Citeriore Basal Thrust
+14.34351586	42.21236532	-3.7562474	Shallow Abruzzo Citeriore Basal Thrust
+14.29704057	42.1688171	-7.7750001	Shallow Abruzzo Citeriore Basal Thrust
+14.10509079	42.24988149	-7.1435548	Shallow Abruzzo Citeriore Basal Thrust
+14.1350489	42.24579843	-7.0343589	Shallow Abruzzo Citeriore Basal Thrust
+14.39161983	42.10220088	-6.8130594	Shallow Abruzzo Citeriore Basal Thrust
+14.17543201	42.28353515	-3.5687808	Shallow Abruzzo Citeriore Basal Thrust
+14.34921707	42.1647006	-5.9433421	Shallow Abruzzo Citeriore Basal Thrust
+14.4459947	42.09716761	-4.625	Shallow Abruzzo Citeriore Basal Thrust
+14.34204825	42.12953523	-7.8507814	Shallow Abruzzo Citeriore Basal Thrust
+14.15841907	42.23223387	-7.4880558	Shallow Abruzzo Citeriore Basal Thrust
+14.31822443	42.23509945	-3.2593641	Shallow Abruzzo Citeriore Basal Thrust
+14.24423829	42.21006868	-6.8342662	Shallow Abruzzo Citeriore Basal Thrust
+14.33751111	42.20657352	-4.2844138	Shallow Abruzzo Citeriore Basal Thrust
+14.21086204	42.22115721	-6.964649	Shallow Abruzzo Citeriore Basal Thrust
+14.42566023	42.15319017	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.34427512	42.22120037	-3.2262694	Shallow Abruzzo Citeriore Basal Thrust
+14.16470108	42.29302353	-2.9999996	Shallow Abruzzo Citeriore Basal Thrust
+14.2625668	42.21491429	-6.0347637	Shallow Abruzzo Citeriore Basal Thrust
+14.196408	42.28538847	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.13326823	42.2612539	-5.8759762	Shallow Abruzzo Citeriore Basal Thrust
+14.33100995	42.13811554	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.25612786	42.2645622	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.36452251	42.10499979	-7.8890626	Shallow Abruzzo Citeriore Basal Thrust
+14.26137613	42.24797166	-3.9609547	Shallow Abruzzo Citeriore Basal Thrust
+14.33953321	42.22774558	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.41089672	42.12729287	-4.8246085	Shallow Abruzzo Citeriore Basal Thrust
+14.17085085	42.27911449	-3.9718789	Shallow Abruzzo Citeriore Basal Thrust
+14.25627505	42.23215459	-5.1124013	Shallow Abruzzo Citeriore Basal Thrust
+14.22802478	42.20274736	-7.7335433	Shallow Abruzzo Citeriore Basal Thrust
+14.20957473	42.2101461	-7.7195343	Shallow Abruzzo Citeriore Basal Thrust
+14.21684049	42.24881535	-5.0007815	Shallow Abruzzo Citeriore Basal Thrust
+14.20408756	42.25316811	-5.0284713	Shallow Abruzzo Citeriore Basal Thrust
+14.12848601	42.23661395	-7.8122245	Shallow Abruzzo Citeriore Basal Thrust
+14.34787769	42.22310944	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.25455478	42.20976624	-6.5760747	Shallow Abruzzo Citeriore Basal Thrust
+14.1572447	42.26464168	-5.2627143	Shallow Abruzzo Citeriore Basal Thrust
+14.40606603	42.16307533	-3.4258649	Shallow Abruzzo Citeriore Basal Thrust
+14.39220437	42.14741332	-4.7446624	Shallow Abruzzo Citeriore Basal Thrust
+14.14754805	42.2459162	-6.7660682	Shallow Abruzzo Citeriore Basal Thrust
+14.34952115	42.21815684	-3.2281251	Shallow Abruzzo Citeriore Basal Thrust
+14.26450311	42.23656865	-4.6117186	Shallow Abruzzo Citeriore Basal Thrust
+14.15528002	42.24717574	-6.5165039	Shallow Abruzzo Citeriore Basal Thrust
+14.15436117	42.26444661	-5.3343416	Shallow Abruzzo Citeriore Basal Thrust
+14.27164464	42.18484951	-7.6639647	Shallow Abruzzo Citeriore Basal Thrust
+14.19305659	42.2425533	-5.9970706	Shallow Abruzzo Citeriore Basal Thrust
+14.41530222	42.10914256	-5.4481445	Shallow Abruzzo Citeriore Basal Thrust
+14.40406987	42.11100863	-5.8628338	Shallow Abruzzo Citeriore Basal Thrust
+14.46262409	42.11321695	-3.1624996	Shallow Abruzzo Citeriore Basal Thrust
+14.35658861	42.13287912	-7.0284166	Shallow Abruzzo Citeriore Basal Thrust
+14.36349349	42.20639674	-3.2756837	Shallow Abruzzo Citeriore Basal Thrust
+14.39431459	42.18590474	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.29994379	42.18674772	-6.6445313	Shallow Abruzzo Citeriore Basal Thrust
+14.43530598	42.10458973	-4.7650388	Shallow Abruzzo Citeriore Basal Thrust
+14.37077931	42.20620508	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.24456689	42.19151333	-7.9999994	Shallow Abruzzo Citeriore Basal Thrust
+14.35539038	42.11949953	-7.6559645	Shallow Abruzzo Citeriore Basal Thrust
+14.33576966	42.13678191	-7.8345712	Shallow Abruzzo Citeriore Basal Thrust
+14.23825531	42.22054447	-6.3315241	Shallow Abruzzo Citeriore Basal Thrust
+14.20085746	42.22824764	-6.7449128	Shallow Abruzzo Citeriore Basal Thrust
+14.33795721	42.21623254	-3.7167969	Shallow Abruzzo Citeriore Basal Thrust
+14.19719833	42.25908115	-4.8093388	Shallow Abruzzo Citeriore Basal Thrust
+14.18544452	42.24773627	-5.8437319	Shallow Abruzzo Citeriore Basal Thrust
+14.38246006	42.15884393	-4.710156	Shallow Abruzzo Citeriore Basal Thrust
+14.12654186	42.26953218	-5.3367189	Shallow Abruzzo Citeriore Basal Thrust
+14.41070702	42.09181664	-6.4337889	Shallow Abruzzo Citeriore Basal Thrust
+14.17447562	42.27315763	-4.3095549	Shallow Abruzzo Citeriore Basal Thrust
+14.18175181	42.24417136	-6.1687389	Shallow Abruzzo Citeriore Basal Thrust
+14.15840326	42.23935885	-6.9937493	Shallow Abruzzo Citeriore Basal Thrust
+14.40480886	42.06289829	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.4191475	42.09677681	-5.8351565	Shallow Abruzzo Citeriore Basal Thrust
+14.40099579	42.16028468	-3.7824276	Shallow Abruzzo Citeriore Basal Thrust
+14.23792872	42.23875967	-5.1427714	Shallow Abruzzo Citeriore Basal Thrust
+14.40815187	42.15908314	-3.5104135	Shallow Abruzzo Citeriore Basal Thrust
+14.17970138	42.28443965	-3.4165111	Shallow Abruzzo Citeriore Basal Thrust
+14.31029905	42.18031542	-6.678125	Shallow Abruzzo Citeriore Basal Thrust
+14.36305345	42.21218862	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.29730526	42.17472806	-7.4246095	Shallow Abruzzo Citeriore Basal Thrust
+14.17587578	42.23849799	-6.6859337	Shallow Abruzzo Citeriore Basal Thrust
+14.22233364	42.20095588	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.24250738	42.2243269	-5.9781447	Shallow Abruzzo Citeriore Basal Thrust
+14.19072127	42.21293393	-7.9999945	Shallow Abruzzo Citeriore Basal Thrust
+14.18676598	42.23781854	-6.4627925	Shallow Abruzzo Citeriore Basal Thrust
+14.37445913	42.15365871	-5.3055666	Shallow Abruzzo Citeriore Basal Thrust
+14.17997115	42.28854382	-3.1259996	Shallow Abruzzo Citeriore Basal Thrust
+14.20408212	42.25962334	-4.6044929	Shallow Abruzzo Citeriore Basal Thrust
+14.32273164	42.19231434	-5.584375	Shallow Abruzzo Citeriore Basal Thrust
+14.41143267	42.16718304	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.32831818	42.14021154	-8.0001644	Shallow Abruzzo Citeriore Basal Thrust
+14.20554728	42.24241139	-5.6992189	Shallow Abruzzo Citeriore Basal Thrust
+14.24007103	42.26637197	-3.2759745	Shallow Abruzzo Citeriore Basal Thrust
+14.23818835	42.22868266	-5.7983414	Shallow Abruzzo Citeriore Basal Thrust
+14.20146947	42.21897005	-7.3392542	Shallow Abruzzo Citeriore Basal Thrust
+14.4177624	42.13870325	-4.0046852	Shallow Abruzzo Citeriore Basal Thrust
+14.16805454	42.27373393	-4.4044492	Shallow Abruzzo Citeriore Basal Thrust
+14.37977127	42.11325061	-6.8398438	Shallow Abruzzo Citeriore Basal Thrust
+14.43087109	42.13163885	-3.7417979	Shallow Abruzzo Citeriore Basal Thrust
+14.38595448	42.0936084	-7.4523687	Shallow Abruzzo Citeriore Basal Thrust
+14.38434981	42.08304822	-8.0000023	Shallow Abruzzo Citeriore Basal Thrust
+14.17648267	42.23352113	-6.9979498	Shallow Abruzzo Citeriore Basal Thrust
+14.23036754	42.21309023	-7.0151644	Shallow Abruzzo Citeriore Basal Thrust
+14.21747836	42.23359169	-5.9851544	Shallow Abruzzo Citeriore Basal Thrust
+14.30191655	42.21936984	-4.6937589	Shallow Abruzzo Citeriore Basal Thrust
+14.36792707	42.09919777	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.22343237	42.2254163	-6.3757812	Shallow Abruzzo Citeriore Basal Thrust
+14.39447897	42.08868369	-7.2958962	Shallow Abruzzo Citeriore Basal Thrust
+14.26927397	42.22197525	-5.4074219	Shallow Abruzzo Citeriore Basal Thrust
+14.41547483	42.08680516	-6.4480469	Shallow Abruzzo Citeriore Basal Thrust
+14.2952758	42.16581129	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.17280833	42.24777317	-6.1072802	Shallow Abruzzo Citeriore Basal Thrust
+14.28495364	42.22175745	-4.9996117	Shallow Abruzzo Citeriore Basal Thrust
+14.36226824	42.16829084	-5.2499857	Shallow Abruzzo Citeriore Basal Thrust
+14.27635919	42.25698718	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.36163492	42.12673404	-7.0550552	Shallow Abruzzo Citeriore Basal Thrust
+14.29450667	42.21418852	-5.2219512	Shallow Abruzzo Citeriore Basal Thrust
+14.13934902	42.23062197	-8.0000057	Shallow Abruzzo Citeriore Basal Thrust
+14.45032199	42.12174512	-3.3242679	Shallow Abruzzo Citeriore Basal Thrust
+14.1979246	42.21023741	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.34674783	42.14669877	-6.8978516	Shallow Abruzzo Citeriore Basal Thrust
+14.23480092	42.21688805	-6.6562527	Shallow Abruzzo Citeriore Basal Thrust
+14.16420413	42.22481283	-7.8718749	Shallow Abruzzo Citeriore Basal Thrust
+14.36780073	42.14780971	-5.8666018	Shallow Abruzzo Citeriore Basal Thrust
+14.25558951	42.2627067	-3.1351564	Shallow Abruzzo Citeriore Basal Thrust
+14.11308636	42.24988841	-7.0304688	Shallow Abruzzo Citeriore Basal Thrust
+14.43683429	42.11052823	-4.429297	Shallow Abruzzo Citeriore Basal Thrust
+14.319062	42.19007438	-5.8375	Shallow Abruzzo Citeriore Basal Thrust
+14.27152449	42.23051034	-4.8065433	Shallow Abruzzo Citeriore Basal Thrust
+14.34797057	42.15954502	-6.2528291	Shallow Abruzzo Citeriore Basal Thrust
+14.26096365	42.18454821	-8.0001796	Shallow Abruzzo Citeriore Basal Thrust
+14.14759163	42.2901421	-3.4617186	Shallow Abruzzo Citeriore Basal Thrust
+14.31919828	42.23879622	-3.0000553	Shallow Abruzzo Citeriore Basal Thrust
+14.33320218	42.13571809	-7.9999996	Shallow Abruzzo Citeriore Basal Thrust
+14.4419914	42.1056316	-4.4210938	Shallow Abruzzo Citeriore Basal Thrust
+14.30454515	42.17476099	-7.184375	Shallow Abruzzo Citeriore Basal Thrust
+14.41350134	42.07291146	-7.1623044	Shallow Abruzzo Citeriore Basal Thrust
+14.19410566	42.2604225	-4.7823838	Shallow Abruzzo Citeriore Basal Thrust
+14.16102097	42.26166074	-5.3902382	Shallow Abruzzo Citeriore Basal Thrust
+14.2890072	42.20920618	-5.6852508	Shallow Abruzzo Citeriore Basal Thrust
+14.152465	42.25210509	-6.233236	Shallow Abruzzo Citeriore Basal Thrust
+14.32717229	42.19659919	-5.1937499	Shallow Abruzzo Citeriore Basal Thrust
+14.21781297	42.2406295	-5.5145887	Shallow Abruzzo Citeriore Basal Thrust
+14.38277665	42.13633884	-5.6634905	Shallow Abruzzo Citeriore Basal Thrust
+14.32591186	42.23531201	-3.0000021	Shallow Abruzzo Citeriore Basal Thrust
+14.37483616	42.1845223	-3.9375889	Shallow Abruzzo Citeriore Basal Thrust
+14.16630484	42.23786605	-6.9316332	Shallow Abruzzo Citeriore Basal Thrust
+14.29935725	42.23685839	-3.6562499	Shallow Abruzzo Citeriore Basal Thrust
+14.31521314	42.17998264	-6.5024902	Shallow Abruzzo Citeriore Basal Thrust
+14.36637418	42.16738934	-5.0966806	Shallow Abruzzo Citeriore Basal Thrust
+14.1706263	42.22829033	-7.485547	Shallow Abruzzo Citeriore Basal Thrust
+14.13774239	42.2802235	-4.3601564	Shallow Abruzzo Citeriore Basal Thrust
+14.2541212	42.23553512	-4.9562484	Shallow Abruzzo Citeriore Basal Thrust
+14.39461636	42.17111194	-3.6179688	Shallow Abruzzo Citeriore Basal Thrust
+14.33121523	42.15171605	-7.3048668	Shallow Abruzzo Citeriore Basal Thrust
+14.22767183	42.25319914	-4.4463761	Shallow Abruzzo Citeriore Basal Thrust
+14.41377288	42.16486521	-2.9998851	Shallow Abruzzo Citeriore Basal Thrust
+14.40191283	42.0926606	-6.7863285	Shallow Abruzzo Citeriore Basal Thrust
+14.28666815	42.19480108	-6.6053717	Shallow Abruzzo Citeriore Basal Thrust
+14.31832797	42.15093516	-7.8492189	Shallow Abruzzo Citeriore Basal Thrust
+14.38292989	42.18822389	-3.4328063	Shallow Abruzzo Citeriore Basal Thrust
+14.39076891	42.15472025	-4.4980477	Shallow Abruzzo Citeriore Basal Thrust
+14.33819114	42.13026155	-7.9999999	Shallow Abruzzo Citeriore Basal Thrust
+14.32033296	42.22770469	-3.6195323	Shallow Abruzzo Citeriore Basal Thrust
+14.37817868	42.17728725	-4.1221675	Shallow Abruzzo Citeriore Basal Thrust
+14.17228566	42.2226826	-7.8130861	Shallow Abruzzo Citeriore Basal Thrust
+14.1609478	42.22408113	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.24370646	42.23440519	-5.2866912	Shallow Abruzzo Citeriore Basal Thrust
+14.1441052	42.23127817	-7.8546886	Shallow Abruzzo Citeriore Basal Thrust
+14.19709168	42.28260617	-3.1789086	Shallow Abruzzo Citeriore Basal Thrust
+14.35754357	42.18493255	-4.5941391	Shallow Abruzzo Citeriore Basal Thrust
+14.37488058	42.19851411	-3.228275	Shallow Abruzzo Citeriore Basal Thrust
+14.14266419	42.2408615	-7.2195286	Shallow Abruzzo Citeriore Basal Thrust
+14.38898894	42.11278611	-6.451807	Shallow Abruzzo Citeriore Basal Thrust
+14.30876095	42.18013222	-6.74375	Shallow Abruzzo Citeriore Basal Thrust
+14.18775041	42.28800304	-2.9999679	Shallow Abruzzo Citeriore Basal Thrust
+14.40887026	42.11434437	-5.4991719	Shallow Abruzzo Citeriore Basal Thrust
+14.14154506	42.25207222	-6.4624966	Shallow Abruzzo Citeriore Basal Thrust
+14.27417569	42.23922322	-4.18359	Shallow Abruzzo Citeriore Basal Thrust
+14.17355395	42.21936201	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.18189561	42.28977123	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.30745878	42.22471632	-4.2062719	Shallow Abruzzo Citeriore Basal Thrust
+14.39418248	42.1659704	-3.85791	Shallow Abruzzo Citeriore Basal Thrust
+14.32817715	42.16088517	-6.9603514	Shallow Abruzzo Citeriore Basal Thrust
+14.14703588	42.25999954	-5.7781248	Shallow Abruzzo Citeriore Basal Thrust
+14.43378764	42.13783914	-3.3325692	Shallow Abruzzo Citeriore Basal Thrust
+14.23544379	42.20612717	-7.3201996	Shallow Abruzzo Citeriore Basal Thrust
+14.40425337	42.17503595	-3.0000006	Shallow Abruzzo Citeriore Basal Thrust
+14.21309218	42.25554325	-4.6509769	Shallow Abruzzo Citeriore Basal Thrust
+14.36182377	42.17652201	-4.8518881	Shallow Abruzzo Citeriore Basal Thrust
+14.35835802	42.16170669	-5.7140624	Shallow Abruzzo Citeriore Basal Thrust
+14.27955538	42.2186698	-5.3402383	Shallow Abruzzo Citeriore Basal Thrust
+14.34018209	42.14158761	-7.4230474	Shallow Abruzzo Citeriore Basal Thrust
+14.39570529	42.07641261	-7.7949222	Shallow Abruzzo Citeriore Basal Thrust
+14.39757787	42.07002121	-7.9999999	Shallow Abruzzo Citeriore Basal Thrust
+14.28929426	42.18643106	-7.0051758	Shallow Abruzzo Citeriore Basal Thrust
+14.11884333	42.25617828	-6.4677733	Shallow Abruzzo Citeriore Basal Thrust
+14.37650353	42.20177114	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.16784486	42.24252321	-6.5759462	Shallow Abruzzo Citeriore Basal Thrust
+14.22088822	42.25961849	-4.1915046	Shallow Abruzzo Citeriore Basal Thrust
+14.31160077	42.20056133	-5.4707032	Shallow Abruzzo Citeriore Basal Thrust
+14.26433856	42.1830999	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.30641745	42.24422464	-3.0000004	Shallow Abruzzo Citeriore Basal Thrust
+14.32314239	42.2029647	-4.9606445	Shallow Abruzzo Citeriore Basal Thrust
+14.274867	42.2555481	-3.1312491	Shallow Abruzzo Citeriore Basal Thrust
+14.28171758	42.18378885	-7.4015625	Shallow Abruzzo Citeriore Basal Thrust
+14.20693731	42.21511529	-7.4580078	Shallow Abruzzo Citeriore Basal Thrust
+14.31288571	42.2073724	-5.0353516	Shallow Abruzzo Citeriore Basal Thrust
+14.35542012	42.21809952	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.24807555	42.21544097	-6.3910082	Shallow Abruzzo Citeriore Basal Thrust
+14.35718529	42.1656554	-5.5828473	Shallow Abruzzo Citeriore Basal Thrust
+14.22193887	42.27207957	-3.3469005	Shallow Abruzzo Citeriore Basal Thrust
+14.43730067	42.14175148	-3.0000651	Shallow Abruzzo Citeriore Basal Thrust
+14.13004399	42.24096416	-7.4749757	Shallow Abruzzo Citeriore Basal Thrust
+14.33492917	42.20295148	-4.5689998	Shallow Abruzzo Citeriore Basal Thrust
+14.39233475	42.09711838	-7.0106738	Shallow Abruzzo Citeriore Basal Thrust
+14.22270162	42.22046842	-6.7187505	Shallow Abruzzo Citeriore Basal Thrust
+14.17974612	42.25251862	-5.6322439	Shallow Abruzzo Citeriore Basal Thrust
+14.1978986	42.27609137	-3.6144546	Shallow Abruzzo Citeriore Basal Thrust
+14.34012456	42.17912119	-5.5703124	Shallow Abruzzo Citeriore Basal Thrust
+14.23360006	42.25572311	-4.1347532	Shallow Abruzzo Citeriore Basal Thrust
+14.34420011	42.1236884	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.39270459	42.13185302	-5.4259023	Shallow Abruzzo Citeriore Basal Thrust
+14.40494438	42.08382103	-7.0503907	Shallow Abruzzo Citeriore Basal Thrust
+14.44483684	42.13433341	-2.9999874	Shallow Abruzzo Citeriore Basal Thrust
+14.35846694	42.16462256	-5.5843845	Shallow Abruzzo Citeriore Basal Thrust
+14.32100809	42.15771689	-7.4013711	Shallow Abruzzo Citeriore Basal Thrust
+14.38638528	42.16327317	-4.3375	Shallow Abruzzo Citeriore Basal Thrust
+14.43307507	42.09925629	-5.1046878	Shallow Abruzzo Citeriore Basal Thrust
+14.19976185	42.23689442	-6.2039066	Shallow Abruzzo Citeriore Basal Thrust
+14.41554094	42.11670284	-5.0965273	Shallow Abruzzo Citeriore Basal Thrust
+14.36279597	42.12024208	-7.2781353	Shallow Abruzzo Citeriore Basal Thrust
+14.46447199	42.115	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.31522685	42.22344602	-4.0300778	Shallow Abruzzo Citeriore Basal Thrust
+14.16573517	42.28125552	-3.886816	Shallow Abruzzo Citeriore Basal Thrust
+14.2345087	42.26252371	-3.6656163	Shallow Abruzzo Citeriore Basal Thrust
+14.1703753	42.25760341	-5.4757809	Shallow Abruzzo Citeriore Basal Thrust
+14.36657513	42.12097288	-7.0764769	Shallow Abruzzo Citeriore Basal Thrust
+14.39054379	42.11931056	-6.0881829	Shallow Abruzzo Citeriore Basal Thrust
+14.16599778	42.23306447	-7.2716011	Shallow Abruzzo Citeriore Basal Thrust
+14.3177939	42.18754929	-6.01875	Shallow Abruzzo Citeriore Basal Thrust
+14.2711167	42.24764415	-3.7326598	Shallow Abruzzo Citeriore Basal Thrust
+14.43017647	42.11104367	-4.7017579	Shallow Abruzzo Citeriore Basal Thrust
+14.1056834	42.24054636	-7.8500001	Shallow Abruzzo Citeriore Basal Thrust
+14.24879361	42.23039392	-5.4250155	Shallow Abruzzo Citeriore Basal Thrust
+14.33284563	42.18736458	-5.4385743	Shallow Abruzzo Citeriore Basal Thrust
+14.32198257	42.23463231	-3.1656259	Shallow Abruzzo Citeriore Basal Thrust
+14.39742745	42.14809109	-4.4827422	Shallow Abruzzo Citeriore Basal Thrust
+14.31456065	42.23547914	-3.334912	Shallow Abruzzo Citeriore Basal Thrust
+14.36600054	42.13514212	-6.4918973	Shallow Abruzzo Citeriore Basal Thrust
+14.41736668	42.12398753	-4.6867506	Shallow Abruzzo Citeriore Basal Thrust
+14.29111423	42.23506184	-3.9916504	Shallow Abruzzo Citeriore Basal Thrust
+14.32971862	42.1829909	-5.7822267	Shallow Abruzzo Citeriore Basal Thrust
+14.42721946	42.07903934	-6.2765628	Shallow Abruzzo Citeriore Basal Thrust
+14.16018009	42.25712051	-5.7230914	Shallow Abruzzo Citeriore Basal Thrust
+14.26748574	42.25262911	-3.5047096	Shallow Abruzzo Citeriore Basal Thrust
+14.35932589	42.21124439	-3.1937501	Shallow Abruzzo Citeriore Basal Thrust
+14.38080751	42.14341218	-5.4466294	Shallow Abruzzo Citeriore Basal Thrust
+14.32166014	42.17395312	-6.5548827	Shallow Abruzzo Citeriore Basal Thrust
+14.15011229	42.2370287	-7.3294503	Shallow Abruzzo Citeriore Basal Thrust
+14.34033302	42.19022257	-5.0007813	Shallow Abruzzo Citeriore Basal Thrust
+14.40983341	42.0622449	-7.8062499	Shallow Abruzzo Citeriore Basal Thrust
+14.13228495	42.27506531	-4.8320801	Shallow Abruzzo Citeriore Basal Thrust
+14.31778059	42.21259613	-4.5757811	Shallow Abruzzo Citeriore Basal Thrust
+14.41191678	42.08212908	-6.8169922	Shallow Abruzzo Citeriore Basal Thrust
+14.20767519	42.26919118	-3.8875339	Shallow Abruzzo Citeriore Basal Thrust
+14.39099448	42.07650507	-8.0000004	Shallow Abruzzo Citeriore Basal Thrust
+14.31351976	42.15167831	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.30292051	42.21279287	-5.0420412	Shallow Abruzzo Citeriore Basal Thrust
+14.37781063	42.13391438	-5.9930905	Shallow Abruzzo Citeriore Basal Thrust
+14.45054259	42.10155751	-4.2250002	Shallow Abruzzo Citeriore Basal Thrust
+14.32457367	42.18992239	-5.6332033	Shallow Abruzzo Citeriore Basal Thrust
+14.34320008	42.15477303	-6.6809469	Shallow Abruzzo Citeriore Basal Thrust
+14.37900996	42.13651952	-5.8248015	Shallow Abruzzo Citeriore Basal Thrust
+14.17488298	42.29115072	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.17712299	42.28641403	-3.3312501	Shallow Abruzzo Citeriore Basal Thrust
+14.20560793	42.2073609	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.1916941	42.25376897	-5.2937531	Shallow Abruzzo Citeriore Basal Thrust
+14.39926525	42.1804912	-2.9999999	Shallow Abruzzo Citeriore Basal Thrust
+14.33510286	42.15820763	-6.8244158	Shallow Abruzzo Citeriore Basal Thrust
+14.33370911	42.14072201	-7.7624916	Shallow Abruzzo Citeriore Basal Thrust
+14.26979946	42.25716147	-3.1499938	Shallow Abruzzo Citeriore Basal Thrust
+14.17311285	42.2377744	-6.7953134	Shallow Abruzzo Citeriore Basal Thrust
+14.29805465	42.16712127	-7.8253136	Shallow Abruzzo Citeriore Basal Thrust
+14.28221101	42.17316919	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.40763542	42.16779815	-3.1511688	Shallow Abruzzo Citeriore Basal Thrust
+14.35780666	42.1547334	-6.0377916	Shallow Abruzzo Citeriore Basal Thrust
+14.34101155	42.16142138	-6.4304665	Shallow Abruzzo Citeriore Basal Thrust
+14.14981772	42.25741234	-5.9205112	Shallow Abruzzo Citeriore Basal Thrust
+14.35603993	42.11087692	-7.9999569	Shallow Abruzzo Citeriore Basal Thrust
+14.17123689	42.26252945	-5.1156245	Shallow Abruzzo Citeriore Basal Thrust
+14.42857086	42.09491015	-5.5007813	Shallow Abruzzo Citeriore Basal Thrust
+14.26265133	42.2042585	-6.7070302	Shallow Abruzzo Citeriore Basal Thrust
+14.25830829	42.25733187	-3.421432	Shallow Abruzzo Citeriore Basal Thrust
+14.21401136	42.20421453	-8.0000348	Shallow Abruzzo Citeriore Basal Thrust
+14.35459189	42.11231846	-8.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.36473607	42.14390669	-6.1765626	Shallow Abruzzo Citeriore Basal Thrust
+14.18088759	42.29004607	-3.0000001	Shallow Abruzzo Citeriore Basal Thrust
+14.29506869	42.19223534	-6.483789	Shallow Abruzzo Citeriore Basal Thrust
+14.3156719	42.17114855	-6.9312501	Shallow Abruzzo Citeriore Basal Thrust
+14.12621081	42.23726119	-7.8125001	Shallow Abruzzo Citeriore Basal Thrust
+14.3135957	42.24117579	-2.9999967	Shallow Abruzzo Citeriore Basal Thrust
+14.26704511	42.20809415	-6.3460946	Shallow Abruzzo Citeriore Basal Thrust
+14.15078958	42.28372574	-3.9081543	Shallow Abruzzo Citeriore Basal Thrust
+14.21612864	42.2773462	-3.1437496	Shallow Abruzzo Citeriore Basal Thrust
+14.2174063	42.20680934	-7.7461163	Shallow Abruzzo Citeriore Basal Thrust
+14.44102519	42.11609852	-3.9918944	Shallow Abruzzo Citeriore Basal Thrust
+16.81549099	41.635	0.0000008	Shallow Gondola Fault Zone
+16.69801251	41.64016419	-5.9367329	Shallow Gondola Fault Zone
+16.55494588	41.64009901	-0.0000022	Shallow Gondola Fault Zone
+16.6994384	41.64933961	-19.0063147	Shallow Gondola Fault Zone
+16.81553827	41.63555941	-0.7969553	Shallow Gondola Fault Zone
+16.2996043	41.67039717	-19.9238859	Shallow Gondola Fault Zone
+16.27911472	41.66240162	-6.1888596	Shallow Gondola Fault Zone
+16.25806489	41.67046484	-13.4859858	Shallow Gondola Fault Zone
+16.39238185	41.65728195	-11.8173588	Shallow Gondola Fault Zone
+16.30105572	41.66146249	-7.4473286	Shallow Gondola Fault Zone
+16.81566341	41.63704077	-2.9076447	Shallow Gondola Fault Zone
+16.28388754	41.6716808	-19.9240012	Shallow Gondola Fault Zone
+16.75083033	41.6403265	-6.7056357	Shallow Gondola Fault Zone
+16.71534051	41.64562516	-13.7108977	Shallow Gondola Fault Zone
+16.56708205	41.65376266	-19.9238977	Shallow Gondola Fault Zone
+16.2828525	41.66348329	-8.1921799	Shallow Gondola Fault Zone
+16.72621254	41.64855663	-17.8816433	Shallow Gondola Fault Zone
+16.36973209	41.65375559	-3.8260075	Shallow Gondola Fault Zone
+16.31867423	41.65516221	-0.5852649	Shallow Gondola Fault Zone
+16.72173024	41.6388585	-4.071946	Shallow Gondola Fault Zone
+16.39719296	41.66113314	-17.6949084	Shallow Gondola Fault Zone
+16.35265612	41.66163198	-13.0306787	Shallow Gondola Fault Zone
+16.38787008	41.65944067	-14.2798381	Shallow Gondola Fault Zone
+16.81581366	41.63881961	-5.4417136	Shallow Gondola Fault Zone
+16.53162326	41.64484682	-5.7779294	Shallow Gondola Fault Zone
+16.32817722	41.65908645	-7.2473164	Shallow Gondola Fault Zone
+16.35290446	41.65471444	-3.2469553	Shallow Gondola Fault Zone
+16.60590183	41.65262441	-19.9238908	Shallow Gondola Fault Zone
+16.33360065	41.66224039	-12.2002719	Shallow Gondola Fault Zone
+16.53254017	41.64346225	-3.8481911	Shallow Gondola Fault Zone
+16.74806573	41.63795037	-3.2590368	Shallow Gondola Fault Zone
+16.50383397	41.64389054	-2.3885324	Shallow Gondola Fault Zone
+16.59473914	41.64183312	-4.1186394	Shallow Gondola Fault Zone
+16.28335845	41.66166965	-5.684571	Shallow Gondola Fault Zone
+16.30832055	41.6556017	0.0000008	Shallow Gondola Fault Zone
+16.65586584	41.63750591	-0.5370119	Shallow Gondola Fault Zone
+16.3357723	41.6534974	0.0000008	Shallow Gondola Fault Zone
+16.37314161	41.662532	-16.6885935	Shallow Gondola Fault Zone
+16.69386321	41.64700705	-15.6418493	Shallow Gondola Fault Zone
+16.6859832	41.63623639	-0.0000129	Shallow Gondola Fault Zone
+16.81593843	41.64029672	-7.546175	Shallow Gondola Fault Zone
+16.71945674	41.64000034	-5.6985451	Shallow Gondola Fault Zone
+16.51353682	41.65382252	-17.286802	Shallow Gondola Fault Zone
+16.81602409	41.64131058	-8.9906572	Shallow Gondola Fault Zone
+16.38526399	41.66309129	-19.0958274	Shallow Gondola Fault Zone
+16.63034951	41.64749554	-13.6622692	Shallow Gondola Fault Zone
+16.54686882	41.65435404	-19.9238938	Shallow Gondola Fault Zone
+16.69451585	41.6500041	-19.9238938	Shallow Gondola Fault Zone
+16.68514588	41.65028156	-19.9238938	Shallow Gondola Fault Zone
+16.38682722	41.65652041	-10.0125492	Shallow Gondola Fault Zone
+16.49344648	41.64282209	-0.0000012	Shallow Gondola Fault Zone
+16.80161192	41.6447386	-13.874739	Shallow Gondola Fault Zone
+16.79298758	41.63500023	0.0000008	Shallow Gondola Fault Zone
+16.68491372	41.64971226	-19.1051457	Shallow Gondola Fault Zone
+16.81611415	41.64237688	-10.509854	Shallow Gondola Fault Zone
+16.5880551	41.64102251	-2.6873835	Shallow Gondola Fault Zone
+16.52415999	41.64099921	0.0000008	Shallow Gondola Fault Zone
+16.69501299	41.64953665	-19.2764484	Shallow Gondola Fault Zone
+16.36005668	41.6551127	-4.4579719	Shallow Gondola Fault Zone
+16.36865403	41.66524207	-19.9238938	Shallow Gondola Fault Zone
+16.81623304	41.64378402	-12.5146958	Shallow Gondola Fault Zone
+16.32589755	41.65413701	-0.0001369	Shallow Gondola Fault Zone
+16.49661424	41.656253	-19.3086701	Shallow Gondola Fault Zone
+16.29835839	41.66456003	-11.5169379	Shallow Gondola Fault Zone
+16.65232512	41.6429086	-8.0660648	Shallow Gondola Fault Zone
+16.45571789	41.6457262	-0.9398195	Shallow Gondola Fault Zone
+16.45730989	41.65742531	-17.6622815	Shallow Gondola Fault Zone
+16.47448414	41.6439485	0.0000017	Shallow Gondola Fault Zone
+16.81636152	41.64530476	-14.6814191	Shallow Gondola Fault Zone
+16.66332647	41.65031678	-19.0574797	Shallow Gondola Fault Zone
+16.53093912	41.6548196	-19.9238938	Shallow Gondola Fault Zone
+16.3035137	41.65676443	-1.0849152	Shallow Gondola Fault Zone
+16.5332721	41.65402704	-18.8942336	Shallow Gondola Fault Zone
+16.68232907	41.64748891	-15.8363825	Shallow Gondola Fault Zone
+16.4103079	41.65946436	-16.4683459	Shallow Gondola Fault Zone
+16.4734639	41.64602	-2.8508283	Shallow Gondola Fault Zone
+16.36087397	41.66511096	-18.7035549	Shallow Gondola Fault Zone
+16.49393062	41.64350558	-1.0098176	Shallow Gondola Fault Zone
+16.68954502	41.64352312	-10.5036278	Shallow Gondola Fault Zone
+16.35553002	41.65990517	-10.839053	Shallow Gondola Fault Zone
+16.38553374	41.65514015	-7.8890214	Shallow Gondola Fault Zone
+16.47079186	41.64473841	-0.8094094	Shallow Gondola Fault Zone
+16.59844733	41.63882568	0.0000047	Shallow Gondola Fault Zone
+16.8164959	41.64689539	-16.9477624	Shallow Gondola Fault Zone
+16.58460273	41.64938242	-14.425362	Shallow Gondola Fault Zone
+16.593436	41.65225917	-18.8820617	Shallow Gondola Fault Zone
+16.65804698	41.64153112	-6.349187	Shallow Gondola Fault Zone
+16.38532105	41.64957933	-0.0000256	Shallow Gondola Fault Zone
+16.27900829	41.6610911	-4.320989	Shallow Gondola Fault Zone
+16.39173525	41.64938952	-0.5728117	Shallow Gondola Fault Zone
+16.5541819	41.64059459	-0.6724338	Shallow Gondola Fault Zone
+16.60676766	41.63934571	-1.0888108	Shallow Gondola Fault Zone
+16.47555971	41.65598004	-17.1493405	Shallow Gondola Fault Zone
+16.53372965	41.64131837	-0.8506574	Shallow Gondola Fault Zone
+16.80894212	41.64033006	-7.5928681	Shallow Gondola Fault Zone
+16.78993358	41.64167836	-9.5230651	Shallow Gondola Fault Zone
+16.5916354	41.64636287	-10.4265734	Shallow Gondola Fault Zone
+16.4551211	41.6450989	-0.0000539	Shallow Gondola Fault Zone
+16.51678351	41.64399037	-3.6205471	Shallow Gondola Fault Zone
+16.81662883	41.64846852	-19.1892004	Shallow Gondola Fault Zone
+16.81667239	41.64898415	-19.9238938	Shallow Gondola Fault Zone
+16.36015816	41.65635368	-6.2262182	Shallow Gondola Fault Zone
+16.39251327	41.65888564	-14.1023811	Shallow Gondola Fault Zone
+16.32104554	41.66863063	-19.9238938	Shallow Gondola Fault Zone
+16.75032958	41.64264493	-9.9923019	Shallow Gondola Fault Zone
+16.80341727	41.6390492	-5.7678078	Shallow Gondola Fault Zone
+16.45214928	41.65663068	-16.0909299	Shallow Gondola Fault Zone
+16.26940528	41.65934053	0.0000008	Shallow Gondola Fault Zone
+16.42696691	41.65469019	-11.1476552	Shallow Gondola Fault Zone
+16.28428234	41.66999402	-17.5743103	Shallow Gondola Fault Zone
+16.62691498	41.6514676	-19.1635217	Shallow Gondola Fault Zone
+16.39196312	41.65216933	-4.5326814	Shallow Gondola Fault Zone
+16.62371804	41.63967204	-2.2651789	Shallow Gondola Fault Zone
+16.48566929	41.65306179	-13.8626745	Shallow Gondola Fault Zone
+16.30179611	41.662941	-9.6257224	Shallow Gondola Fault Zone
+16.46962686	41.65828757	-19.9239162	Shallow Gondola Fault Zone
+16.65049207	41.63908355	-2.5531403	Shallow Gondola Fault Zone
+16.62638927	41.642342	-6.1717424	Shallow Gondola Fault Zone
+16.73999791	41.64438017	-12.2119358	Shallow Gondola Fault Zone
+16.26451782	41.66879531	-12.3792761	Shallow Gondola Fault Zone
+16.28369221	41.66000263	-3.3637458	Shallow Gondola Fault Zone
+16.69367247	41.63993555	-5.5786843	Shallow Gondola Fault Zone
+16.39281513	41.66256943	-19.3510803	Shallow Gondola Fault Zone
+16.75062862	41.6415162	-8.3933292	Shallow Gondola Fault Zone
+16.71368977	41.64441008	-11.979619	Shallow Gondola Fault Zone
+16.54969316	41.6512944	-15.6927922	Shallow Gondola Fault Zone
+16.45643334	41.65859547	-19.245259	Shallow Gondola Fault Zone
+16.31596025	41.65979874	-6.8309404	Shallow Gondola Fault Zone
+16.30270412	41.65937616	-4.6863884	Shallow Gondola Fault Zone
+16.38513724	41.66369003	-19.9239006	Shallow Gondola Fault Zone
+16.32796411	41.65647318	-3.5240388	Shallow Gondola Fault Zone
+16.36937119	41.65108328	0.0000017	Shallow Gondola Fault Zone
+16.26967959	41.66959071	-14.4969675	Shallow Gondola Fault Zone
+16.3534033	41.66318092	-15.2931311	Shallow Gondola Fault Zone
+16.34022047	41.66083458	-10.7962617	Shallow Gondola Fault Zone
+16.39262749	41.66027967	-16.0885441	Shallow Gondola Fault Zone
+16.36904042	41.66443894	-18.8397541	Shallow Gondola Fault Zone
+16.39284804	41.66297138	-19.9238938	Shallow Gondola Fault Zone
+16.60285939	41.64266833	-5.6463991	Shallow Gondola Fault Zone
+16.36034957	41.6586962	-9.5634683	Shallow Gondola Fault Zone
+16.54876964	41.64207302	-2.5484699	Shallow Gondola Fault Zone
+16.35192568	41.65248563	0.0000203	Shallow Gondola Fault Zone
+16.53475269	41.64721879	-9.2790087	Shallow Gondola Fault Zone
+16.27975208	41.67024047	-17.358697	Shallow Gondola Fault Zone
+16.78428978	41.64190304	-9.7565041	Shallow Gondola Fault Zone
+16.32386107	41.66452093	-14.4354841	Shallow Gondola Fault Zone
+16.78562127	41.63502246	-0.0000774	Shallow Gondola Fault Zone
+16.3606668	41.6625766	-15.0923493	Shallow Gondola Fault Zone
+16.2984054	41.66843308	-17.0053557	Shallow Gondola Fault Zone
+16.25765221	41.66537858	-6.2386691	Shallow Gondola Fault Zone
+16.51659872	41.6424653	-1.4429279	Shallow Gondola Fault Zone
+16.36733727	41.65216166	-1.2536057	Shallow Gondola Fault Zone
+16.55339859	41.65370506	-19.2732561	Shallow Gondola Fault Zone
+16.71201308	41.64128788	-7.5321613	Shallow Gondola Fault Zone
+16.69379562	41.64140371	-7.6707006	Shallow Gondola Fault Zone
+16.78861803	41.63798863	-4.2618752	Shallow Gondola Fault Zone
+16.5801057	41.64804743	-12.3411384	Shallow Gondola Fault Zone
+16.51940132	41.64795865	-9.4669653	Shallow Gondola Fault Zone
+16.54913606	41.64436977	-5.8277404	Shallow Gondola Fault Zone
+16.52435447	41.64335048	-3.3497043	Shallow Gondola Fault Zone
+16.56795818	41.6474433	-10.9783795	Shallow Gondola Fault Zone
+16.73675741	41.63676135	-1.2958244	Shallow Gondola Fault Zone
+16.33629692	41.65972145	-8.8692458	Shallow Gondola Fault Zone
+16.27876196	41.65805787	0.0000008	Shallow Gondola Fault Zone
+16.26845003	41.65988457	-0.5821525	Shallow Gondola Fault Zone
+16.35235998	41.65841801	-8.4489648	Shallow Gondola Fault Zone
+16.26839229	41.66563544	-8.6746771	Shallow Gondola Fault Zone
+16.64211026	41.64571989	-11.6321297	Shallow Gondola Fault Zone
+16.27983764	41.67129887	-18.8654318	Shallow Gondola Fault Zone
+16.5677549	41.64954139	-13.9517858	Shallow Gondola Fault Zone
+16.61341047	41.64696295	-12.1936604	Shallow Gondola Fault Zone
+16.32877095	41.66636649	-17.6201936	Shallow Gondola Fault Zone
+16.33713795	41.65378949	-0.5354543	Shallow Gondola Fault Zone
+16.4226543	41.65050732	-4.8434167	Shallow Gondola Fault Zone
+16.49568784	41.64599661	-4.6891233	Shallow Gondola Fault Zone
+16.80867799	41.64632324	-16.1321281	Shallow Gondola Fault Zone
+16.77875714	41.64518028	-14.284905	Shallow Gondola Fault Zone
+16.41548545	41.65428509	-9.5759254	Shallow Gondola Fault Zone
+16.35591384	41.66557687	-18.9136809	Shallow Gondola Fault Zone
+16.3168127	41.6568922	-2.8165852	Shallow Gondola Fault Zone
+16.38869796	41.66055343	-15.9640358	Shallow Gondola Fault Zone
+16.51421071	41.64563859	-5.7405744	Shallow Gondola Fault Zone
+16.49206333	41.65695703	-19.9238967	Shallow Gondola Fault Zone
+16.78502411	41.64862604	-19.3386457	Shallow Gondola Fault Zone
+16.34841589	41.65715618	-6.3079143	Shallow Gondola Fault Zone
+16.3961058	41.65503194	-8.950965	Shallow Gondola Fault Zone
+16.3363899	41.65705891	-5.1047316	Shallow Gondola Fault Zone
+16.7648428	41.64336581	-11.364781	Shallow Gondola Fault Zone
+16.36077968	41.66395724	-17.0598357	Shallow Gondola Fault Zone
+16.53595457	41.65087194	-14.5210944	Shallow Gondola Fault Zone
+16.77222652	41.63939777	-5.9001311	Shallow Gondola Fault Zone
+16.27954668	41.66771517	-13.7599394	Shallow Gondola Fault Zone
+16.79439448	41.64612218	-15.8457224	Shallow Gondola Fault Zone
+16.43893521	41.65622069	-14.3560969	Shallow Gondola Fault Zone
+16.3917023	41.64898743	0.0000008	Shallow Gondola Fault Zone
+16.72239239	41.64216009	-8.7758538	Shallow Gondola Fault Zone
+16.25773517	41.6664011	-7.695604	Shallow Gondola Fault Zone
+16.26588804	41.66484728	-7.0803764	Shallow Gondola Fault Zone
+16.27080437	41.67328748	-19.9238938	Shallow Gondola Fault Zone
+16.66461283	41.6381115	-1.765134	Shallow Gondola Fault Zone
+16.80651191	41.64843466	-19.1393811	Shallow Gondola Fault Zone
+16.28991456	41.67057931	-19.0569133	Shallow Gondola Fault Zone
+16.2861449	41.66823237	-15.2978562	Shallow Gondola Fault Zone
+16.42430606	41.6577274	-15.2223249	Shallow Gondola Fault Zone
+16.42719246	41.65942703	-17.8824763	Shallow Gondola Fault Zone
+16.32078913	41.66219555	-10.7861436	Shallow Gondola Fault Zone
+16.78640798	41.64295627	-11.3131638	Shallow Gondola Fault Zone
+16.69744414	41.64497053	-12.7824441	Shallow Gondola Fault Zone
+16.40356535	41.64888727	-0.8880139	Shallow Gondola Fault Zone
+16.63045531	41.6502989	-17.6513313	Shallow Gondola Fault Zone
+16.3604718	41.66019035	-11.6928383	Shallow Gondola Fault Zone
+16.51214165	41.64171195	-0.0000041	Shallow Gondola Fault Zone
+16.79096634	41.64836405	-19.0491945	Shallow Gondola Fault Zone
+16.57832529	41.64579578	-9.0671226	Shallow Gondola Fault Zone
+16.77284236	41.63576356	-0.7424709	Shallow Gondola Fault Zone
+16.8027385	41.63596474	-1.3756184	Shallow Gondola Fault Zone
+16.25792023	41.66868206	-10.9456893	Shallow Gondola Fault Zone
+16.71491013	41.63600043	0.0000008	Shallow Gondola Fault Zone
+16.80231979	41.63760153	-3.7053742	Shallow Gondola Fault Zone
+16.47439641	41.65285665	-12.6220964	Shallow Gondola Fault Zone
+16.5124976	41.64987507	-11.6025573	Shallow Gondola Fault Zone
+16.54988757	41.64949126	-13.1382944	Shallow Gondola Fault Zone
+16.80206914	41.64162549	-9.4381613	Shallow Gondola Fault Zone
+16.46864733	41.6518961	-10.7775891	Shallow Gondola Fault Zone
+16.35640559	41.66625838	-19.9238859	Shallow Gondola Fault Zone
+16.39837809	41.64857861	0.0000008	Shallow Gondola Fault Zone
+16.69717657	41.64657239	-15.0643435	Shallow Gondola Fault Zone
+16.77188146	41.64843985	-18.7541408	Shallow Gondola Fault Zone
+16.79090183	41.64045483	-7.7765949	Shallow Gondola Fault Zone
+16.72847279	41.64597718	-14.2144533	Shallow Gondola Fault Zone
+16.76622421	41.63714777	-2.5519616	Shallow Gondola Fault Zone
+16.2796561	41.66906076	-15.6776174	Shallow Gondola Fault Zone
+16.32282546	41.66065689	-8.8458983	Shallow Gondola Fault Zone
+16.69256929	41.63794918	-2.7146872	Shallow Gondola Fault Zone
+16.33763207	41.66467473	-16.0099411	Shallow Gondola Fault Zone
+16.40780301	41.66205539	-19.9238947	Shallow Gondola Fault Zone
+16.52911105	41.65259294	-16.6831482	Shallow Gondola Fault Zone
+16.27926991	41.66431142	-8.9097138	Shallow Gondola Fault Zone
+16.40373497	41.65024001	-2.8204773	Shallow Gondola Fault Zone
+16.51423236	41.65564115	-19.9238967	Shallow Gondola Fault Zone
+16.78330833	41.64755963	-17.7821101	Shallow Gondola Fault Zone
+16.43076832	41.64739152	-1.1310324	Shallow Gondola Fault Zone
+16.61399298	41.64101611	-3.7660832	Shallow Gondola Fault Zone
+16.80179886	41.64735067	-17.5968532	Shallow Gondola Fault Zone
+16.65047991	41.64812992	-15.4091086	Shallow Gondola Fault Zone
+16.6652011	41.65087093	-19.9238977	Shallow Gondola Fault Zone
+16.46657968	41.64990926	-7.7876523	Shallow Gondola Fault Zone
+16.59883687	41.64471991	-8.3929365	Shallow Gondola Fault Zone
+16.76602829	41.64104363	-8.0905776	Shallow Gondola Fault Zone
+16.72886165	41.6442235	-11.7239301	Shallow Gondola Fault Zone
+16.6452204	41.65083015	-19.0257619	Shallow Gondola Fault Zone
+16.28507961	41.65831482	-1.1402287	Shallow Gondola Fault Zone
+16.69789122	41.63811679	-3.0197458	Shallow Gondola Fault Zone
+16.28371432	41.66625128	-12.2096337	Shallow Gondola Fault Zone
+16.72773072	41.63713629	-1.6188166	Shallow Gondola Fault Zone
+16.5250211	41.65140908	-14.8308483	Shallow Gondola Fault Zone
+16.25782662	41.66752848	-9.301968	Shallow Gondola Fault Zone
+16.782799	41.64410588	-12.8540412	Shallow Gondola Fault Zone
+16.32829947	41.66058539	-9.3829081	Shallow Gondola Fault Zone
+16.80991512	41.64253228	-10.7308845	Shallow Gondola Fault Zone
+16.55904925	41.64316462	-4.5272404	Shallow Gondola Fault Zone
+16.63741345	41.64048624	-3.9972341	Shallow Gondola Fault Zone
+16.66281838	41.64634399	-13.3894812	Shallow Gondola Fault Zone
+16.5245262	41.64542642	-6.3071572	Shallow Gondola Fault Zone
+16.80950783	41.64385632	-12.6174292	Shallow Gondola Fault Zone
+16.78778216	41.63680836	-2.5776643	Shallow Gondola Fault Zone
+16.75168671	41.64891552	-18.9463801	Shallow Gondola Fault Zone
+16.71396273	41.63668298	-0.971674	Shallow Gondola Fault Zone
+16.39273286	41.66156461	-17.9190485	Shallow Gondola Fault Zone
+16.27941232	41.66606386	-11.406426	Shallow Gondola Fault Zone
+16.35554452	41.65572089	-4.9093615	Shallow Gondola Fault Zone
+16.7374269	41.64001688	-5.9429143	Shallow Gondola Fault Zone
+16.66863268	41.64005233	-4.6922351	Shallow Gondola Fault Zone
+16.43589552	41.64627951	0.0000008	Shallow Gondola Fault Zone
+16.71501769	41.64671757	-15.2666691	Shallow Gondola Fault Zone
+16.57814277	41.64004439	-0.8851897	Shallow Gondola Fault Zone
+16.42794058	41.65602692	-13.1272021	Shallow Gondola Fault Zone
+16.56810812	41.64217598	-3.4983571	Shallow Gondola Fault Zone
+16.27880306	41.65856488	-0.7222395	Shallow Gondola Fault Zone
+16.47178469	41.65495499	-15.3779802	Shallow Gondola Fault Zone
+16.63048698	41.64401381	-8.7198193	Shallow Gondola Fault Zone
+16.53112694	41.64999609	-13.0758337	Shallow Gondola Fault Zone
+16.27989823	41.67204103	-19.9238938	Shallow Gondola Fault Zone
+16.39998781	41.65205115	-5.0623029	Shallow Gondola Fault Zone
+16.69770631	41.64240749	-9.1307672	Shallow Gondola Fault Zone
+16.257297	41.661	0.0000008	Shallow Gondola Fault Zone
+16.56836071	41.64425984	-6.4705983	Shallow Gondola Fault Zone
+16.7131935	41.6379432	-2.7667688	Shallow Gondola Fault Zone
+16.52514117	41.65286004	-16.8979519	Shallow Gondola Fault Zone
+16.64257911	41.65154014	-19.9238938	Shallow Gondola Fault Zone
+16.71537698	41.64945234	-19.1658566	Shallow Gondola Fault Zone
+16.35089414	41.65333231	-1.1094211	Shallow Gondola Fault Zone
+16.47915476	41.65054941	-9.7518129	Shallow Gondola Fault Zone
+16.44459488	41.65426351	-12.0741955	Shallow Gondola Fault Zone
+16.3874998	41.65001372	-0.9028166	Shallow Gondola Fault Zone
+16.68063452	41.63680717	-0.5860559	Shallow Gondola Fault Zone
+16.35984306	41.65249928	-0.7346955	Shallow Gondola Fault Zone
+16.76941708	41.63529914	0.0000008	Shallow Gondola Fault Zone
+16.72880934	41.64998438	-19.9238938	Shallow Gondola Fault Zone
+16.32322769	41.65777897	-4.8190881	Shallow Gondola Fault Zone
+16.69522467	41.64567363	-13.7849731	Shallow Gondola Fault Zone
+16.74429505	41.64668956	-15.6025153	Shallow Gondola Fault Zone
+16.61176851	41.64547358	-10.0074762	Shallow Gondola Fault Zone
+16.69334476	41.63601959	0.0000008	Shallow Gondola Fault Zone
+16.69392148	41.64290744	-9.8125151	Shallow Gondola Fault Zone
+16.32863695	41.6647235	-15.2791359	Shallow Gondola Fault Zone
+16.72802569	41.64065011	-6.6246936	Shallow Gondola Fault Zone
+16.69739163	41.63715004	-1.6406252	Shallow Gondola Fault Zone
+16.80354427	41.64898525	-19.9238859	Shallow Gondola Fault Zone
+16.39225732	41.65576128	-9.6506346	Shallow Gondola Fault Zone
+16.69736248	41.63599923	-0.0000139	Shallow Gondola Fault Zone
+16.360944	41.6659674	-19.9238938	Shallow Gondola Fault Zone
+16.3820849	41.65386586	-5.6289094	Shallow Gondola Fault Zone
+16.61353064	41.64392401	-7.8792775	Shallow Gondola Fault Zone
+16.63501849	41.64500365	-10.3168447	Shallow Gondola Fault Zone
+16.36977698	41.65890948	-11.1184605	Shallow Gondola Fault Zone
+16.62354376	41.63808353	-0.0000012	Shallow Gondola Fault Zone
+16.32890282	41.66798324	-19.9238938	Shallow Gondola Fault Zone
+16.55750569	41.64690049	-9.7728287	Shallow Gondola Fault Zone
+16.63373706	41.63823451	-0.6428606	Shallow Gondola Fault Zone
+16.77407673	41.64922455	-19.9238938	Shallow Gondola Fault Zone
+16.66698961	41.64763557	-15.400549	Shallow Gondola Fault Zone
+16.47050216	41.64773743	-5.0377966	Shallow Gondola Fault Zone
+16.78008132	41.63811305	-4.2649943	Shallow Gondola Fault Zone
+16.38644382	41.65817738	-12.3045776	Shallow Gondola Fault Zone
+16.35371672	41.6645538	-17.2668396	Shallow Gondola Fault Zone
+16.66871711	41.63674822	0.0000008	Shallow Gondola Fault Zone
+16.76712551	41.64451889	-13.0614348	Shallow Gondola Fault Zone
+16.44040903	41.64874611	-3.8882702	Shallow Gondola Fault Zone
+16.52478357	41.64853794	-10.7402243	Shallow Gondola Fault Zone
+16.26882312	41.66673592	-10.3086701	Shallow Gondola Fault Zone
+16.75688591	41.6455044	-14.2175661	Shallow Gondola Fault Zone
+16.45026375	41.65945262	-19.9239035	Shallow Gondola Fault Zone
+16.39215483	41.65451126	-7.8699384	Shallow Gondola Fault Zone
+16.51355768	41.65186796	-14.5174006	Shallow Gondola Fault Zone
+16.78670714	41.64640071	-16.2194084	Shallow Gondola Fault Zone
+16.5336635	41.64072178	0.0000017	Shallow Gondola Fault Zone
+16.68230359	41.64066964	-6.1437197	Shallow Gondola Fault Zone
+16.65011243	41.6372983	-0.0000002	Shallow Gondola Fault Zone
+16.6841813	41.64637166	-14.3273093	Shallow Gondola Fault Zone
+16.52466103	41.64705649	-8.6295366	Shallow Gondola Fault Zone
+16.62450819	41.65207382	-19.9238957	Shallow Gondola Fault Zone
+16.49050126	41.6453465	-3.331029	Shallow Gondola Fault Zone
+16.67748615	41.6423547	-8.3361278	Shallow Gondola Fault Zone
+16.6879546	41.6392506	-4.3645744	Shallow Gondola Fault Zone
+16.36935718	41.65766725	-9.3070268	Shallow Gondola Fault Zone
+16.45017984	41.6503804	-7.0558723	Shallow Gondola Fault Zone
+16.44760288	41.65280056	-10.2645299	Shallow Gondola Fault Zone
+16.45371817	41.64873879	-5.0370432	Shallow Gondola Fault Zone
+16.72536286	41.64322139	-10.2762777	Shallow Gondola Fault Zone
+16.36548044	41.65673823	-7.4776867	Shallow Gondola Fault Zone
+16.53434645	41.64583184	-7.2908999	Shallow Gondola Fault Zone
+16.31635196	41.66727942	-17.4641496	Shallow Gondola Fault Zone
+16.25733599	41.66148069	-0.684884	Shallow Gondola Fault Zone
+16.2833433	41.66498816	-10.3791394	Shallow Gondola Fault Zone
+16.4700584	41.65756945	-18.9401584	Shallow Gondola Fault Zone
+16.69778804	41.6478755	-16.9228889	Shallow Gondola Fault Zone
+16.68323317	41.64486315	-12.143465	Shallow Gondola Fault Zone
+16.78803921	41.64501876	-14.2705246	Shallow Gondola Fault Zone
+16.49074272	41.65152516	-12.1111616	Shallow Gondola Fault Zone
+16.33600791	41.66327135	-13.8759038	Shallow Gondola Fault Zone
+16.44412821	41.65914375	-18.9510441	Shallow Gondola Fault Zone
+16.7342536	41.63856016	-3.7948713	Shallow Gondola Fault Zone
+16.40535499	41.65823364	-14.2930593	Shallow Gondola Fault Zone
+16.41614816	41.65290733	-7.6800398	Shallow Gondola Fault Zone
+16.66363242	41.64514626	-11.7216342	Shallow Gondola Fault Zone
+16.32662247	41.65850495	-6.254322	Shallow Gondola Fault Zone
+16.57515742	41.63950867	0.0000027	Shallow Gondola Fault Zone
+16.58447449	41.64274143	-4.9817507	Shallow Gondola Fault Zone
+16.3393165	41.66733011	-19.9238947	Shallow Gondola Fault Zone
+16.45857478	41.65139485	-9.2195058	Shallow Gondola Fault Zone
+16.28166449	41.66741209	-13.6105114	Shallow Gondola Fault Zone
+16.43277216	41.66052513	-19.9238967	Shallow Gondola Fault Zone
+16.48931386	41.64874426	-8.0481655	Shallow Gondola Fault Zone
+16.33478046	41.65840716	-6.8737534	Shallow Gondola Fault Zone
+16.65437322	41.64935785	-17.3182253	Shallow Gondola Fault Zone
+16.68053728	41.64872724	-17.5209636	Shallow Gondola Fault Zone
+16.71522817	41.64782962	-16.8512419	Shallow Gondola Fault Zone
+16.69806195	41.64115403	-7.3469702	Shallow Gondola Fault Zone
+16.59887491	41.65069783	-16.8906501	Shallow Gondola Fault Zone
+16.57050735	41.65299701	-18.977509	Shallow Gondola Fault Zone
+16.55041078	41.64588783	-8.0384375	Shallow Gondola Fault Zone
+16.60782925	41.64887756	-14.6798625	Shallow Gondola Fault Zone
+16.31734338	41.66391909	-12.8236731	Shallow Gondola Fault Zone
+16.7281381	41.64198839	-8.5299094	Shallow Gondola Fault Zone
+16.3599595	41.6539242	-2.7644392	Shallow Gondola Fault Zone
+16.32841812	41.66204048	-11.456239	Shallow Gondola Fault Zone
+16.78716957	41.63560197	-0.8561955	Shallow Gondola Fault Zone
+16.71063573	41.64293425	-9.8778898	Shallow Gondola Fault Zone
+16.52531685	41.65498371	-19.9238938	Shallow Gondola Fault Zone
+16.42729628	41.64879583	-2.8204777	Shallow Gondola Fault Zone
+16.74654226	41.64794494	-17.4427531	Shallow Gondola Fault Zone
+16.69438839	41.64848326	-17.7571726	Shallow Gondola Fault Zone
+16.39206453	41.65340988	-6.3009336	Shallow Gondola Fault Zone
+16.27890669	41.65984181	-2.5402849	Shallow Gondola Fault Zone
+16.63021009	41.6488413	-15.5690466	Shallow Gondola Fault Zone
+16.32885577	41.66740646	-19.1020334	Shallow Gondola Fault Zone
+16.35980094	41.65198373	0.0000008	Shallow Gondola Fault Zone
+16.41571296	41.66083809	-18.885676	Shallow Gondola Fault Zone
+16.6474316	41.64104881	-5.2171809	Shallow Gondola Fault Zone
+16.36055535	41.66121305	-13.1497712	Shallow Gondola Fault Zone
+16.7347274	41.64160691	-8.1407708	Shallow Gondola Fault Zone
+16.32785155	41.65508762	-1.5503225	Shallow Gondola Fault Zone
+16.5249271	41.65027288	-13.2120324	Shallow Gondola Fault Zone
+16.80758801	41.63500027	0.0000008	Shallow Gondola Fault Zone
+16.69464443	41.63874328	-3.9101877	Shallow Gondola Fault Zone
+16.26460056	41.66188911	-2.6636565	Shallow Gondola Fault Zone
+16.46061105	41.65483666	-14.2736599	Shallow Gondola Fault Zone
+16.55145457	41.65261246	-17.6396545	Shallow Gondola Fault Zone
+16.26845496	41.67281823	-18.8090129	Shallow Gondola Fault Zone
+16.36024529	41.65742013	-7.7454135	Shallow Gondola Fault Zone
+16.78866865	41.64732374	-17.5579318	Shallow Gondola Fault Zone
+16.26966933	41.67084903	-16.2683264	Shallow Gondola Fault Zone
+16.38494183	41.66212211	-17.6824748	Shallow Gondola Fault Zone
+16.70374278	41.6394095	-4.8603747	Shallow Gondola Fault Zone
+16.75345198	41.64957299	-19.9238938	Shallow Gondola Fault Zone
+16.58716139	41.65317594	-19.9238928	Shallow Gondola Fault Zone
+16.78771432	41.63918231	-5.9585312	Shallow Gondola Fault Zone
+16.69853393	41.64997951	-19.9239455	Shallow Gondola Fault Zone
+16.43417646	41.65128265	-6.9430109	Shallow Gondola Fault Zone
+16.33819323	41.6663608	-18.4498391	Shallow Gondola Fault Zone
+16.43740294	41.6522219	-8.5548234	Shallow Gondola Fault Zone
+16.39985728	41.66212166	-19.3277336	Shallow Gondola Fault Zone
+16.46038435	41.65320341	-11.9372351	Shallow Gondola Fault Zone
+16.72935403	41.64769958	-16.6737326	Shallow Gondola Fault Zone
+16.78880867	41.64898429	-19.9238938	Shallow Gondola Fault Zone
+16.74604882	41.63569355	-0.0000002	Shallow Gondola Fault Zone
+16.36909375	41.66038264	-13.1108527	Shallow Gondola Fault Zone
+16.51104872	41.64705928	-7.4885852	Shallow Gondola Fault Zone
+16.72876678	41.64947731	-19.2016545	Shallow Gondola Fault Zone
+16.25821521	41.67231751	-16.1259016	Shallow Gondola Fault Zone
+16.25755011	41.66412009	-4.4455188	Shallow Gondola Fault Zone
+16.33635152	41.65525157	-2.5379611	Shallow Gondola Fault Zone
+16.50098473	41.64899748	-9.3891358	Shallow Gondola Fault Zone
+16.31542268	41.66852354	-19.1168205	Shallow Gondola Fault Zone
+16.29685142	41.66601748	-13.4050446	Shallow Gondola Fault Zone
+16.59252787	41.64388314	-6.9395014	Shallow Gondola Fault Zone
+16.78363318	41.64066791	-7.9836125	Shallow Gondola Fault Zone
+16.25843149	41.67498285	-19.9238938	Shallow Gondola Fault Zone
+16.36911439	41.6617095	-14.9896125	Shallow Gondola Fault Zone
+16.39182625	41.65049979	-2.1542683	Shallow Gondola Fault Zone
+16.49024244	41.65481353	-16.731404	Shallow Gondola Fault Zone
+16.41666955	41.64745751	-0.0000002	Shallow Gondola Fault Zone
+16.3786418	41.65184234	-2.3091643	Shallow Gondola Fault Zone
+16.69419512	41.63656077	-0.7970481	Shallow Gondola Fault Zone
+16.52526695	41.65438067	-19.064675	Shallow Gondola Fault Zone
+16.69788119	41.64379161	-11.1044896	Shallow Gondola Fault Zone
+16.536668	41.64870119	-11.4655794	Shallow Gondola Fault Zone
+16.43545552	41.65786496	-16.3850661	Shallow Gondola Fault Zone
+16.49407953	41.65354059	-15.2495647	Shallow Gondola Fault Zone
+16.36652383	41.65536974	-5.6814211	Shallow Gondola Fault Zone
+16.71742267	41.64998602	-19.9238811	Shallow Gondola Fault Zone
+16.76968186	41.64680655	-16.3772805	Shallow Gondola Fault Zone
+16.25744307	41.66280039	-2.5652014	Shallow Gondola Fault Zone
+16.32805178	41.65754822	-5.0556877	Shallow Gondola Fault Zone
+16.40606519	41.65648795	-11.8799135	Shallow Gondola Fault Zone
+16.6750255	41.63875373	-3.1146623	Shallow Gondola Fault Zone
+16.28781216	41.65728834	-0.0000344	Shallow Gondola Fault Zone
+16.27002027	41.6629143	-5.1545295	Shallow Gondola Fault Zone
+16.31136997	41.66629562	-15.4908274	Shallow Gondola Fault Zone
+16.66545413	41.64398936	-10.1539907	Shallow Gondola Fault Zone
+16.59876897	41.6479368	-12.9622024	Shallow Gondola Fault Zone
+16.69406254	41.64459348	-12.2158454	Shallow Gondola Fault Zone
+16.72763535	41.63600001	0.0000008	Shallow Gondola Fault Zone
+16.25837439	41.67427935	-18.9214729	Shallow Gondola Fault Zone
+16.75697206	41.63890596	-4.8319328	Shallow Gondola Fault Zone
+16.57189691	41.65109645	-16.3338967	Shallow Gondola Fault Zone
+16.72788993	41.63903301	-4.3209948	Shallow Gondola Fault Zone
+16.45526779	41.64713574	-2.8991369	Shallow Gondola Fault Zone
+16.32851718	41.66325528	-13.1871274	Shallow Gondola Fault Zone
+16.29770549	41.65859606	-3.0010383	Shallow Gondola Fault Zone
+16.5242164	41.64168105	-0.9712893	Shallow Gondola Fault Zone
+16.73657721	41.64985827	-19.9238811	Shallow Gondola Fault Zone
+16.3882515	41.65183232	-3.5738606	Shallow Gondola Fault Zone
+16.49224157	41.64732815	-6.2869265	Shallow Gondola Fault Zone
+16.73423263	41.64310073	-10.2545746	Shallow Gondola Fault Zone
+16.73449302	41.64899551	-18.6475051	Shallow Gondola Fault Zone
+16.79536095	41.64318881	-11.6648051	Shallow Gondola Fault Zone
+16.78390293	41.63691657	-2.6523855	Shallow Gondola Fault Zone
