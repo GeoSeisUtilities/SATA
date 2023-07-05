@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# checking the requirements for the installation
+sudo apt-get install wget git tar make cmake
 # installing gmt
 cd
 git clone --depth 50 https://github.com/GenericMappingTools/gmt
