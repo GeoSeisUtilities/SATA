@@ -1,0 +1,1235 @@
+13.950698	42.246	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.01403838	42.06386699	-16.1568635	Deep Abruzzo Citeriore Basal Thrust
+14.27901499	41.99050418	-11.3879317	Deep Abruzzo Citeriore Basal Thrust
+14.3217389	41.96384734	-10.6662655	Deep Abruzzo Citeriore Basal Thrust
+14.14696699	42.03122603	-13.9537375	Deep Abruzzo Citeriore Basal Thrust
+14.2696423	41.84184312	-16.4518977	Deep Abruzzo Citeriore Basal Thrust
+13.94438971	42.24108709	-8.3962048	Deep Abruzzo Citeriore Basal Thrust
+14.18746815	41.97067738	-15.2475452	Deep Abruzzo Citeriore Basal Thrust
+14.39821133	41.84515544	-11.4496218	Deep Abruzzo Citeriore Basal Thrust
+13.93522515	42.1597659	-13.0512838	Deep Abruzzo Citeriore Basal Thrust
+14.26519075	42.0279321	-10.5003776	Deep Abruzzo Citeriore Basal Thrust
+14.03406206	42.12673808	-12.5784795	Deep Abruzzo Citeriore Basal Thrust
+13.93244708	42.23178432	-9.1463518	Deep Abruzzo Citeriore Basal Thrust
+14.24485027	42.09855244	-8.2016746	Deep Abruzzo Citeriore Basal Thrust
+14.11744866	42.12135125	-10.769705	Deep Abruzzo Citeriore Basal Thrust
+13.94345298	42.21869376	-9.6466658	Deep Abruzzo Citeriore Basal Thrust
+14.21605722	41.95231237	-14.94548	Deep Abruzzo Citeriore Basal Thrust
+14.09628599	42.1883782	-7.9999939	Deep Abruzzo Citeriore Basal Thrust
+14.33441987	41.97997881	-9.670572	Deep Abruzzo Citeriore Basal Thrust
+13.92008535	42.22215256	-9.9229121	Deep Abruzzo Citeriore Basal Thrust
+14.3029545	41.89390281	-13.5875933	Deep Abruzzo Citeriore Basal Thrust
+14.27864182	42.05091446	-9.1461541	Deep Abruzzo Citeriore Basal Thrust
+14.29866807	41.93718023	-12.3965061	Deep Abruzzo Citeriore Basal Thrust
+14.38061761	41.87621877	-11.1498574	Deep Abruzzo Citeriore Basal Thrust
+14.39151183	41.88371431	-10.4971887	Deep Abruzzo Citeriore Basal Thrust
+14.30892993	41.81016762	-15.9703909	Deep Abruzzo Citeriore Basal Thrust
+14.22481005	42.01315965	-12.3553367	Deep Abruzzo Citeriore Basal Thrust
+14.14268442	42.12691255	-9.8610364	Deep Abruzzo Citeriore Basal Thrust
+14.06255383	42.16014752	-10.2180951	Deep Abruzzo Citeriore Basal Thrust
+13.90402568	42.20963568	-10.9319137	Deep Abruzzo Citeriore Basal Thrust
+14.02510042	42.11713113	-13.2730027	Deep Abruzzo Citeriore Basal Thrust
+14.00029821	42.18004413	-10.6070244	Deep Abruzzo Citeriore Basal Thrust
+13.91630325	42.12394626	-15.3960571	Deep Abruzzo Citeriore Basal Thrust
+14.44817046	41.88413006	-8.3116802	Deep Abruzzo Citeriore Basal Thrust
+14.15038227	41.98167301	-15.9467573	Deep Abruzzo Citeriore Basal Thrust
+14.01986043	42.18664003	-9.8281023	Deep Abruzzo Citeriore Basal Thrust
+13.95343821	42.14640693	-13.4006349	Deep Abruzzo Citeriore Basal Thrust
+14.13310204	42.09309186	-11.6240281	Deep Abruzzo Citeriore Basal Thrust
+14.31084634	42.05345397	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.40949085	41.88914674	-9.6369619	Deep Abruzzo Citeriore Basal Thrust
+14.16021706	42.04242802	-13.0830499	Deep Abruzzo Citeriore Basal Thrust
+14.28224754	42.00232476	-10.8462727	Deep Abruzzo Citeriore Basal Thrust
+14.36302243	41.9724007	-8.8387417	Deep Abruzzo Citeriore Basal Thrust
+13.97456431	42.14191821	-13.1636805	Deep Abruzzo Citeriore Basal Thrust
+14.11050864	42.01099671	-15.8826985	Deep Abruzzo Citeriore Basal Thrust
+13.98629207	42.09815351	-15.1386045	Deep Abruzzo Citeriore Basal Thrust
+14.32934304	42.0171119	-8.6867549	Deep Abruzzo Citeriore Basal Thrust
+13.95813635	42.10963993	-15.2060796	Deep Abruzzo Citeriore Basal Thrust
+14.18213359	41.95415272	-16.0464858	Deep Abruzzo Citeriore Basal Thrust
+13.94497768	42.17007141	-12.2900606	Deep Abruzzo Citeriore Basal Thrust
+14.03340472	42.06841387	-15.4456533	Deep Abruzzo Citeriore Basal Thrust
+14.20377171	42.12966897	-7.9999958	Deep Abruzzo Citeriore Basal Thrust
+14.23822867	41.89903467	-15.9018943	Deep Abruzzo Citeriore Basal Thrust
+13.8649273	42.16173822	-14.3460854	Deep Abruzzo Citeriore Basal Thrust
+13.88515237	42.19492034	-12.1178873	Deep Abruzzo Citeriore Basal Thrust
+14.10896945	42.15365994	-9.4217712	Deep Abruzzo Citeriore Basal Thrust
+13.90768629	42.12717398	-15.3931699	Deep Abruzzo Citeriore Basal Thrust
+14.08467414	42.15568058	-9.9176226	Deep Abruzzo Citeriore Basal Thrust
+14.25211481	42.07249019	-9.0758357	Deep Abruzzo Citeriore Basal Thrust
+14.23185011	42.05028904	-10.6165297	Deep Abruzzo Citeriore Basal Thrust
+14.32113373	41.87156577	-13.5514706	Deep Abruzzo Citeriore Basal Thrust
+14.19312051	42.06805894	-11.0172815	Deep Abruzzo Citeriore Basal Thrust
+14.30905806	41.95824472	-11.325465	Deep Abruzzo Citeriore Basal Thrust
+14.07474574	42.12741638	-11.550544	Deep Abruzzo Citeriore Basal Thrust
+14.01150032	42.11178847	-13.8615591	Deep Abruzzo Citeriore Basal Thrust
+14.27169938	41.84661275	-16.2272058	Deep Abruzzo Citeriore Basal Thrust
+14.1353739	42.11874818	-10.4297341	Deep Abruzzo Citeriore Basal Thrust
+14.27633491	41.84454535	-16.1113013	Deep Abruzzo Citeriore Basal Thrust
+13.8637611	42.17823458	-13.4623417	Deep Abruzzo Citeriore Basal Thrust
+14.2119086	41.9232537	-16.1406902	Deep Abruzzo Citeriore Basal Thrust
+14.27000104	41.94638962	-13.1916368	Deep Abruzzo Citeriore Basal Thrust
+13.8495566	42.13951128	-15.8747297	Deep Abruzzo Citeriore Basal Thrust
+13.84964273	42.16721769	-14.3498391	Deep Abruzzo Citeriore Basal Thrust
+14.02005938	42.09525821	-14.4709749	Deep Abruzzo Citeriore Basal Thrust
+14.0058517	42.16075083	-11.4875005	Deep Abruzzo Citeriore Basal Thrust
+14.1162637	42.08029639	-12.6672904	Deep Abruzzo Citeriore Basal Thrust
+14.12905507	42.10626761	-11.1590922	Deep Abruzzo Citeriore Basal Thrust
+14.37927231	41.84221562	-12.2679502	Deep Abruzzo Citeriore Basal Thrust
+13.93513145	42.09556813	-16.4526643	Deep Abruzzo Citeriore Basal Thrust
+14.16953493	42.1349962	-8.7405361	Deep Abruzzo Citeriore Basal Thrust
+13.9354721	42.14164351	-14.0429315	Deep Abruzzo Citeriore Basal Thrust
+14.21422042	42.05894506	-10.7873099	Deep Abruzzo Citeriore Basal Thrust
+14.14939208	41.97004212	-16.4524641	Deep Abruzzo Citeriore Basal Thrust
+13.83754277	42.15777312	-15.110552	Deep Abruzzo Citeriore Basal Thrust
+14.10622523	42.17859417	-8.2633594	Deep Abruzzo Citeriore Basal Thrust
+14.09344983	42.18158556	-8.4119189	Deep Abruzzo Citeriore Basal Thrust
+13.98638657	42.0796847	-16.0620042	Deep Abruzzo Citeriore Basal Thrust
+14.04205822	42.2122687	-7.999844	Deep Abruzzo Citeriore Basal Thrust
+14.31991901	42.00977065	-9.2784202	Deep Abruzzo Citeriore Basal Thrust
+14.30009917	41.90809595	-13.2821189	Deep Abruzzo Citeriore Basal Thrust
+14.44188697	41.88509366	-8.5223306	Deep Abruzzo Citeriore Basal Thrust
+14.12644536	42.14510113	-9.4012615	Deep Abruzzo Citeriore Basal Thrust
+14.22259408	42.07118326	-10.0227563	Deep Abruzzo Citeriore Basal Thrust
+14.23075181	42.11222381	-8.0000085	Deep Abruzzo Citeriore Basal Thrust
+14.19641025	41.9782358	-14.6610884	Deep Abruzzo Citeriore Basal Thrust
+14.30533159	41.99613553	-10.2715746	Deep Abruzzo Citeriore Basal Thrust
+14.35918718	41.98678068	-8.5179541	Deep Abruzzo Citeriore Basal Thrust
+14.05488393	42.06144166	-15.2344434	Deep Abruzzo Citeriore Basal Thrust
+14.31224323	41.91833492	-12.4956339	Deep Abruzzo Citeriore Basal Thrust
+13.82342789	42.14675274	-15.9980505	Deep Abruzzo Citeriore Basal Thrust
+13.81620316	42.14111063	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.25210239	41.92923666	-14.4164912	Deep Abruzzo Citeriore Basal Thrust
+14.18287068	42.01722074	-13.4788574	Deep Abruzzo Citeriore Basal Thrust
+14.36251666	41.93016094	-10.1478342	Deep Abruzzo Citeriore Basal Thrust
+14.27377769	42.03778118	-9.8337014	Deep Abruzzo Citeriore Basal Thrust
+14.22155571	41.93192065	-15.4979722	Deep Abruzzo Citeriore Basal Thrust
+14.27957783	41.98029795	-11.7406736	Deep Abruzzo Citeriore Basal Thrust
+14.00928394	42.22473345	-7.9999211	Deep Abruzzo Citeriore Basal Thrust
+14.21931599	42.07642867	-9.902103	Deep Abruzzo Citeriore Basal Thrust
+14.1314877	42.11934209	-10.5091218	Deep Abruzzo Citeriore Basal Thrust
+13.92117147	42.15318665	-13.6936198	Deep Abruzzo Citeriore Basal Thrust
+13.90601906	42.10803435	-16.4523655	Deep Abruzzo Citeriore Basal Thrust
+14.3461152	41.98417927	-9.0929797	Deep Abruzzo Citeriore Basal Thrust
+13.89029927	42.15645782	-14.1299209	Deep Abruzzo Citeriore Basal Thrust
+14.31169791	41.83910683	-14.9481189	Deep Abruzzo Citeriore Basal Thrust
+14.04061152	42.043276	-16.4525657	Deep Abruzzo Citeriore Basal Thrust
+14.34326356	41.81340414	-14.5523411	Deep Abruzzo Citeriore Basal Thrust
+14.20709035	42.0671937	-10.6572578	Deep Abruzzo Citeriore Basal Thrust
+13.94662604	42.10517523	-15.6975825	Deep Abruzzo Citeriore Basal Thrust
+14.07422397	42.0723979	-14.2123999	Deep Abruzzo Citeriore Basal Thrust
+13.99871971	42.10771273	-14.3644238	Deep Abruzzo Citeriore Basal Thrust
+14.42673271	41.89985122	-8.6402048	Deep Abruzzo Citeriore Basal Thrust
+14.38315313	41.96594016	-8.2704719	Deep Abruzzo Citeriore Basal Thrust
+14.13891357	42.04556057	-13.5518163	Deep Abruzzo Citeriore Basal Thrust
+14.26690062	42.05879798	-9.1883892	Deep Abruzzo Citeriore Basal Thrust
+14.13422195	42.16080493	-8.450124	Deep Abruzzo Citeriore Basal Thrust
+13.95833427	42.13041285	-14.1235175	Deep Abruzzo Citeriore Basal Thrust
+14.20097588	41.93781825	-15.9922559	Deep Abruzzo Citeriore Basal Thrust
+14.30842142	41.86626851	-14.201447	Deep Abruzzo Citeriore Basal Thrust
+14.14332685	42.01990064	-14.5564988	Deep Abruzzo Citeriore Basal Thrust
+14.31478748	41.94873157	-11.4172994	Deep Abruzzo Citeriore Basal Thrust
+14.14969702	42.0848811	-11.5129796	Deep Abruzzo Citeriore Basal Thrust
+13.91586123	42.21399692	-10.4558081	Deep Abruzzo Citeriore Basal Thrust
+13.97423513	42.18790397	-10.7253411	Deep Abruzzo Citeriore Basal Thrust
+14.34380559	41.89847778	-11.8305241	Deep Abruzzo Citeriore Basal Thrust
+14.24413756	42.0197876	-11.4858187	Deep Abruzzo Citeriore Basal Thrust
+14.16293846	41.95975381	-16.4524832	Deep Abruzzo Citeriore Basal Thrust
+14.31861145	41.78297123	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.01644653	42.17279329	-10.6246635	Deep Abruzzo Citeriore Basal Thrust
+13.96674989	42.10639581	-15.171314	Deep Abruzzo Citeriore Basal Thrust
+14.33235385	41.97190738	-10.0066538	Deep Abruzzo Citeriore Basal Thrust
+13.90509363	42.2049137	-11.1702976	Deep Abruzzo Citeriore Basal Thrust
+14.29043385	41.82595844	-16.1737217	Deep Abruzzo Citeriore Basal Thrust
+13.91334741	42.11174527	-16.0961194	Deep Abruzzo Citeriore Basal Thrust
+13.89926395	42.11092534	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.00465249	42.19785352	-9.5712231	Deep Abruzzo Citeriore Basal Thrust
+14.31295756	41.88595364	-13.4246522	Deep Abruzzo Citeriore Basal Thrust
+14.21606717	42.10882313	-8.5680598	Deep Abruzzo Citeriore Basal Thrust
+14.26218321	41.89709138	-15.0646943	Deep Abruzzo Citeriore Basal Thrust
+14.0241049	42.1384569	-12.212049	Deep Abruzzo Citeriore Basal Thrust
+14.40316966	41.90021289	-9.5312571	Deep Abruzzo Citeriore Basal Thrust
+13.93778211	42.20076829	-10.7456896	Deep Abruzzo Citeriore Basal Thrust
+14.14789339	42.13212005	-9.4791638	Deep Abruzzo Citeriore Basal Thrust
+14.06713967	42.15358747	-10.4463137	Deep Abruzzo Citeriore Basal Thrust
+14.12401984	41.99625144	-16.13424	Deep Abruzzo Citeriore Basal Thrust
+13.95395196	42.23601121	-8.4845256	Deep Abruzzo Citeriore Basal Thrust
+14.26623283	42.01264216	-11.0216997	Deep Abruzzo Citeriore Basal Thrust
+13.97635639	42.23193277	-8.2614709	Deep Abruzzo Citeriore Basal Thrust
+13.97390659	42.17489606	-11.4476256	Deep Abruzzo Citeriore Basal Thrust
+14.33327351	41.93349278	-11.2125943	Deep Abruzzo Citeriore Basal Thrust
+13.97650999	42.17118844	-11.5976293	Deep Abruzzo Citeriore Basal Thrust
+14.33453309	41.89523873	-12.2917069	Deep Abruzzo Citeriore Basal Thrust
+14.05043073	42.10880502	-13.061173	Deep Abruzzo Citeriore Basal Thrust
+14.29539611	41.86308272	-14.7988909	Deep Abruzzo Citeriore Basal Thrust
+14.23532027	41.91601124	-15.4750286	Deep Abruzzo Citeriore Basal Thrust
+14.0229089	42.07592099	-15.3515271	Deep Abruzzo Citeriore Basal Thrust
+14.3457396	41.85297694	-13.2158425	Deep Abruzzo Citeriore Basal Thrust
+14.07223046	42.07447344	-14.1686707	Deep Abruzzo Citeriore Basal Thrust
+14.17124043	42.02865337	-13.3525138	Deep Abruzzo Citeriore Basal Thrust
+14.17456245	42.1485592	-8.0007424	Deep Abruzzo Citeriore Basal Thrust
+14.15748801	42.00412041	-14.7935896	Deep Abruzzo Citeriore Basal Thrust
+14.45313401	41.888	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.26431452	42.06783427	-8.8998159	Deep Abruzzo Citeriore Basal Thrust
+13.97717195	42.11389995	-14.5484631	Deep Abruzzo Citeriore Basal Thrust
+14.13535292	42.00318656	-15.5019805	Deep Abruzzo Citeriore Basal Thrust
+14.11401469	42.18006038	-8.0003342	Deep Abruzzo Citeriore Basal Thrust
+14.0788828	42.08288803	-13.5953834	Deep Abruzzo Citeriore Basal Thrust
+14.38664356	41.97038743	-8.0009094	Deep Abruzzo Citeriore Basal Thrust
+14.27879586	41.86619132	-15.3672107	Deep Abruzzo Citeriore Basal Thrust
+14.36206036	41.81692704	-13.7211948	Deep Abruzzo Citeriore Basal Thrust
+14.42825149	41.9183661	-8.0006248	Deep Abruzzo Citeriore Basal Thrust
+14.34313252	42.02236315	-8.0001453	Deep Abruzzo Citeriore Basal Thrust
+14.09036983	42.12823891	-11.126882	Deep Abruzzo Citeriore Basal Thrust
+14.20215343	42.09509691	-9.56897	Deep Abruzzo Citeriore Basal Thrust
+14.030876	42.04876446	-16.4523572	Deep Abruzzo Citeriore Basal Thrust
+14.31245057	41.85042867	-14.5570322	Deep Abruzzo Citeriore Basal Thrust
+14.14528745	42.16431801	-8.0000837	Deep Abruzzo Citeriore Basal Thrust
+14.39717347	41.94086523	-8.4552544	Deep Abruzzo Citeriore Basal Thrust
+14.06089872	42.197615	-8.3434888	Deep Abruzzo Citeriore Basal Thrust
+14.23761703	42.06463623	-9.8421128	Deep Abruzzo Citeriore Basal Thrust
+13.99551339	42.20121309	-9.5686643	Deep Abruzzo Citeriore Basal Thrust
+14.25435692	41.87147739	-16.1842632	Deep Abruzzo Citeriore Basal Thrust
+13.88668749	42.18302137	-12.7415785	Deep Abruzzo Citeriore Basal Thrust
+14.01913547	42.08200782	-15.1449348	Deep Abruzzo Citeriore Basal Thrust
+14.27496626	42.08169862	-8.0001565	Deep Abruzzo Citeriore Basal Thrust
+14.26791632	41.85675023	-16.0789626	Deep Abruzzo Citeriore Basal Thrust
+14.04504108	42.17797833	-9.7165864	Deep Abruzzo Citeriore Basal Thrust
+14.21868804	41.96947603	-14.2299712	Deep Abruzzo Citeriore Basal Thrust
+14.30465676	41.82559791	-15.6475745	Deep Abruzzo Citeriore Basal Thrust
+14.01713032	42.20589979	-8.8794119	Deep Abruzzo Citeriore Basal Thrust
+14.25649709	41.96032688	-13.2615973	Deep Abruzzo Citeriore Basal Thrust
+14.07927607	42.1605262	-9.8115208	Deep Abruzzo Citeriore Basal Thrust
+14.44905902	41.89297947	-8.0000002	Deep Abruzzo Citeriore Basal Thrust
+14.35200747	41.99807264	-8.4269656	Deep Abruzzo Citeriore Basal Thrust
+14.31219728	41.91172782	-12.6934516	Deep Abruzzo Citeriore Basal Thrust
+14.16527379	42.14507775	-8.41601	Deep Abruzzo Citeriore Basal Thrust
+14.30004061	41.80566563	-16.4523342	Deep Abruzzo Citeriore Basal Thrust
+14.38880909	41.89165073	-10.3485897	Deep Abruzzo Citeriore Basal Thrust
+14.2876793	41.89722289	-14.0982091	Deep Abruzzo Citeriore Basal Thrust
+14.20571968	41.92069241	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+13.88974132	42.12009206	-16.1401143	Deep Abruzzo Citeriore Basal Thrust
+14.3158108	41.87734697	-13.5673638	Deep Abruzzo Citeriore Basal Thrust
+14.00130975	42.08798459	-15.2879512	Deep Abruzzo Citeriore Basal Thrust
+14.23884671	42.00454458	-12.2595889	Deep Abruzzo Citeriore Basal Thrust
+14.08954875	42.14032384	-10.553105	Deep Abruzzo Citeriore Basal Thrust
+14.21713883	42.04535016	-11.2674766	Deep Abruzzo Citeriore Basal Thrust
+14.37898823	41.97258877	-8.232968	Deep Abruzzo Citeriore Basal Thrust
+14.05981106	42.18720223	-8.9046758	Deep Abruzzo Citeriore Basal Thrust
+14.10957403	41.99866252	-16.4523669	Deep Abruzzo Citeriore Basal Thrust
+14.00342075	42.22015405	-8.3688896	Deep Abruzzo Citeriore Basal Thrust
+13.97297133	42.20131887	-10.0128896	Deep Abruzzo Citeriore Basal Thrust
+14.37039022	41.95313218	-9.1559795	Deep Abruzzo Citeriore Basal Thrust
+14.10084973	42.12636283	-10.9512369	Deep Abruzzo Citeriore Basal Thrust
+13.83733622	42.13343945	-16.452366	Deep Abruzzo Citeriore Basal Thrust
+14.03625106	42.16385476	-10.6381799	Deep Abruzzo Citeriore Basal Thrust
+13.97320801	42.07828035	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.39550868	41.85195247	-11.3399905	Deep Abruzzo Citeriore Basal Thrust
+14.34572214	41.82717467	-14.0261084	Deep Abruzzo Citeriore Basal Thrust
+14.1587258	42.13601543	-9.0045391	Deep Abruzzo Citeriore Basal Thrust
+14.32752174	42.02896344	-8.31797	Deep Abruzzo Citeriore Basal Thrust
+14.04850306	42.09233517	-13.9143386	Deep Abruzzo Citeriore Basal Thrust
+14.33241485	41.99840757	-9.1655273	Deep Abruzzo Citeriore Basal Thrust
+14.25457959	41.98942846	-12.268083	Deep Abruzzo Citeriore Basal Thrust
+14.23289107	41.88823563	-16.4523655	Deep Abruzzo Citeriore Basal Thrust
+14.34247461	41.91117979	-11.5053264	Deep Abruzzo Citeriore Basal Thrust
+14.36229096	41.99923596	-7.999094	Deep Abruzzo Citeriore Basal Thrust
+14.09395666	42.00876671	-16.4523611	Deep Abruzzo Citeriore Basal Thrust
+13.92141346	42.13976804	-14.4266755	Deep Abruzzo Citeriore Basal Thrust
+14.04755492	42.18971099	-9.0518301	Deep Abruzzo Citeriore Basal Thrust
+14.34287244	42.01366501	-8.2846187	Deep Abruzzo Citeriore Basal Thrust
+14.16409053	41.96538048	-16.1871846	Deep Abruzzo Citeriore Basal Thrust
+14.28170229	42.07667106	-8.0003103	Deep Abruzzo Citeriore Basal Thrust
+14.33686313	41.87898146	-12.7190194	Deep Abruzzo Citeriore Basal Thrust
+14.25140934	42.06131022	-9.5648503	Deep Abruzzo Citeriore Basal Thrust
+14.17253648	41.95206845	-16.4525793	Deep Abruzzo Citeriore Basal Thrust
+14.03292432	42.19580065	-9.060469	Deep Abruzzo Citeriore Basal Thrust
+14.29794748	41.81469369	-16.2495938	Deep Abruzzo Citeriore Basal Thrust
+14.17145332	42.15046324	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.25651712	41.95573418	-13.4118484	Deep Abruzzo Citeriore Basal Thrust
+14.04650975	42.13161216	-12.0361112	Deep Abruzzo Citeriore Basal Thrust
+14.11484698	41.99525029	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+13.98518834	42.21647638	-8.9352712	Deep Abruzzo Citeriore Basal Thrust
+14.29101213	41.97629767	-11.4448514	Deep Abruzzo Citeriore Basal Thrust
+14.0845015	42.11392926	-11.9634355	Deep Abruzzo Citeriore Basal Thrust
+14.25355572	42.09310584	-8.170811	Deep Abruzzo Citeriore Basal Thrust
+14.13630062	42.01040286	-15.1725393	Deep Abruzzo Citeriore Basal Thrust
+14.14140562	42.07270025	-12.2855801	Deep Abruzzo Citeriore Basal Thrust
+14.37815418	41.91987539	-9.8463743	Deep Abruzzo Citeriore Basal Thrust
+14.22668984	41.90453964	-16.1671357	Deep Abruzzo Citeriore Basal Thrust
+14.1611923	42.03058161	-13.5760177	Deep Abruzzo Citeriore Basal Thrust
+14.01978669	42.1614561	-11.1407046	Deep Abruzzo Citeriore Basal Thrust
+14.27448906	42.07727588	-8.1988779	Deep Abruzzo Citeriore Basal Thrust
+14.26407644	41.84928141	-16.4524563	Deep Abruzzo Citeriore Basal Thrust
+14.3777009	41.93900277	-9.2827219	Deep Abruzzo Citeriore Basal Thrust
+14.1232454	42.02979296	-14.6924077	Deep Abruzzo Citeriore Basal Thrust
+14.072016	42.02913122	-16.1806145	Deep Abruzzo Citeriore Basal Thrust
+14.30629766	41.96928265	-11.0826492	Deep Abruzzo Citeriore Basal Thrust
+13.84175303	42.1546506	-15.1982126	Deep Abruzzo Citeriore Basal Thrust
+13.87054302	42.12138317	-16.452366	Deep Abruzzo Citeriore Basal Thrust
+14.29355834	42.01446933	-10.0146497	Deep Abruzzo Citeriore Basal Thrust
+13.95655058	42.09794227	-15.8375032	Deep Abruzzo Citeriore Basal Thrust
+13.98839278	42.13680432	-13.122005	Deep Abruzzo Citeriore Basal Thrust
+14.06186454	42.1209805	-12.1823226	Deep Abruzzo Citeriore Basal Thrust
+14.24941295	42.10015464	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.33077061	41.84295679	-14.1035101	Deep Abruzzo Citeriore Basal Thrust
+14.38152151	41.83212594	-12.4982433	Deep Abruzzo Citeriore Basal Thrust
+14.32132482	42.04355241	-7.9999993	Deep Abruzzo Citeriore Basal Thrust
+14.07988932	42.19583449	-8.0001296	Deep Abruzzo Citeriore Basal Thrust
+13.98772152	42.15532281	-12.1733095	Deep Abruzzo Citeriore Basal Thrust
+14.09519006	42.10142549	-12.2915737	Deep Abruzzo Citeriore Basal Thrust
+14.00743507	42.14976956	-12.0225977	Deep Abruzzo Citeriore Basal Thrust
+14.1714097	41.99021667	-14.9472825	Deep Abruzzo Citeriore Basal Thrust
+14.38578679	41.93193659	-9.1714202	Deep Abruzzo Citeriore Basal Thrust
+14.05964902	42.20474124	-7.9999973	Deep Abruzzo Citeriore Basal Thrust
+13.98282539	42.16837122	-11.6034331	Deep Abruzzo Citeriore Basal Thrust
+13.99261451	42.18502045	-10.5173102	Deep Abruzzo Citeriore Basal Thrust
+13.97637112	42.08454654	-16.0608989	Deep Abruzzo Citeriore Basal Thrust
+14.41635753	41.93243048	-7.9999973	Deep Abruzzo Citeriore Basal Thrust
+14.16567616	42.0161868	-14.0417203	Deep Abruzzo Citeriore Basal Thrust
+14.18101333	42.09591816	-10.1348547	Deep Abruzzo Citeriore Basal Thrust
+14.26384676	41.96492357	-12.8408436	Deep Abruzzo Citeriore Basal Thrust
+14.15006001	42.12785585	-9.6102834	Deep Abruzzo Citeriore Basal Thrust
+14.183294	42.05926625	-11.6843992	Deep Abruzzo Citeriore Basal Thrust
+14.28225233	41.88676549	-14.6221829	Deep Abruzzo Citeriore Basal Thrust
+14.08271599	42.08017469	-13.6271105	Deep Abruzzo Citeriore Basal Thrust
+14.25183314	41.94728244	-13.8572988	Deep Abruzzo Citeriore Basal Thrust
+14.0053839	42.07604062	-15.7749568	Deep Abruzzo Citeriore Basal Thrust
+14.11880124	42.05261473	-13.8139436	Deep Abruzzo Citeriore Basal Thrust
+14.19957237	42.05340786	-11.4615396	Deep Abruzzo Citeriore Basal Thrust
+13.90299187	42.14661325	-14.4178391	Deep Abruzzo Citeriore Basal Thrust
+14.22557447	41.99704861	-12.9885295	Deep Abruzzo Citeriore Basal Thrust
+14.23246491	42.07892661	-9.400811	Deep Abruzzo Citeriore Basal Thrust
+13.82199985	42.13900675	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+13.96084555	42.2423173	-8.0000007	Deep Abruzzo Citeriore Basal Thrust
+14.23902453	41.93948698	-14.5925002	Deep Abruzzo Citeriore Basal Thrust
+14.11972008	42.15142673	-9.2682073	Deep Abruzzo Citeriore Basal Thrust
+14.17234921	42.0422836	-12.7446985	Deep Abruzzo Citeriore Basal Thrust
+14.31610031	42.00452709	-9.5953831	Deep Abruzzo Citeriore Basal Thrust
+13.92185762	42.10125444	-16.4523274	Deep Abruzzo Citeriore Basal Thrust
+14.22697451	41.89516502	-16.4515798	Deep Abruzzo Citeriore Basal Thrust
+14.16255671	42.12367148	-9.4382148	Deep Abruzzo Citeriore Basal Thrust
+14.19362159	42.10706678	-9.2846682	Deep Abruzzo Citeriore Basal Thrust
+14.38382735	41.97414615	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.33985035	41.94841159	-10.4854949	Deep Abruzzo Citeriore Basal Thrust
+14.03378708	42.2158083	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+14.0959589	42.04927215	-14.6118225	Deep Abruzzo Citeriore Basal Thrust
+14.10819712	42.1000416	-12.0269401	Deep Abruzzo Citeriore Basal Thrust
+14.36835265	41.85862489	-12.1717799	Deep Abruzzo Citeriore Basal Thrust
+14.13138709	42.01559739	-15.0853276	Deep Abruzzo Citeriore Basal Thrust
+14.29660323	41.85979889	-14.856198	Deep Abruzzo Citeriore Basal Thrust
+14.15315895	42.13833181	-9.0477004	Deep Abruzzo Citeriore Basal Thrust
+14.32398763	41.92925525	-11.7020402	Deep Abruzzo Citeriore Basal Thrust
+14.04194457	42.12174489	-12.6331201	Deep Abruzzo Citeriore Basal Thrust
+14.2547369	42.00631216	-11.6478739	Deep Abruzzo Citeriore Basal Thrust
+14.0294554	42.21741019	-7.9999797	Deep Abruzzo Citeriore Basal Thrust
+14.12262408	42.16640606	-8.4605066	Deep Abruzzo Citeriore Basal Thrust
+14.18612625	42.05034859	-11.9954401	Deep Abruzzo Citeriore Basal Thrust
+14.27598932	42.02429677	-10.2614858	Deep Abruzzo Citeriore Basal Thrust
+14.14237782	41.98925735	-15.8713665	Deep Abruzzo Citeriore Basal Thrust
+14.13825424	42.1333861	-9.663405	Deep Abruzzo Citeriore Basal Thrust
+14.24532433	41.96945715	-13.3139022	Deep Abruzzo Citeriore Basal Thrust
+13.99966932	42.09654952	-14.9079001	Deep Abruzzo Citeriore Basal Thrust
+13.92636973	42.17229575	-12.5391706	Deep Abruzzo Citeriore Basal Thrust
+14.27699028	41.97360365	-12.0657094	Deep Abruzzo Citeriore Basal Thrust
+14.1606906	41.99447367	-15.1003818	Deep Abruzzo Citeriore Basal Thrust
+14.30695879	41.87384348	-14.0205747	Deep Abruzzo Citeriore Basal Thrust
+14.29440127	42.06702924	-7.999967	Deep Abruzzo Citeriore Basal Thrust
+14.06162825	42.13767205	-11.3680136	Deep Abruzzo Citeriore Basal Thrust
+14.24347196	41.90713543	-15.4438728	Deep Abruzzo Citeriore Basal Thrust
+14.08803131	42.03375302	-15.5209148	Deep Abruzzo Citeriore Basal Thrust
+14.23920982	41.94570094	-14.3885535	Deep Abruzzo Citeriore Basal Thrust
+14.24579413	42.08398709	-8.7863103	Deep Abruzzo Citeriore Basal Thrust
+14.3979012	41.95523064	-7.9998518	Deep Abruzzo Citeriore Basal Thrust
+14.26519155	41.88132668	-15.4609014	Deep Abruzzo Citeriore Basal Thrust
+14.33753873	42.0223593	-8.2131003	Deep Abruzzo Citeriore Basal Thrust
+14.22915095	42.04054903	-11.1036953	Deep Abruzzo Citeriore Basal Thrust
+14.2021686	41.96846127	-14.8355449	Deep Abruzzo Citeriore Basal Thrust
+14.19667684	41.97335205	-14.8464158	Deep Abruzzo Citeriore Basal Thrust
+14.16138154	42.15579686	-8.0000017	Deep Abruzzo Citeriore Basal Thrust
+13.89169162	42.19443835	-12.0138825	Deep Abruzzo Citeriore Basal Thrust
+13.8628858	42.14850151	-15.1145146	Deep Abruzzo Citeriore Basal Thrust
+14.36535064	41.9193579	-10.3537035	Deep Abruzzo Citeriore Basal Thrust
+13.9571094	42.16330151	-12.4203999	Deep Abruzzo Citeriore Basal Thrust
+14.05679522	42.05272173	-15.5754326	Deep Abruzzo Citeriore Basal Thrust
+14.14822374	42.01527693	-14.6075471	Deep Abruzzo Citeriore Basal Thrust
+14.28398927	41.85439211	-15.5094294	Deep Abruzzo Citeriore Basal Thrust
+13.96724674	42.21748629	-9.2379536	Deep Abruzzo Citeriore Basal Thrust
+14.18498822	42.12137405	-8.9004575	Deep Abruzzo Citeriore Basal Thrust
+14.1939922	42.04146446	-12.1295953	Deep Abruzzo Citeriore Basal Thrust
+14.27456237	41.93111673	-13.4992925	Deep Abruzzo Citeriore Basal Thrust
+14.14261482	41.97518307	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.30499264	42.05893424	-8.0020901	Deep Abruzzo Citeriore Basal Thrust
+14.18516135	42.13465853	-8.3103608	Deep Abruzzo Citeriore Basal Thrust
+14.07368334	42.19328303	-8.2741387	Deep Abruzzo Citeriore Basal Thrust
+14.2400143	42.04839893	-10.446011	Deep Abruzzo Citeriore Basal Thrust
+14.10719822	42.09208058	-12.4070884	Deep Abruzzo Citeriore Basal Thrust
+14.106148	42.183895	-8.0004836	Deep Abruzzo Citeriore Basal Thrust
+14.3287992	41.85755996	-13.7101433	Deep Abruzzo Citeriore Basal Thrust
+14.302689	41.9235496	-12.6862995	Deep Abruzzo Citeriore Basal Thrust
+13.96061267	42.15834694	-12.6201815	Deep Abruzzo Citeriore Basal Thrust
+14.19532268	42.02692231	-12.6970542	Deep Abruzzo Citeriore Basal Thrust
+14.19608878	41.99401967	-14.026637	Deep Abruzzo Citeriore Basal Thrust
+14.20878324	41.9171665	-16.4527668	Deep Abruzzo Citeriore Basal Thrust
+13.8703589	42.13113236	-15.9201016	Deep Abruzzo Citeriore Basal Thrust
+14.05757872	42.05941227	-15.2584688	Deep Abruzzo Citeriore Basal Thrust
+14.08647547	42.06880925	-14.0217172	Deep Abruzzo Citeriore Basal Thrust
+14.24141555	41.887819	-16.1452917	Deep Abruzzo Citeriore Basal Thrust
+14.17431485	42.14466494	-8.1792087	Deep Abruzzo Citeriore Basal Thrust
+13.99552842	42.12017239	-13.804475	Deep Abruzzo Citeriore Basal Thrust
+14.03124219	42.11152214	-13.3976094	Deep Abruzzo Citeriore Basal Thrust
+14.21258215	42.0043234	-13.0949309	Deep Abruzzo Citeriore Basal Thrust
+14.42210065	41.91314181	-8.4003333	Deep Abruzzo Citeriore Basal Thrust
+14.20663515	42.11862724	-8.4047703	Deep Abruzzo Citeriore Basal Thrust
+14.22146849	42.0911363	-9.1932271	Deep Abruzzo Citeriore Basal Thrust
+14.40451895	41.87138277	-10.3850193	Deep Abruzzo Citeriore Basal Thrust
+14.36275592	41.90075086	-11.042287	Deep Abruzzo Citeriore Basal Thrust
+14.29490858	41.98971101	-10.8695365	Deep Abruzzo Citeriore Basal Thrust
+14.28357079	42.06754321	-8.3145869	Deep Abruzzo Citeriore Basal Thrust
+14.12752375	42.17332759	-7.9999841	Deep Abruzzo Citeriore Basal Thrust
+14.15380397	42.15120701	-8.4128262	Deep Abruzzo Citeriore Basal Thrust
+14.16971055	41.95460871	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.03229202	42.0858764	-14.6327021	Deep Abruzzo Citeriore Basal Thrust
+14.02467031	42.21392629	-8.2874761	Deep Abruzzo Citeriore Basal Thrust
+14.18896401	42.13924469	-7.999947	Deep Abruzzo Citeriore Basal Thrust
+14.20271427	42.07987234	-10.2235228	Deep Abruzzo Citeriore Basal Thrust
+14.34440663	41.94272925	-10.4967523	Deep Abruzzo Citeriore Basal Thrust
+14.1840978	41.94113879	-16.4523547	Deep Abruzzo Citeriore Basal Thrust
+14.35100697	41.88377026	-12.0306532	Deep Abruzzo Citeriore Basal Thrust
+13.93160731	42.18451827	-11.7625209	Deep Abruzzo Citeriore Basal Thrust
+14.22735703	41.98171937	-13.4857233	Deep Abruzzo Citeriore Basal Thrust
+14.07413661	42.05840585	-14.8312625	Deep Abruzzo Citeriore Basal Thrust
+14.06966503	42.20045086	-8.0003484	Deep Abruzzo Citeriore Basal Thrust
+14.01695898	42.12230375	-13.1998206	Deep Abruzzo Citeriore Basal Thrust
+14.01314343	42.05815687	-16.4523748	Deep Abruzzo Citeriore Basal Thrust
+14.18735799	41.96459114	-15.4867964	Deep Abruzzo Citeriore Basal Thrust
+14.11965451	42.1340646	-10.1034722	Deep Abruzzo Citeriore Basal Thrust
+14.32368725	41.82978669	-14.7896267	Deep Abruzzo Citeriore Basal Thrust
+14.11638693	42.10270817	-11.67733	Deep Abruzzo Citeriore Basal Thrust
+14.14705415	42.10991999	-10.4854915	Deep Abruzzo Citeriore Basal Thrust
+14.11023721	42.10848261	-11.5712463	Deep Abruzzo Citeriore Basal Thrust
+14.32855741	41.8849783	-12.840758	Deep Abruzzo Citeriore Basal Thrust
+14.38337264	41.90495688	-10.1275532	Deep Abruzzo Citeriore Basal Thrust
+14.25332955	41.86374506	-16.4522996	Deep Abruzzo Citeriore Basal Thrust
+14.3438351	41.97463353	-9.4877808	Deep Abruzzo Citeriore Basal Thrust
+13.90704228	42.18267249	-12.3544417	Deep Abruzzo Citeriore Basal Thrust
+14.09639789	42.16631771	-9.1075591	Deep Abruzzo Citeriore Basal Thrust
+14.0175707	42.19983851	-9.193626	Deep Abruzzo Citeriore Basal Thrust
+14.10379121	42.07081974	-13.4398505	Deep Abruzzo Citeriore Basal Thrust
+14.19881774	41.92722004	-16.4523235	Deep Abruzzo Citeriore Basal Thrust
+13.94715951	42.11739742	-15.0496787	Deep Abruzzo Citeriore Basal Thrust
+14.23164502	42.10143665	-8.4496812	Deep Abruzzo Citeriore Basal Thrust
+14.35741532	41.95328656	-9.6669978	Deep Abruzzo Citeriore Basal Thrust
+14.09235156	42.08427684	-13.1734412	Deep Abruzzo Citeriore Basal Thrust
+14.35328191	42.0100909	-8.0000022	Deep Abruzzo Citeriore Basal Thrust
+14.35676895	41.9416276	-10.0375251	Deep Abruzzo Citeriore Basal Thrust
+14.15872075	42.09982619	-10.5977817	Deep Abruzzo Citeriore Basal Thrust
+14.19975962	42.05974549	-11.1919056	Deep Abruzzo Citeriore Basal Thrust
+14.06326006	42.10458728	-12.9519485	Deep Abruzzo Citeriore Basal Thrust
+14.34269862	41.83939165	-13.7586877	Deep Abruzzo Citeriore Basal Thrust
+14.37718587	41.92794687	-9.6292903	Deep Abruzzo Citeriore Basal Thrust
+14.03003884	42.16895529	-10.5219059	Deep Abruzzo Citeriore Basal Thrust
+13.97857592	42.07562106	-16.4524241	Deep Abruzzo Citeriore Basal Thrust
+14.21767425	41.98941178	-13.5391073	Deep Abruzzo Citeriore Basal Thrust
+13.94340392	42.09183762	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+13.89028595	42.11421588	-16.4526062	Deep Abruzzo Citeriore Basal Thrust
+14.42597509	41.8828515	-9.2026509	Deep Abruzzo Citeriore Basal Thrust
+14.29475156	41.98634863	-10.9853167	Deep Abruzzo Citeriore Basal Thrust
+14.212054	41.9804731	-14.0584696	Deep Abruzzo Citeriore Basal Thrust
+14.09030534	42.01874704	-16.1168899	Deep Abruzzo Citeriore Basal Thrust
+14.05143388	42.07692928	-14.5787839	Deep Abruzzo Citeriore Basal Thrust
+14.26025566	41.86754134	-16.0647634	Deep Abruzzo Citeriore Basal Thrust
+14.06483302	42.11187026	-12.5583043	Deep Abruzzo Citeriore Basal Thrust
+14.2057117	41.98213076	-14.2136234	Deep Abruzzo Citeriore Basal Thrust
+14.0608471	42.14593731	-10.9806516	Deep Abruzzo Citeriore Basal Thrust
+14.27085976	41.87809718	-15.3312471	Deep Abruzzo Citeriore Basal Thrust
+14.37415221	41.98008712	-8.1716892	Deep Abruzzo Citeriore Basal Thrust
+14.21221877	42.03366309	-11.904917	Deep Abruzzo Citeriore Basal Thrust
+14.32515343	41.90159936	-12.477499	Deep Abruzzo Citeriore Basal Thrust
+14.13835449	42.16793156	-8.0003884	Deep Abruzzo Citeriore Basal Thrust
+13.90352804	42.11515628	-16.1366748	Deep Abruzzo Citeriore Basal Thrust
+14.22462758	41.94082802	-15.0690535	Deep Abruzzo Citeriore Basal Thrust
+14.17480936	41.97437271	-15.4880015	Deep Abruzzo Citeriore Basal Thrust
+14.04273601	42.09862014	-13.750892	Deep Abruzzo Citeriore Basal Thrust
+13.98379672	42.23398566	-7.9999949	Deep Abruzzo Citeriore Basal Thrust
+14.29489569	41.87305422	-14.5241497	Deep Abruzzo Citeriore Basal Thrust
+14.07264138	42.17468357	-9.2444917	Deep Abruzzo Citeriore Basal Thrust
+14.28768757	41.94248912	-12.6392857	Deep Abruzzo Citeriore Basal Thrust
+14.2488698	42.01521301	-11.5249503	Deep Abruzzo Citeriore Basal Thrust
+14.25772922	42.03059761	-10.6234716	Deep Abruzzo Citeriore Basal Thrust
+14.19017871	42.00701449	-13.6802073	Deep Abruzzo Citeriore Basal Thrust
+14.22651624	41.92702195	-15.4638457	Deep Abruzzo Citeriore Basal Thrust
+14.28799218	41.82014226	-16.4524509	Deep Abruzzo Citeriore Basal Thrust
+14.17458073	42.08018717	-11.0109581	Deep Abruzzo Citeriore Basal Thrust
+14.26491235	42.07873295	-8.428094	Deep Abruzzo Citeriore Basal Thrust
+13.94546017	42.14822456	-13.4819564	Deep Abruzzo Citeriore Basal Thrust
+14.10802933	42.04013266	-14.6704248	Deep Abruzzo Citeriore Basal Thrust
+14.08930309	42.1697901	-9.1085557	Deep Abruzzo Citeriore Basal Thrust
+14.32764964	41.9220584	-11.7740065	Deep Abruzzo Citeriore Basal Thrust
+14.13509792	41.98062095	-16.4522761	Deep Abruzzo Citeriore Basal Thrust
+14.06497808	42.06633857	-14.7422131	Deep Abruzzo Citeriore Basal Thrust
+14.32579876	41.94109458	-11.2502928	Deep Abruzzo Citeriore Basal Thrust
+14.03978048	42.14962275	-11.2809434	Deep Abruzzo Citeriore Basal Thrust
+14.34028264	42.02563193	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+13.94189833	42.09647076	-16.2523701	Deep Abruzzo Citeriore Basal Thrust
+14.21456701	41.99241016	-13.5202968	Deep Abruzzo Citeriore Basal Thrust
+14.36478419	41.82904045	-13.2367615	Deep Abruzzo Citeriore Basal Thrust
+14.0446757	42.20670822	-8.2310303	Deep Abruzzo Citeriore Basal Thrust
+14.28797545	41.92505086	-13.1909227	Deep Abruzzo Citeriore Basal Thrust
+14.37186275	41.88734117	-11.1271294	Deep Abruzzo Citeriore Basal Thrust
+14.41239589	41.92074453	-8.5241587	Deep Abruzzo Citeriore Basal Thrust
+14.29201571	41.83848083	-15.7128091	Deep Abruzzo Citeriore Basal Thrust
+14.22897237	41.93657688	-15.0682903	Deep Abruzzo Citeriore Basal Thrust
+14.12182249	42.11066002	-11.171145	Deep Abruzzo Citeriore Basal Thrust
+14.17827774	42.00361412	-14.186754	Deep Abruzzo Citeriore Basal Thrust
+14.03689589	42.04557528	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.20245526	42.02047133	-12.7505295	Deep Abruzzo Citeriore Basal Thrust
+13.85399976	42.12738878	-16.452345	Deep Abruzzo Citeriore Basal Thrust
+14.28326476	41.95924314	-12.279231	Deep Abruzzo Citeriore Basal Thrust
+14.40224859	41.93444285	-8.4691807	Deep Abruzzo Citeriore Basal Thrust
+13.92682711	42.13243988	-14.7195647	Deep Abruzzo Citeriore Basal Thrust
+14.07726257	42.11924094	-11.8909618	Deep Abruzzo Citeriore Basal Thrust
+14.27615448	41.83412476	-16.4524177	Deep Abruzzo Citeriore Basal Thrust
+14.28709265	41.84936159	-15.5497947	Deep Abruzzo Citeriore Basal Thrust
+13.96524973	42.15325748	-12.7811968	Deep Abruzzo Citeriore Basal Thrust
+14.21899526	42.02915927	-11.8827657	Deep Abruzzo Citeriore Basal Thrust
+14.16361482	42.06852231	-11.8370681	Deep Abruzzo Citeriore Basal Thrust
+14.43702046	41.90768743	-8.0000955	Deep Abruzzo Citeriore Basal Thrust
+14.36115622	41.86975722	-12.0961348	Deep Abruzzo Citeriore Basal Thrust
+14.2164498	42.12147066	-7.9999915	Deep Abruzzo Citeriore Basal Thrust
+14.32984543	42.01467519	-8.7504258	Deep Abruzzo Citeriore Basal Thrust
+13.83185927	42.14153034	-16.1169119	Deep Abruzzo Citeriore Basal Thrust
+13.87733578	42.17302988	-13.4776138	Deep Abruzzo Citeriore Basal Thrust
+14.1670694	42.05333644	-12.4074723	Deep Abruzzo Citeriore Basal Thrust
+14.28596489	41.98217154	-11.451095	Deep Abruzzo Citeriore Basal Thrust
+14.07664979	42.14855688	-10.4648282	Deep Abruzzo Citeriore Basal Thrust
+14.35250293	41.96132284	-9.5923201	Deep Abruzzo Citeriore Basal Thrust
+14.29605908	42.05794044	-8.319561	Deep Abruzzo Citeriore Basal Thrust
+14.03714904	42.07850518	-14.8664648	Deep Abruzzo Citeriore Basal Thrust
+14.07415617	42.04535418	-15.405394	Deep Abruzzo Citeriore Basal Thrust
+14.29372775	41.81336054	-16.4524402	Deep Abruzzo Citeriore Basal Thrust
+14.22503239	42.08312066	-9.4453303	Deep Abruzzo Citeriore Basal Thrust
+14.05237642	42.03566533	-16.4523611	Deep Abruzzo Citeriore Basal Thrust
+13.99197093	42.06894399	-16.4523254	Deep Abruzzo Citeriore Basal Thrust
+14.00203014	42.13788007	-12.7525142	Deep Abruzzo Citeriore Basal Thrust
+14.43113629	41.87084586	-9.3814341	Deep Abruzzo Citeriore Basal Thrust
+14.3427575	41.93183064	-10.8842017	Deep Abruzzo Citeriore Basal Thrust
+14.23933733	41.95235571	-14.1424862	Deep Abruzzo Citeriore Basal Thrust
+14.41322182	41.85686994	-10.5066538	Deep Abruzzo Citeriore Basal Thrust
+14.37135353	41.96359451	-8.8093074	Deep Abruzzo Citeriore Basal Thrust
+14.30086634	42.05572117	-8.2604756	Deep Abruzzo Citeriore Basal Thrust
+14.07331795	42.02211715	-16.4523137	Deep Abruzzo Citeriore Basal Thrust
+14.32575367	41.78855512	-16.0033333	Deep Abruzzo Citeriore Basal Thrust
+13.95376246	42.19696059	-10.6360107	Deep Abruzzo Citeriore Basal Thrust
+14.28825015	41.90845609	-13.7173121	Deep Abruzzo Citeriore Basal Thrust
+13.91832627	42.1952331	-11.4385211	Deep Abruzzo Citeriore Basal Thrust
+14.05367652	42.04075184	-16.1913767	Deep Abruzzo Citeriore Basal Thrust
+14.0301303	42.21108403	-8.3282974	Deep Abruzzo Citeriore Basal Thrust
+14.37541888	41.9839244	-7.999948	Deep Abruzzo Citeriore Basal Thrust
+14.03379912	42.18014792	-9.8556492	Deep Abruzzo Citeriore Basal Thrust
+14.36773161	41.91645668	-10.3506523	Deep Abruzzo Citeriore Basal Thrust
+14.30788661	41.9917496	-10.3124607	Deep Abruzzo Citeriore Basal Thrust
+14.04820634	42.13819752	-11.6679749	Deep Abruzzo Citeriore Basal Thrust
+14.23546389	42.00726872	-12.2663813	Deep Abruzzo Citeriore Basal Thrust
+14.26914854	41.91306064	-14.2863694	Deep Abruzzo Citeriore Basal Thrust
+14.24927867	41.86917374	-16.452365	Deep Abruzzo Citeriore Basal Thrust
+14.27456239	41.89061167	-14.8093777	Deep Abruzzo Citeriore Basal Thrust
+14.40574164	41.94496332	-7.9998904	Deep Abruzzo Citeriore Basal Thrust
+14.06218247	42.08550179	-13.8942771	Deep Abruzzo Citeriore Basal Thrust
+14.05565273	42.17221038	-9.7637341	Deep Abruzzo Citeriore Basal Thrust
+14.31275911	42.02392125	-9.0096213	Deep Abruzzo Citeriore Basal Thrust
+14.31035077	42.04527406	-8.3150044	Deep Abruzzo Citeriore Basal Thrust
+14.27922495	42.03771469	-9.6612473	Deep Abruzzo Citeriore Basal Thrust
+14.25166021	42.04452481	-10.2431415	Deep Abruzzo Citeriore Basal Thrust
+14.31550299	41.93066076	-11.9746268	Deep Abruzzo Citeriore Basal Thrust
+14.09403023	42.09029077	-12.8553353	Deep Abruzzo Citeriore Basal Thrust
+14.25732833	42.02295775	-10.9477623	Deep Abruzzo Citeriore Basal Thrust
+14.34466663	41.8662963	-12.8301104	Deep Abruzzo Citeriore Basal Thrust
+14.25906509	42.09319805	-8.0005334	Deep Abruzzo Citeriore Basal Thrust
+14.1239389	42.00365002	-15.8241848	Deep Abruzzo Citeriore Basal Thrust
+14.32215006	41.8001306	-15.7783501	Deep Abruzzo Citeriore Basal Thrust
+14.01260637	42.106139	-14.1193623	Deep Abruzzo Citeriore Basal Thrust
+13.9665195	42.12101569	-14.4311482	Deep Abruzzo Citeriore Basal Thrust
+13.93423818	42.10529336	-15.9667925	Deep Abruzzo Citeriore Basal Thrust
+14.3440315	41.8028411	-14.8543328	Deep Abruzzo Citeriore Basal Thrust
+14.17706598	42.03868706	-12.7571131	Deep Abruzzo Citeriore Basal Thrust
+13.93934492	42.14036232	-14.029208	Deep Abruzzo Citeriore Basal Thrust
+14.23753196	42.03019988	-11.2656666	Deep Abruzzo Citeriore Basal Thrust
+14.33454586	42.0310557	-8.0000032	Deep Abruzzo Citeriore Basal Thrust
+13.88341389	42.13958874	-15.1946975	Deep Abruzzo Citeriore Basal Thrust
+14.26022029	41.91655463	-14.5086951	Deep Abruzzo Citeriore Basal Thrust
+14.29881755	41.9487484	-12.0168193	Deep Abruzzo Citeriore Basal Thrust
+14.29263338	42.03450145	-9.3170366	Deep Abruzzo Citeriore Basal Thrust
+14.21879401	41.90505616	-16.4523987	Deep Abruzzo Citeriore Basal Thrust
+14.24879482	41.95318057	-13.7863503	Deep Abruzzo Citeriore Basal Thrust
+14.42127948	41.86777782	-9.8555581	Deep Abruzzo Citeriore Basal Thrust
+14.04530636	42.05075308	-15.9894319	Deep Abruzzo Citeriore Basal Thrust
+14.23628578	42.089934	-8.8242043	Deep Abruzzo Citeriore Basal Thrust
+14.24304464	41.87642856	-16.4527053	Deep Abruzzo Citeriore Basal Thrust
+13.95988093	42.18078886	-11.4032048	Deep Abruzzo Citeriore Basal Thrust
+14.29293399	42.04739051	-8.8375647	Deep Abruzzo Citeriore Basal Thrust
+14.33606809	41.96219943	-10.1817729	Deep Abruzzo Citeriore Basal Thrust
+13.98799958	42.08982604	-15.5226833	Deep Abruzzo Citeriore Basal Thrust
+14.24353041	42.10395888	-7.9998425	Deep Abruzzo Citeriore Basal Thrust
+14.13848436	42.06113237	-12.8782437	Deep Abruzzo Citeriore Basal Thrust
+14.30673551	42.00270459	-9.9901519	Deep Abruzzo Citeriore Basal Thrust
+14.3180725	41.98328935	-10.1904543	Deep Abruzzo Citeriore Basal Thrust
+14.00380426	42.06304689	-16.4528562	Deep Abruzzo Citeriore Basal Thrust
+13.95933774	42.08458967	-16.4521775	Deep Abruzzo Citeriore Basal Thrust
+14.39184956	41.94662797	-8.494459	Deep Abruzzo Citeriore Basal Thrust
+14.26830214	41.97575361	-12.294265	Deep Abruzzo Citeriore Basal Thrust
+14.17603322	41.95896786	-16.0777996	Deep Abruzzo Citeriore Basal Thrust
+14.10759962	42.140788	-10.0875583	Deep Abruzzo Citeriore Basal Thrust
+14.31215456	41.79086338	-16.4523689	Deep Abruzzo Citeriore Basal Thrust
+14.08058582	42.09449592	-12.994989	Deep Abruzzo Citeriore Basal Thrust
+14.21682686	41.91600948	-16.1816191	Deep Abruzzo Citeriore Basal Thrust
+14.28955127	42.04806229	-8.9244314	Deep Abruzzo Citeriore Basal Thrust
+13.90522718	42.16574862	-13.3211593	Deep Abruzzo Citeriore Basal Thrust
+14.26049453	41.88532822	-15.5083706	Deep Abruzzo Citeriore Basal Thrust
+13.9340692	42.12635752	-14.8747551	Deep Abruzzo Citeriore Basal Thrust
+14.16936466	42.11043129	-9.8274846	Deep Abruzzo Citeriore Basal Thrust
+14.35555463	41.90857217	-11.0640609	Deep Abruzzo Citeriore Basal Thrust
+14.32195719	41.88534571	-13.0840728	Deep Abruzzo Citeriore Basal Thrust
+14.39527385	41.91946676	-9.2127576	Deep Abruzzo Citeriore Basal Thrust
+14.21009823	41.92511561	-16.1409492	Deep Abruzzo Citeriore Basal Thrust
+14.25216699	41.87566017	-16.1340657	Deep Abruzzo Citeriore Basal Thrust
+14.25729794	42.01865871	-11.1107445	Deep Abruzzo Citeriore Basal Thrust
+14.12044945	41.99121748	-16.4524695	Deep Abruzzo Citeriore Basal Thrust
+14.03720107	42.05488485	-15.9980554	Deep Abruzzo Citeriore Basal Thrust
+14.23480207	41.99202799	-12.8541804	Deep Abruzzo Citeriore Basal Thrust
+14.00621568	42.19370509	-9.7647551	Deep Abruzzo Citeriore Basal Thrust
+14.40362981	41.9475212	-7.9999998	Deep Abruzzo Citeriore Basal Thrust
+17.023595	41.646	-13.9999998	Deep Gondola Fault Zone
+17.023595	41.646	-15.3124998	Deep Gondola Fault Zone
+16.60971091	41.65046558	-26.4624998	Deep Gondola Fault Zone
+16.97829218	41.64600103	-20.2953125	Deep Gondola Fault Zone
+16.57880164	41.65156132	-29.3203123	Deep Gondola Fault Zone
+16.2278848	41.6750653	-23.1500004	Deep Gondola Fault Zone
+16.95506723	41.64600032	-21.1671874	Deep Gondola Fault Zone
+16.53165999	41.65362648	-17.478906	Deep Gondola Fault Zone
+16.40792917	41.65973774	-29.2093894	Deep Gondola Fault Zone
+16.28329084	41.6705296	-13.9999939	Deep Gondola Fault Zone
+16.65070454	41.64925276	-22.9589844	Deep Gondola Fault Zone
+16.33351464	41.6657123	-14.8558591	Deep Gondola Fault Zone
+17.023595	41.646	-17.0999998	Deep Gondola Fault Zone
+16.1917085	41.67866534	-21.4523438	Deep Gondola Fault Zone
+16.70784751	41.64828284	-22.6160155	Deep Gondola Fault Zone
+16.56171717	41.65231133	-29.9999998	Deep Gondola Fault Zone
+16.12622324	41.68529882	-14.9652341	Deep Gondola Fault Zone
+16.84375862	41.64601938	-27.3640652	Deep Gondola Fault Zone
+16.18055988	41.67977418	-15.0843748	Deep Gondola Fault Zone
+16.59047005	41.65104583	-26.5750002	Deep Gondola Fault Zone
+17.023595	41.646	-18.9	Deep Gondola Fault Zone
+16.41398504	41.65939446	-20.8691409	Deep Gondola Fault Zone
+16.88839814	41.6460011	-25.4621091	Deep Gondola Fault Zone
+16.50255701	41.65491932	-16.3062498	Deep Gondola Fault Zone
+16.84770719	41.64599535	-29.5999998	Deep Gondola Fault Zone
+16.17215451	41.6806089	-29.2511707	Deep Gondola Fault Zone
+16.78987774	41.64693643	-29.0593748	Deep Gondola Fault Zone
+16.56078103	41.6523524	-29.3484373	Deep Gondola Fault Zone
+16.97999177	41.6460012	-29.3874998	Deep Gondola Fault Zone
+16.22715423	41.67513494	-24.7906289	Deep Gondola Fault Zone
+16.86743376	41.6460014	-25.03125	Deep Gondola Fault Zone
+16.27450018	41.67124757	-22.525	Deep Gondola Fault Zone
+16.94352173	41.64600138	-18.296875	Deep Gondola Fault Zone
+16.22748637	41.675103	-26.3749978	Deep Gondola Fault Zone
+16.100047	41.688	-22.9	Deep Gondola Fault Zone
+16.70896082	41.64826626	-14.6609373	Deep Gondola Fault Zone
+16.22688867	41.67516144	-19.2000093	Deep Gondola Fault Zone
+16.4639589	41.65663624	-24.8749978	Deep Gondola Fault Zone
+16.40250531	41.66006768	-13.9999998	Deep Gondola Fault Zone
+17.023595	41.646	-21.1	Deep Gondola Fault Zone
+16.30227132	41.66877532	-21.375	Deep Gondola Fault Zone
+17.023595	41.646	-23.3	Deep Gondola Fault Zone
+16.78630362	41.64699663	-27.4812498	Deep Gondola Fault Zone
+16.10521743	41.68746663	-23.334375	Deep Gondola Fault Zone
+16.38881074	41.66111326	-24.465625	Deep Gondola Fault Zone
+16.50822378	41.65466688	-29.9999998	Deep Gondola Fault Zone
+16.65927133	41.64899941	-29.3749998	Deep Gondola Fault Zone
+16.40714453	41.65978241	-16.0281257	Deep Gondola Fault Zone
+16.100047	41.688	-14.5999998	Deep Gondola Fault Zone
+16.25492117	41.67284701	-16.3343748	Deep Gondola Fault Zone
+16.26810708	41.67176999	-13.9999998	Deep Gondola Fault Zone
+16.45416538	41.65708882	-21.2625005	Deep Gondola Fault Zone
+17.023595	41.646	-25.4499998	Deep Gondola Fault Zone
+16.34362304	41.66472024	-26.6328123	Deep Gondola Fault Zone
+16.74661168	41.6476679	-29.2187498	Deep Gondola Fault Zone
+16.72849825	41.64797395	-18.3124998	Deep Gondola Fault Zone
+16.79857448	41.64679026	-23.2874999	Deep Gondola Fault Zone
+16.47699793	41.65605801	-22.05625	Deep Gondola Fault Zone
+16.62494554	41.65001542	-17.4429685	Deep Gondola Fault Zone
+16.75851427	41.64746717	-29.9999998	Deep Gondola Fault Zone
+16.100047	41.688	-16.0999998	Deep Gondola Fault Zone
+16.22761906	41.67508962	-28.3500051	Deep Gondola Fault Zone
+17.023595	41.646	-27.3999998	Deep Gondola Fault Zone
+16.91472082	41.64600063	-28.2234373	Deep Gondola Fault Zone
+16.18422902	41.67940909	-23.5789063	Deep Gondola Fault Zone
+16.32357639	41.66668738	-20.6429688	Deep Gondola Fault Zone
+16.32475539	41.66657179	-13.9999998	Deep Gondola Fault Zone
+16.78593534	41.64700283	-20.009375	Deep Gondola Fault Zone
+16.46181932	41.65673197	-21.6999987	Deep Gondola Fault Zone
+16.100047	41.688	-25.15	Deep Gondola Fault Zone
+16.28968357	41.67000722	-14.6874783	Deep Gondola Fault Zone
+16.4035717	41.65999054	-21.3999985	Deep Gondola Fault Zone
+16.43561453	41.65815688	-18.0546873	Deep Gondola Fault Zone
+16.22615824	41.67523141	-29.6000105	Deep Gondola Fault Zone
+17.023595	41.646	-29.3999998	Deep Gondola Fault Zone
+16.22629134	41.67522324	-29.9999861	Deep Gondola Fault Zone
+16.7421419	41.64774324	-22.4125	Deep Gondola Fault Zone
+16.47706478	41.65605485	-24.9	Deep Gondola Fault Zone
+16.60484163	41.65060757	-23.269531	Deep Gondola Fault Zone
+16.94799261	41.64600121	-29.4437498	Deep Gondola Fault Zone
+17.023595	41.646	-29.9999998	Deep Gondola Fault Zone
+16.82556444	41.64633529	-16.6624998	Deep Gondola Fault Zone
+16.28968364	41.67000624	-16.2999998	Deep Gondola Fault Zone
+16.60449027	41.65061817	-19.6921882	Deep Gondola Fault Zone
+16.2164626	41.67620252	-13.9999998	Deep Gondola Fault Zone
+16.35318648	41.66381013	-30.0001272	Deep Gondola Fault Zone
+16.17542122	41.68028487	-29.9999998	Deep Gondola Fault Zone
+16.95353512	41.64600049	-29.9999998	Deep Gondola Fault Zone
+16.28968364	41.67000625	-24.4	Deep Gondola Fault Zone
+16.38224669	41.66161483	-29.9999998	Deep Gondola Fault Zone
+16.58966811	41.65107892	-25.0374985	Deep Gondola Fault Zone
+16.9416882	41.64600143	-15.7347654	Deep Gondola Fault Zone
+16.45673722	41.6569554	-25.7499919	Deep Gondola Fault Zone
+16.82346769	41.64637112	-29.9999998	Deep Gondola Fault Zone
+16.71438512	41.64818574	-28.6812498	Deep Gondola Fault Zone
+16.20809519	41.67703555	-14.5843748	Deep Gondola Fault Zone
+16.33160516	41.66590054	-28.082031	Deep Gondola Fault Zone
+16.100047	41.688	-29.9999998	Deep Gondola Fault Zone
+16.44506519	41.65761548	-20.4152341	Deep Gondola Fault Zone
+16.76976394	41.64727658	-14.982031	Deep Gondola Fault Zone
+16.77264335	41.64722828	-28.1874998	Deep Gondola Fault Zone
+16.29845194	41.66914938	-22.94375	Deep Gondola Fault Zone
+16.76072404	41.64742992	-24.6125	Deep Gondola Fault Zone
+16.100047	41.688	-29.0999998	Deep Gondola Fault Zone
+16.40250526	41.66006837	-16.2999983	Deep Gondola Fault Zone
+16.96666292	41.64600014	-13.9999998	Deep Gondola Fault Zone
+16.65927143	41.64899931	-18.0624983	Deep Gondola Fault Zone
+17.0132133	41.64600086	-18.7	Deep Gondola Fault Zone
+16.67453986	41.64877498	-17.4999998	Deep Gondola Fault Zone
+16.99318655	41.64600147	-25.7843748	Deep Gondola Fault Zone
+16.87905458	41.64600142	-20.0484375	Deep Gondola Fault Zone
+16.70882689	41.64826813	-29.9999998	Deep Gondola Fault Zone
+16.59421611	41.65091948	-29.9999919	Deep Gondola Fault Zone
+16.72811321	41.64797965	-29.0656248	Deep Gondola Fault Zone
+16.28968364	41.67000622	-26.2999998	Deep Gondola Fault Zone
+16.35132483	41.66397346	-22.4000001	Deep Gondola Fault Zone
+16.66489659	41.64891682	-13.9999998	Deep Gondola Fault Zone
+16.58264655	41.65139141	-14.8273459	Deep Gondola Fault Zone
+16.64146854	41.64952768	-13.9999993	Deep Gondola Fault Zone
+16.4812773	41.65586745	-27.7499998	Deep Gondola Fault Zone
+16.21318377	41.67652932	-28.6046882	Deep Gondola Fault Zone
+16.17655015	41.68017208	-19.040625	Deep Gondola Fault Zone
+16.21913556	41.67593667	-25.9335938	Deep Gondola Fault Zone
+16.75694064	41.64749373	-16.0437498	Deep Gondola Fault Zone
+16.4402481	41.65789213	-16.6749998	Deep Gondola Fault Zone
+16.35738522	41.66351159	-25.1738279	Deep Gondola Fault Zone
+16.16472808	41.68134346	-14.6718762	Deep Gondola Fault Zone
+16.58124225	41.65145356	-17.7593743	Deep Gondola Fault Zone
+16.8382998	41.64611952	-20.2632808	Deep Gondola Fault Zone
+16.39637446	41.66053605	-29.9999998	Deep Gondola Fault Zone
+16.16828213	41.68099486	-17.1187498	Deep Gondola Fault Zone
+16.96437726	41.64599996	-18.4960938	Deep Gondola Fault Zone
+16.93054461	41.64600147	-14.5812498	Deep Gondola Fault Zone
+16.44529061	41.65760262	-28.716406	Deep Gondola Fault Zone
+16.81200044	41.64656438	-19.1429685	Deep Gondola Fault Zone
+16.60489201	41.65060758	-21.509375	Deep Gondola Fault Zone
+16.87463398	41.6460015	-21.875	Deep Gondola Fault Zone
+16.82601225	41.64632783	-13.9999998	Deep Gondola Fault Zone
+16.2731683	41.67135635	-29.9999998	Deep Gondola Fault Zone
+16.30301026	41.66870291	-24.9691404	Deep Gondola Fault Zone
+16.14629098	41.68322554	-26.6937498	Deep Gondola Fault Zone
+17.01431845	41.64600079	-25.7484373	Deep Gondola Fault Zone
+16.83895262	41.64610732	-21.9906313	Deep Gondola Fault Zone
+16.37338346	41.66229156	-18.3042969	Deep Gondola Fault Zone
+16.84489605	41.64600482	-19.981249	Deep Gondola Fault Zone
+16.16227016	41.68158417	-26.3750007	Deep Gondola Fault Zone
+16.44351238	41.6577048	-14.7999998	Deep Gondola Fault Zone
+16.20381172	41.67746153	-16.407031	Deep Gondola Fault Zone
+16.34368531	41.66471401	-24.2363276	Deep Gondola Fault Zone
+16.39830781	41.66038548	-27.2375046	Deep Gondola Fault Zone
+16.20145419	41.67769598	-22.7042969	Deep Gondola Fault Zone
+16.3822467	41.66161489	-27.6499998	Deep Gondola Fault Zone
+16.23987044	41.67407597	-24.65	Deep Gondola Fault Zone
+16.41689254	41.65922846	-17.6960935	Deep Gondola Fault Zone
+17.00242968	41.64600137	-13.9999998	Deep Gondola Fault Zone
+16.34209089	41.66486682	-29.2586003	Deep Gondola Fault Zone
+16.9005883	41.64600014	-23.7968749	Deep Gondola Fault Zone
+16.27776325	41.67098051	-28.0593748	Deep Gondola Fault Zone
+16.49297868	41.65534651	-17.8249998	Deep Gondola Fault Zone
+16.14587611	41.68326821	-24.6632813	Deep Gondola Fault Zone
+17.01743296	41.64600056	-29.1749998	Deep Gondola Fault Zone
+16.59287697	41.65095526	-17.4500002	Deep Gondola Fault Zone
+16.84784053	41.64599247	-14.6562478	Deep Gondola Fault Zone
+16.36651944	41.66281573	-29.9999998	Deep Gondola Fault Zone
+16.100047	41.688	-13.9999998	Deep Gondola Fault Zone
+16.79981328	41.64676962	-26.7078123	Deep Gondola Fault Zone
+16.32967061	41.66608992	-26.5562498	Deep Gondola Fault Zone
+16.2955958	41.66943006	-28.7937502	Deep Gondola Fault Zone
+16.96719876	41.64599995	-24.5683594	Deep Gondola Fault Zone
+16.16984264	41.6808391	-24.85	Deep Gondola Fault Zone
+16.15988034	41.68182673	-24.375	Deep Gondola Fault Zone
+16.87279205	41.64600166	-27.1167966	Deep Gondola Fault Zone
+16.41550242	41.6593076	-27.4937498	Deep Gondola Fault Zone
+16.65927133	41.64899939	-27.7499998	Deep Gondola Fault Zone
+16.91172352	41.64600046	-25.460156	Deep Gondola Fault Zone
+16.83239038	41.64622008	-18.6933594	Deep Gondola Fault Zone
+16.86626161	41.64600141	-17.5203123	Deep Gondola Fault Zone
+16.65304701	41.64918332	-25.2999998	Deep Gondola Fault Zone
+16.20436789	41.67740611	-26.8578123	Deep Gondola Fault Zone
+16.59053667	41.65104344	-19.312501	Deep Gondola Fault Zone
+16.40637646	41.65982608	-17.7406262	Deep Gondola Fault Zone
+16.97269107	41.64600068	-29.9999998	Deep Gondola Fault Zone
+16.49685683	41.65517371	-24.9	Deep Gondola Fault Zone
+16.2792949	41.67085486	-29.4937493	Deep Gondola Fault Zone
+16.60090931	41.65072246	-24.5812566	Deep Gondola Fault Zone
+16.47900388	41.65596876	-23.4374999	Deep Gondola Fault Zone
+16.60760263	41.65052752	-29.9999998	Deep Gondola Fault Zone
+16.66489659	41.64891682	-16.5249998	Deep Gondola Fault Zone
+16.12065658	41.68587358	-16.669531	Deep Gondola Fault Zone
+16.19712094	41.67812707	-29.347656	Deep Gondola Fault Zone
+16.69021014	41.64854383	-20.00625	Deep Gondola Fault Zone
+16.55320831	41.65268455	-15.3406248	Deep Gondola Fault Zone
+16.23573957	41.67440793	-14.6312556	Deep Gondola Fault Zone
+16.90998208	41.64600027	-15.9781248	Deep Gondola Fault Zone
+16.35505691	41.66368914	-19.6125	Deep Gondola Fault Zone
+16.79333467	41.64687852	-14.9468748	Deep Gondola Fault Zone
+16.56890537	41.65199584	-16.4281248	Deep Gondola Fault Zone
+16.51303797	41.6544517	-13.9999998	Deep Gondola Fault Zone
+16.17914035	41.67991568	-13.9999998	Deep Gondola Fault Zone
+16.95327557	41.64600094	-22.6359375	Deep Gondola Fault Zone
+16.35132493	41.66397363	-13.9999998	Deep Gondola Fault Zone
+16.40864774	41.65969873	-14.0000066	Deep Gondola Fault Zone
+16.49989496	41.65503798	-28.8880857	Deep Gondola Fault Zone
+16.57881835	41.65156047	-25.7609377	Deep Gondola Fault Zone
+16.27842924	41.67092643	-16.4249998	Deep Gondola Fault Zone
+16.31311483	41.66771251	-17.1999998	Deep Gondola Fault Zone
+16.93061158	41.64600149	-26.6984373	Deep Gondola Fault Zone
+16.62711235	41.64995131	-28.4718748	Deep Gondola Fault Zone
+16.84375868	41.64601952	-17.1640613	Deep Gondola Fault Zone
+16.79460697	41.64685707	-18.4656248	Deep Gondola Fault Zone
+16.43601747	41.6581349	-23.9624998	Deep Gondola Fault Zone
+16.95015265	41.64600105	-26.3562498	Deep Gondola Fault Zone
+16.12877012	41.68503578	-25.8656248	Deep Gondola Fault Zone
+16.59187377	41.6509892	-29.2219128	Deep Gondola Fault Zone
+16.76246506	41.64740047	-22.5234375	Deep Gondola Fault Zone
+16.59384692	41.65092551	-14.8593728	Deep Gondola Fault Zone
+16.15908352	41.68190643	-30.0000007	Deep Gondola Fault Zone
+16.74599224	41.64767862	-26.6812498	Deep Gondola Fault Zone
+16.29606096	41.66938572	-29.9999998	Deep Gondola Fault Zone
+16.45593527	41.65699334	-29.275012	Deep Gondola Fault Zone
+16.34295469	41.66478606	-13.9999988	Deep Gondola Fault Zone
+16.30141611	41.66885902	-18.953906	Deep Gondola Fault Zone
+16.79520961	41.64684663	-16.6140623	Deep Gondola Fault Zone
+16.87259112	41.6460021	-23.4746093	Deep Gondola Fault Zone
+16.38952721	41.66105911	-14.7796873	Deep Gondola Fault Zone
+16.64435479	41.64944169	-14.66172	Deep Gondola Fault Zone
+16.4030385	41.66002576	-24.2500015	Deep Gondola Fault Zone
+16.87413164	41.64600148	-14.6874998	Deep Gondola Fault Zone
+16.59334544	41.65094192	-27.5125046	Deep Gondola Fault Zone
+16.100047	41.688	-27.2499998	Deep Gondola Fault Zone
+16.82975374	41.64626458	-28.9265623	Deep Gondola Fault Zone
+16.66928294	41.64885234	-19.5132813	Deep Gondola Fault Zone
+16.62607496	41.64998187	-15.1281248	Deep Gondola Fault Zone
+16.65113119	41.6492401	-28.8457029	Deep Gondola Fault Zone
+16.89162987	41.64600099	-22.0359376	Deep Gondola Fault Zone
+16.28222515	41.67061611	-20.625	Deep Gondola Fault Zone
+16.85909489	41.64600106	-14.5249998	Deep Gondola Fault Zone
+16.84569955	41.64600001	-25.5499983	Deep Gondola Fault Zone
+16.44391308	41.65768149	-13.9999998	Deep Gondola Fault Zone
+16.31509093	41.66751892	-23.6789063	Deep Gondola Fault Zone
+16.84810861	41.64599757	-28.5031448	Deep Gondola Fault Zone
+16.34601009	41.66448689	-29.9999988	Deep Gondola Fault Zone
+16.74759934	41.64765112	-20.184375	Deep Gondola Fault Zone
+16.3809806	41.66171205	-29.0937498	Deep Gondola Fault Zone
+16.88538408	41.64600133	-18.0874998	Deep Gondola Fault Zone
+16.39145976	41.66091145	-18.1203123	Deep Gondola Fault Zone
+16.69101373	41.64853195	-18.5984373	Deep Gondola Fault Zone
+16.95959663	41.64600025	-19.7546875	Deep Gondola Fault Zone
+16.16200522	41.681614	-28.0999993	Deep Gondola Fault Zone
+16.48049162	41.65590236	-15.3312498	Deep Gondola Fault Zone
+16.90685083	41.64600002	-29.3562498	Deep Gondola Fault Zone
+16.22004874	41.67584611	-15.9023435	Deep Gondola Fault Zone
+16.35132489	41.66397347	-27.6999998	Deep Gondola Fault Zone
+16.76588013	41.6473427	-29.5124998	Deep Gondola Fault Zone
+16.35205677	41.66391631	-29.2781438	Deep Gondola Fault Zone
+16.30215502	41.66878649	-15.5429685	Deep Gondola Fault Zone
+16.65328126	41.64917634	-20.3968749	Deep Gondola Fault Zone
+16.42347552	41.6588518	-29.1187498	Deep Gondola Fault Zone
+16.85521011	41.64600104	-15.9171868	Deep Gondola Fault Zone
+16.89852871	41.64600014	-14.8703123	Deep Gondola Fault Zone
+16.54165694	41.65319093	-21.25	Deep Gondola Fault Zone
+16.31352999	41.66767193	-14.5499998	Deep Gondola Fault Zone
+16.65927133	41.64899941	-29.9999998	Deep Gondola Fault Zone
+16.77525486	41.64718404	-16.6999998	Deep Gondola Fault Zone
+16.92210531	41.64600121	-20.671875	Deep Gondola Fault Zone
+16.72832247	41.64797691	-25.9300779	Deep Gondola Fault Zone
+16.4607495	41.65677981	-23.3250006	Deep Gondola Fault Zone
+16.4261471	41.65869879	-13.9999998	Deep Gondola Fault Zone
+16.75496526	41.64752707	-27.6624998	Deep Gondola Fault Zone
+16.80558878	41.64667247	-21.3171875	Deep Gondola Fault Zone
+16.9384481	41.64600147	-19.9320313	Deep Gondola Fault Zone
+16.40630987	41.65983037	-24.9000007	Deep Gondola Fault Zone
+16.64017174	41.64956499	-21.5460938	Deep Gondola Fault Zone
+16.29606062	41.66938333	-27.1296873	Deep Gondola Fault Zone
+16.13636925	41.68425121	-18.091406	Deep Gondola Fault Zone
+16.94225752	41.64600141	-28.1046873	Deep Gondola Fault Zone
+16.60864003	41.6504969	-14.9156248	Deep Gondola Fault Zone
+16.35105837	41.66399532	-15.0999968	Deep Gondola Fault Zone
+16.97130126	41.64600023	-22.303125	Deep Gondola Fault Zone
+16.36343719	41.66305027	-17.0562498	Deep Gondola Fault Zone
+16.40303837	41.66002838	-19.4000081	Deep Gondola Fault Zone
+16.68910518	41.64856016	-23.5609375	Deep Gondola Fault Zone
+16.36358714	41.66303872	-13.9999998	Deep Gondola Fault Zone
+16.54132258	41.65320533	-26.3624998	Deep Gondola Fault Zone
+16.66489659	41.64891682	-21.94375	Deep Gondola Fault Zone
+16.45423235	41.65708479	-15.1124988	Deep Gondola Fault Zone
+16.62952177	41.64988006	-26.4867185	Deep Gondola Fault Zone
+16.45406466	41.65709079	-13.9999958	Deep Gondola Fault Zone
+16.67441429	41.64877684	-28.7175779	Deep Gondola Fault Zone
+16.6231301	41.65006905	-22.540625	Deep Gondola Fault Zone
+16.58017234	41.65149851	-30.0000061	Deep Gondola Fault Zone
+16.65927133	41.64899942	-14.4999998	Deep Gondola Fault Zone
+16.45753922	41.65692088	-17.8500046	Deep Gondola Fault Zone
+16.53705141	41.65339253	-15.1906248	Deep Gondola Fault Zone
+16.9113384	41.64600047	-13.9999998	Deep Gondola Fault Zone
+16.49043781	41.65545963	-20.95	Deep Gondola Fault Zone
+16.59100469	41.65102462	-23.2999961	Deep Gondola Fault Zone
+16.52291715	41.6540114	-25.121875	Deep Gondola Fault Zone
+16.12138662	41.68579805	-29.9999998	Deep Gondola Fault Zone
+16.33546593	41.66552199	-18.946875	Deep Gondola Fault Zone
+16.39690758	41.66049533	-19.6	Deep Gondola Fault Zone
+16.14620792	41.68323356	-22.6374997	Deep Gondola Fault Zone
+16.34549532	41.6645369	-20.994531	Deep Gondola Fault Zone
+16.65927133	41.64899939	-25.6374998	Deep Gondola Fault Zone
+16.57234904	41.65184502	-21.003125	Deep Gondola Fault Zone
+16.1564284	41.68217781	-17.6749993	Deep Gondola Fault Zone
+16.64627056	41.64938413	-19.0601563	Deep Gondola Fault Zone
+16.89405785	41.64600084	-13.9999998	Deep Gondola Fault Zone
+16.10978034	41.68699586	-29.128906	Deep Gondola Fault Zone
+16.92768124	41.64600144	-16.9843748	Deep Gondola Fault Zone
+16.85675064	41.64600039	-19.554688	Deep Gondola Fault Zone
+16.87811689	41.64600148	-13.9999998	Deep Gondola Fault Zone
+16.99573177	41.6460015	-20.45	Deep Gondola Fault Zone
+16.84569923	41.64600018	-21.6499985	Deep Gondola Fault Zone
+16.79922736	41.64677926	-29.9999998	Deep Gondola Fault Zone
+16.5433119	41.65311818	-28.9429685	Deep Gondola Fault Zone
+16.4041056	41.65995735	-26.4500022	Deep Gondola Fault Zone
+16.34806911	41.66428451	-22.5843748	Deep Gondola Fault Zone
+16.26221342	41.67225158	-21.11875	Deep Gondola Fault Zone
+16.34964764	41.66412641	-19.3531257	Deep Gondola Fault Zone
+16.36030501	41.6632891	-28.5124998	Deep Gondola Fault Zone
+16.7659806	41.64734102	-19.23125	Deep Gondola Fault Zone
+16.50374383	41.65486613	-23.3499999	Deep Gondola Fault Zone
+16.29127764	41.66985266	-14.0000164	Deep Gondola Fault Zone
+16.84784093	41.64599328	-22.68125	Deep Gondola Fault Zone
+16.85681745	41.64599974	-13.9999949	Deep Gondola Fault Zone
+16.10625446	41.68735965	-29.9999998	Deep Gondola Fault Zone
+16.15881791	41.68193326	-22.6999999	Deep Gondola Fault Zone
+16.70186235	41.64837147	-24.65	Deep Gondola Fault Zone
+16.65927133	41.6489994	-24.025	Deep Gondola Fault Zone
+17.00216177	41.64600138	-15.9874998	Deep Gondola Fault Zone
+16.14780084	41.68306967	-28.2640623	Deep Gondola Fault Zone
+16.17638421	41.6801891	-27.1996091	Deep Gondola Fault Zone
+16.15988025	41.68182632	-14.0000002	Deep Gondola Fault Zone
+17.01788506	41.64600052	-15.0046873	Deep Gondola Fault Zone
+16.80525397	41.6466781	-13.9999998	Deep Gondola Fault Zone
+16.84342302	41.64603194	-14.0000076	Deep Gondola Fault Zone
+16.85105742	41.64600044	-17.9000002	Deep Gondola Fault Zone
+16.1989057	41.67794954	-18.860156	Deep Gondola Fault Zone
+16.88977119	41.64600108	-29.9999998	Deep Gondola Fault Zone
+16.45336416	41.65713641	-17.3062522	Deep Gondola Fault Zone
+16.73326939	41.64789539	-13.9999988	Deep Gondola Fault Zone
+16.2281506	41.67504014	-21.0374965	Deep Gondola Fault Zone
+16.54247607	41.65315505	-22.8976563	Deep Gondola Fault Zone
+16.23574069	41.67441038	-16.1999993	Deep Gondola Fault Zone
+16.100047	41.688	-18.3499998	Deep Gondola Fault Zone
+16.75589435	41.64751127	-18.0890623	Deep Gondola Fault Zone
+16.59153967	41.65100407	-16.1000007	Deep Gondola Fault Zone
+16.49685684	41.65517384	-26.5749998	Deep Gondola Fault Zone
+16.58665882	41.65121304	-21.8109425	Deep Gondola Fault Zone
+16.78570096	41.6470069	-13.9999998	Deep Gondola Fault Zone
+16.72456413	41.64803643	-27.7406248	Deep Gondola Fault Zone
+16.82342583	41.64637148	-21.7179687	Deep Gondola Fault Zone
+16.62589927	41.64998715	-20.4570314	Deep Gondola Fault Zone
+16.52413744	41.65395723	-29.9999998	Deep Gondola Fault Zone
+16.66991865	41.64883972	-14.8000242	Deep Gondola Fault Zone
+17.00048729	41.64600142	-21.975	Deep Gondola Fault Zone
+16.54734069	41.65294182	-24.4703125	Deep Gondola Fault Zone
+16.2356075	41.6744215	-18.4000051	Deep Gondola Fault Zone
+16.40894791	41.65968022	-19.3156216	Deep Gondola Fault Zone
+16.10601388	41.68738447	-20.7746094	Deep Gondola Fault Zone
+16.41866665	41.65912695	-30.0000002	Deep Gondola Fault Zone
+16.14743582	41.68310732	-19.4546875	Deep Gondola Fault Zone
+16.64389044	41.64945482	-17.1578123	Deep Gondola Fault Zone
+16.52069386	41.65410966	-27.5499998	Deep Gondola Fault Zone
+16.58538795	41.65127151	-13.9999998	Deep Gondola Fault Zone
+16.23653997	41.67434557	-14.0000071	Deep Gondola Fault Zone
+16.31255024	41.6677679	-26.7718748	Deep Gondola Fault Zone
+17.01760875	41.64600054	-22.2484375	Deep Gondola Fault Zone
+16.32936755	41.66611978	-22.0882812	Deep Gondola Fault Zone
+16.45506689	41.65704018	-27.3124968	Deep Gondola Fault Zone
+16.46870659	41.65642669	-29.3499998	Deep Gondola Fault Zone
+16.52694585	41.65383369	-21.5968749	Deep Gondola Fault Zone
+16.14952644	41.68289214	-13.9999998	Deep Gondola Fault Zone
+16.54085453	41.65322606	-29.9999998	Deep Gondola Fault Zone
+16.56492679	41.6521705	-26.2874998	Deep Gondola Fault Zone
+16.19972753	41.67786783	-13.9999998	Deep Gondola Fault Zone
+16.95125781	41.64600095	-13.9999998	Deep Gondola Fault Zone
+16.70005425	41.6483982	-27.5031248	Deep Gondola Fault Zone
+16.1781939	41.68000896	-20.809375	Deep Gondola Fault Zone
+16.4895017	41.65550132	-29.9999998	Deep Gondola Fault Zone
+16.4202028	41.6590389	-23.0832032	Deep Gondola Fault Zone
+16.85105743	41.64600052	-24.95	Deep Gondola Fault Zone
+16.71024156	41.64824727	-18.1218748	Deep Gondola Fault Zone
+16.80974884	41.64660239	-17.1781248	Deep Gondola Fault Zone
+16.86726631	41.64600144	-29.9999998	Deep Gondola Fault Zone
+16.35132499	41.66397383	-26.1999998	Deep Gondola Fault Zone
+16.18932605	41.67890233	-25.9781248	Deep Gondola Fault Zone
+16.96045065	41.6460002	-16.9246091	Deep Gondola Fault Zone
+16.96264418	41.64599992	-28.8656248	Deep Gondola Fault Zone
+17.0131798	41.64600087	-27.5624998	Deep Gondola Fault Zone
+16.11141471	41.68682721	-25.0828125	Deep Gondola Fault Zone
+16.84516353	41.64600298	-15.9500022	Deep Gondola Fault Zone
+16.43730097	41.65806044	-21.7757813	Deep Gondola Fault Zone
+16.62045296	41.65014813	-13.9999998	Deep Gondola Fault Zone
+16.88716321	41.64600119	-16.1808591	Deep Gondola Fault Zone
+16.22084554	41.67576622	-21.95	Deep Gondola Fault Zone
+16.12936746	41.6849742	-23.7453125	Deep Gondola Fault Zone
+16.6677092	41.64887548	-27.0765623	Deep Gondola Fault Zone
+16.35132487	41.66397352	-24.55	Deep Gondola Fault Zone
+16.47890357	41.655973	-19.5375	Deep Gondola Fault Zone
+16.31359632	41.66766491	-29.9999998	Deep Gondola Fault Zone
+16.55810634	41.65246973	-21.95625	Deep Gondola Fault Zone
+16.3473717	41.66435358	-16.6249973	Deep Gondola Fault Zone
+17.01220858	41.64600093	-29.9999998	Deep Gondola Fault Zone
+16.67770403	41.64872838	-21.1382813	Deep Gondola Fault Zone
+16.78663843	41.64699098	-21.6	Deep Gondola Fault Zone
+16.59635815	41.65085782	-18.5500039	Deep Gondola Fault Zone
+16.38204674	41.66162988	-20.7375	Deep Gondola Fault Zone
+16.45406525	41.65709816	-29.9999841	Deep Gondola Fault Zone
+16.39970799	41.66027633	-29.4187498	Deep Gondola Fault Zone
+16.13280195	41.68461947	-13.9999998	Deep Gondola Fault Zone
+16.35132484	41.66397338	-20.4999998	Deep Gondola Fault Zone
+16.2896838	41.67000658	-27.8000017	Deep Gondola Fault Zone
+16.25152477	41.67312438	-20.1	Deep Gondola Fault Zone
+16.67353534	41.64878977	-24.909375	Deep Gondola Fault Zone
+16.57054363	41.65192424	-13.9999998	Deep Gondola Fault Zone
+16.74361506	41.64771824	-16.9499998	Deep Gondola Fault Zone
+16.25910006	41.67250587	-14.844531	Deep Gondola Fault Zone
+16.50885898	41.65463838	-21.375	Deep Gondola Fault Zone
+16.67333443	41.64879273	-23.1921875	Deep Gondola Fault Zone
+16.31079832	41.66793945	-28.750781	Deep Gondola Fault Zone
+16.12181805	41.68575375	-22.0484375	Deep Gondola Fault Zone
+16.38665331	41.66127837	-16.2484373	Deep Gondola Fault Zone
+16.29499787	41.6694875	-17.0749998	Deep Gondola Fault Zone
+16.22136484	41.67571311	-17.8023411	Deep Gondola Fault Zone
+16.42515362	41.65875582	-15.0880857	Deep Gondola Fault Zone
+16.23574035	41.67440841	-23.4750002	Deep Gondola Fault Zone
+16.98704966	41.64600143	-23.4234374	Deep Gondola Fault Zone
+16.77739763	41.6471474	-29.9999998	Deep Gondola Fault Zone
+16.23161193	41.67474788	-25.3	Deep Gondola Fault Zone
+16.93652242	41.64600149	-21.7374999	Deep Gondola Fault Zone
+16.65927133	41.6489994	-20.35	Deep Gondola Fault Zone
+16.55944368	41.65241104	-20.40625	Deep Gondola Fault Zone
+16.46288926	41.65668502	-28.0499983	Deep Gondola Fault Zone
+16.3822467	41.66161487	-22.5	Deep Gondola Fault Zone
+16.46783721	41.65646417	-26.4625007	Deep Gondola Fault Zone
+16.14843115	41.68300352	-14.8296868	Deep Gondola Fault Zone
+16.60758589	41.65052808	-28.5124998	Deep Gondola Fault Zone
+16.1873379	41.67909996	-17.1710935	Deep Gondola Fault Zone
+16.5624527	41.65227905	-27.7874998	Deep Gondola Fault Zone
+16.83006346	41.64625943	-14.4718748	Deep Gondola Fault Zone
+16.31981523	41.66705595	-18.4816406	Deep Gondola Fault Zone
+16.84369177	41.64602216	-23.8281281	Deep Gondola Fault Zone
+16.45593516	41.65699301	-19.4500002	Deep Gondola Fault Zone
+16.92614073	41.64600142	-29.3617185	Deep Gondola Fault Zone
+16.23599036	41.67438961	-26.6382815	Deep Gondola Fault Zone
+16.60385462	41.65063828	-13.9999998	Deep Gondola Fault Zone
+16.62433482	41.65003345	-29.9999998	Deep Gondola Fault Zone
+16.28968364	41.67000627	-22.3	Deep Gondola Fault Zone
+16.40630987	41.65983046	-22.500001	Deep Gondola Fault Zone
+16.4638922	41.65664011	-19.9000015	Deep Gondola Fault Zone
+16.58074072	41.65147532	-27.8562502	Deep Gondola Fault Zone
+16.38931064	41.66107589	-13.9999998	Deep Gondola Fault Zone
+16.17049025	41.68077531	-22.7078124	Deep Gondola Fault Zone
+16.14886266	41.6829598	-16.7140623	Deep Gondola Fault Zone
+16.77984178	41.64710606	-18.2921873	Deep Gondola Fault Zone
+16.85159327	41.64600058	-26.5249998	Deep Gondola Fault Zone
+16.65739785	41.64904729	-16.1625027	Deep Gondola Fault Zone
+16.28968364	41.67000624	-17.9499998	Deep Gondola Fault Zone
+16.83110135	41.64624167	-27.2874998	Deep Gondola Fault Zone
+16.90758758	41.64600024	-29.9999998	Deep Gondola Fault Zone
+16.69272139	41.64850672	-21.875	Deep Gondola Fault Zone
+16.40911517	41.65967214	-14.523427	Deep Gondola Fault Zone
+16.27796309	41.67096454	-24.725	Deep Gondola Fault Zone
+16.35318816	41.66382649	-18.5	Deep Gondola Fault Zone
+16.4656975	41.65655892	-14.0000007	Deep Gondola Fault Zone
+16.59234237	41.65097477	-13.9999963	Deep Gondola Fault Zone
+16.45500021	41.65704342	-23.7124994	Deep Gondola Fault Zone
+16.43122312	41.65840824	-19.809375	Deep Gondola Fault Zone
+16.16187218	41.68162648	-20.8000006	Deep Gondola Fault Zone
+16.87994206	41.64600146	-29.4210935	Deep Gondola Fault Zone
+16.22084147	41.67576706	-23.2648441	Deep Gondola Fault Zone
+16.69717467	41.64844082	-29.1374998	Deep Gondola Fault Zone
+16.47077943	41.65633462	-17.5749998	Deep Gondola Fault Zone
+16.14235889	41.68363257	-29.9999998	Deep Gondola Fault Zone
+16.1098882	41.68698471	-18.5417969	Deep Gondola Fault Zone
+16.69427836	41.64848368	-16.6398435	Deep Gondola Fault Zone
+16.56348914	41.65223359	-24.6875	Deep Gondola Fault Zone
+16.64695657	41.64936387	-29.9999998	Deep Gondola Fault Zone
+16.46743594	41.65648127	-30.0000027	Deep Gondola Fault Zone
+16.34684024	41.66440463	-18.1125	Deep Gondola Fault Zone
+16.84516361	41.64600352	-18.4062507	Deep Gondola Fault Zone
+16.40110639	41.66017303	-22.6250049	Deep Gondola Fault Zone
+16.35215556	41.66390472	-17.2765681	Deep Gondola Fault Zone
+16.72253838	41.6480661	-21.917187	Deep Gondola Fault Zone
+17.0178348	41.64600052	-13.9999998	Deep Gondola Fault Zone
+16.40437296	41.65994226	-30.0000315	Deep Gondola Fault Zone
+16.22888185	41.67497258	-17.5687527	Deep Gondola Fault Zone
+16.70922869	41.64826222	-13.9999998	Deep Gondola Fault Zone
+16.71580818	41.64816507	-16.3624998	Deep Gondola Fault Zone
+16.67755336	41.6487306	-15.9265623	Deep Gondola Fault Zone
+16.89929059	41.64600001	-19.9773438	Deep Gondola Fault Zone
+16.25318968	41.67298843	-13.9999998	Deep Gondola Fault Zone
+16.32324427	41.66671991	-16.063281	Deep Gondola Fault Zone
+16.25625309	41.67273824	-25.4999998	Deep Gondola Fault Zone
+16.41772324	41.65918096	-25.507031	Deep Gondola Fault Zone
+16.81012549	41.64659601	-14.8265623	Deep Gondola Fault Zone
+16.23760517	41.67425604	-19.9625	Deep Gondola Fault Zone
+16.99774117	41.64600147	-29.5312498	Deep Gondola Fault Zone
+16.51150011	41.65452053	-18.1499998	Deep Gondola Fault Zone
+16.46476121	41.65659947	-14.8875002	Deep Gondola Fault Zone
+16.15503455	41.68232042	-29.310156	Deep Gondola Fault Zone
+16.43870353	41.65797988	-29.9999998	Deep Gondola Fault Zone
+16.57479801	41.65173727	-23.3156252	Deep Gondola Fault Zone
+16.45994663	41.65681436	-16.4250032	Deep Gondola Fault Zone
+17.01660407	41.64600062	-16.9203123	Deep Gondola Fault Zone
+16.1188646	41.68605838	-27.5999998	Deep Gondola Fault Zone
+16.71143021	41.64822935	-20.2964844	Deep Gondola Fault Zone
+16.1064204	41.68734253	-14.7343748	Deep Gondola Fault Zone
+16.76658324	41.64733085	-21.03125	Deep Gondola Fault Zone
+16.25723539	41.67265817	-27.4562498	Deep Gondola Fault Zone
+16.98488122	41.64600137	-13.9999998	Deep Gondola Fault Zone
+16.21422959	41.67642471	-20.4257814	Deep Gondola Fault Zone
+16.92808312	41.64600146	-29.9999998	Deep Gondola Fault Zone
+16.25825103	41.67257543	-18.407031	Deep Gondola Fault Zone
+16.81441107	41.64652376	-28.8218748	Deep Gondola Fault Zone
+16.89303641	41.64600082	-28.2324216	Deep Gondola Fault Zone
+17.0131379	41.64600087	-20.334375	Deep Gondola Fault Zone
+16.28861893	41.67009618	-29.9999861	Deep Gondola Fault Zone
+16.16007935	41.68180582	-15.8999998	Deep Gondola Fault Zone
+16.2203807	41.67581258	-27.4124998	Deep Gondola Fault Zone
+16.38174689	41.66165303	-26.1749998	Deep Gondola Fault Zone
+16.40303844	41.66002582	-14.6750007	Deep Gondola Fault Zone
+16.57662848	41.65165666	-19.496875	Deep Gondola Fault Zone
+16.39895756	41.66033379	-25.7015632	Deep Gondola Fault Zone
+16.86393411	41.64600141	-28.7890627	Deep Gondola Fault Zone
+16.55408594	41.65264602	-17.7980466	Deep Gondola Fault Zone
+16.83994892	41.64609092	-15.2703098	Deep Gondola Fault Zone
+16.19627421	41.67821129	-29.9999998	Deep Gondola Fault Zone
+16.85105743	41.64600052	-23.75	Deep Gondola Fault Zone
+16.90413818	41.64599992	-26.8874998	Deep Gondola Fault Zone
+16.28861954	41.67009845	-29.0999988	Deep Gondola Fault Zone
+16.60470792	41.65061299	-16.8343738	Deep Gondola Fault Zone
+17.00890989	41.64600111	-23.803125	Deep Gondola Fault Zone
+16.21367346	41.67648025	-29.9999998	Deep Gondola Fault Zone
+16.92758912	41.64600139	-23.228125	Deep Gondola Fault Zone
+16.52574229	41.65388706	-29.1874998	Deep Gondola Fault Zone
+16.97722889	41.64600093	-15.6046873	Deep Gondola Fault Zone
+16.71425956	41.64818761	-26.6042966	Deep Gondola Fault Zone
+16.25681917	41.67269225	-29.0781248	Deep Gondola Fault Zone
+16.19265486	41.67857127	-28.0531248	Deep Gondola Fault Zone
+16.96051765	41.64600014	-14.6296873	Deep Gondola Fault Zone
+16.10578984	41.68740758	-26.8398435	Deep Gondola Fault Zone
+16.12606562	41.68531513	-19.8917969	Deep Gondola Fault Zone
+16.100047	41.688	-20.6375	Deep Gondola Fault Zone
+16.73949687	41.64778762	-29.9999998	Deep Gondola Fault Zone
+16.9985449	41.64600146	-14.5562498	Deep Gondola Fault Zone
+16.98849809	41.64600146	-29.9999998	Deep Gondola Fault Zone
+16.32386698	41.66665885	-29.3765623	Deep Gondola Fault Zone
+16.37431642	41.6622201	-24.8375	Deep Gondola Fault Zone
+16.59749618	41.65082466	-25.8750002	Deep Gondola Fault Zone
+16.7417401	41.6477496	-24.65625	Deep Gondola Fault Zone
+16.84382464	41.64602265	-29.999988	Deep Gondola Fault Zone
+16.32845842	41.66620885	-25.0578125	Deep Gondola Fault Zone
+16.98729247	41.64600143	-27.9937498	Deep Gondola Fault Zone
+16.5024066	41.65492646	-14.7249998	Deep Gondola Fault Zone
+16.82333375	41.64637301	-19.775	Deep Gondola Fault Zone
+16.81846227	41.6464554	-26.5671873	Deep Gondola Fault Zone
+16.45014119	41.65732302	-18.5328098	Deep Gondola Fault Zone
+16.13307163	41.68459166	-28.7398435	Deep Gondola Fault Zone
+16.43484644	41.65820072	-25.59375	Deep Gondola Fault Zone
+16.59349702	41.65094149	-21.6375083	Deep Gondola Fault Zone
+16.84087786	41.64607413	-29.0703186	Deep Gondola Fault Zone
+16.36117133	41.66322289	-26.7093748	Deep Gondola Fault Zone
+16.68820112	41.64857351	-29.9999998	Deep Gondola Fault Zone
+16.3983078	41.66038563	-21.1499892	Deep Gondola Fault Zone
+16.83520281	41.64617056	-25.6171885	Deep Gondola Fault Zone
+16.10383191	41.68760959	-16.6171873	Deep Gondola Fault Zone
+16.36143792	41.66320255	-22.84375	Deep Gondola Fault Zone
+16.52119535	41.65408738	-15.4937498	Deep Gondola Fault Zone
+16.30509424	41.66849825	-13.9999998	Deep Gondola Fault Zone
+16.36314561	41.6630723	-21.0828126	Deep Gondola Fault Zone
+16.66931641	41.64885185	-29.9999998	Deep Gondola Fault Zone
+16.22788472	41.67506447	-15.4874939	Deep Gondola Fault Zone
+16.7270418	41.64799724	-30.0000007	Deep Gondola Fault Zone
+16.22552803	41.67529627	-14.4296873	Deep Gondola Fault Zone
+16.85534408	41.64600082	-21.141407	Deep Gondola Fault Zone
+16.90901089	41.64600023	-22.0734377	Deep Gondola Fault Zone
+16.27743034	41.67100803	-26.4999998	Deep Gondola Fault Zone
+16.22628961	41.67521306	-13.9999841	Deep Gondola Fault Zone
+16.76012138	41.64744008	-13.9999998	Deep Gondola Fault Zone
+16.23573929	41.67440146	-29.9999895	Deep Gondola Fault Zone
+16.74239302	41.64773911	-14.8124998	Deep Gondola Fault Zone
+16.81739925	41.64647336	-24.2710938	Deep Gondola Fault Zone
+16.25570367	41.6727831	-23.78125	Deep Gondola Fault Zone
+16.23576532	41.67440745	-28.8187537	Deep Gondola Fault Zone
+16.90387025	41.64599998	-17.6249998	Deep Gondola Fault Zone
+16.11090033	41.68688029	-13.9999998	Deep Gondola Fault Zone
+16.93236978	41.64600151	-25.15	Deep Gondola Fault Zone
+16.77967439	41.64710894	-23.990625	Deep Gondola Fault Zone
+16.28968361	41.67000622	-20.4	Deep Gondola Fault Zone
+16.36133801	41.66321067	-14.8179695	Deep Gondola Fault Zone
+16.28009412	41.67079032	-18.5249995	Deep Gondola Fault Zone
+16.28142598	41.67068139	-14.9406248	Deep Gondola Fault Zone
+16.40494048	41.65990817	-28.1000042	Deep Gondola Fault Zone
+16.55489671	41.6526105	-13.9999998	Deep Gondola Fault Zone
+16.45314713	41.65714373	-22.5937479	Deep Gondola Fault Zone
+16.63196467	41.64980805	-24.2195313	Deep Gondola Fault Zone
+16.43587758	41.65814243	-26.9929685	Deep Gondola Fault Zone
+16.49110647	41.65543007	-13.9999998	Deep Gondola Fault Zone
+16.73347025	41.64789117	-16.1499998	Deep Gondola Fault Zone
+16.40250531	41.6600674	-17.8000007	Deep Gondola Fault Zone
+16.91968564	41.64600114	-18.460156	Deep Gondola Fault Zone
+16.53403391	41.65352367	-13.9999993	Deep Gondola Fault Zone
+16.79748634	41.64680865	-24.840625	Deep Gondola Fault Zone
+16.98256626	41.64600131	-17.4906248	Deep Gondola Fault Zone
+16.33526661	41.66554142	-17.3773435	Deep Gondola Fault Zone
+16.99626764	41.64600149	-18.3749998	Deep Gondola Fault Zone
+16.64832859	41.64932318	-26.7765623	Deep Gondola Fault Zone
+16.65927133	41.64899942	-22.45	Deep Gondola Fault Zone
+16.83136923	41.64623735	-23.6625	Deep Gondola Fault Zone
+16.85132535	41.64600054	-29.9999998	Deep Gondola Fault Zone
+16.73074155	41.6479378	-20.8406248	Deep Gondola Fault Zone
+16.68980832	41.64854976	-26.3515623	Deep Gondola Fault Zone
+16.68351344	41.64864308	-13.9999998	Deep Gondola Fault Zone
+16.14663918	41.6831885	-21.1625002	Deep Gondola Fault Zone
+16.77203648	41.64723794	-26.5384763	Deep Gondola Fault Zone
+16.16313394	41.68150066	-18.8093745	Deep Gondola Fault Zone
+16.96883138	41.64600015	-26.8687498	Deep Gondola Fault Zone
+16.65739801	41.64904803	-14.0000134	Deep Gondola Fault Zone
+16.72704179	41.64799709	-23.65	Deep Gondola Fault Zone
+16.53252924	41.65358812	-19.6484375	Deep Gondola Fault Zone
+16.72717572	41.64799491	-14.9499998	Deep Gondola Fault Zone
+16.92942269	41.64600147	-13.9999998	Deep Gondola Fault Zone
+16.68980833	41.64854977	-14.6312498	Deep Gondola Fault Zone
+16.20280937	41.67756161	-24.6523438	Deep Gondola Fault Zone
+16.25318968	41.67298838	-29.9999998	Deep Gondola Fault Zone
+16.23574075	41.67441076	-21.9499991	Deep Gondola Fault Zone
+16.52634406	41.65386024	-23.2375	Deep Gondola Fault Zone
+16.40630979	41.65983063	-20.5000005	Deep Gondola Fault Zone
+16.50359341	41.65487313	-19.68125	Deep Gondola Fault Zone
+16.45212899	41.6572052	-25.1531213	Deep Gondola Fault Zone
+16.33325737	41.66573833	-29.9999998	Deep Gondola Fault Zone

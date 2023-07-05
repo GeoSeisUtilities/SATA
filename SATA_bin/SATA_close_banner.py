@@ -30,6 +30,7 @@ def Save_plot():
     shutil.copyfile(path_p+'Eqs_gmt_world.txt',path_p+act_tm+'/Eqs_gmt_world.txt')
     shutil.copyfile(pt+'temp/coord_gmt', path_p+act_tm+'/coordinates_of_zoom_plot.txt')
     shutil.copyfile(pt+'temp/sez_gmt', path_p+act_tm+'/coordinates_of_section.txt')
+    notification.notify(title = 'SATA', message = 'Plot has been correctely saved in the folder '+path_p+act_tm)
     
 wd2=tk.Tk()
 wd2.title("SATA status")
