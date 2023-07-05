@@ -103,7 +103,7 @@ gmt begin combined_plots
     gmt pstext temp/table_ten_eqs -R-15/18/0.5/11.5 -JX8.5 -B0 -F+f10p,Helvetica -X23.8
     gmt colorbar -C%cpt_file% -DjCB+w3i/0.1i+o0.5i/0i+h -Bxa20f5 -By+l"Eq. Depth" -X-22 -Y29
     gmt pstext temp/all_data -R0/1/0/1 -JM6i -Bn -F+cTL+f13p -Y-13.7 -X-1 -N
-    gmt text DISS_gmt/info -R-3/3/0/2 -JX30c/1 -Bn -F+f12p,Helvetica -Y-17
+    gmt text DISS_gmt/info -R-3/3/0/3 -JX30c/1 -Bn -F+f11p,Helvetica -Y-17
 gmt end show
 
 REM clear temporaneus variables
