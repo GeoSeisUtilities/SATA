@@ -34,7 +34,7 @@ for s in strike:
     slon=float(ls[0])
     strike_l.append(float(ls[-2]))
     coords.append([slat,slon])
-min_distance=np.sqrt((coords[0][0]-eq_coord[0])**2+(coords[0][1]-eq_coord[0])**2)
+min_distance=np.sqrt((coords[0][0]-eq_coord[0])**2+(coords[0][1]-eq_coord[1])**2)
 #Find nearest fault
 for l_c in coords:
     act_distance=np.sqrt((l_c[0]-eq_coord[0])**2+(l_c[1]-eq_coord[1])**2)
