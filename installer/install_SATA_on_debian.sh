@@ -12,9 +12,10 @@ for i in *.tar.gz; do tar -xvzf $i; done
 cd /usr/local
 sudo mkdir gmt
 cd gmt
-sudo mkdir share
-cd share
-sudo mkdir dcw coast
+sudo mkdir build
+cd build
+cmake ..
+sudo cmake --build . --targert install
 # installing python
 sudo apt-get install python3
 # installing dependencies
