@@ -46,7 +46,7 @@ if days==timing:
     dt=dt-timedelta(days=1)
     dt=dt.strftime("%Y-%m-%d")
     dt2=dt2.strftime("%Y-%m-%d")
-    dt3=dt+timedelta(days=2)
+    dt3=datetime.strptime(act_tm, "%Y-%m-%d")+timedelta(days=2)
     dt3=dt3.strftime("%Y-%m-%d")
     new_name_eqs_list='Earthquakes_list_with_complete_header_from'+str(dt2)+'_to'+str(dt3)+'.txt'
     os.rename(path_e+'Earthquakes_list_with_complete_header.txt',path_e+new_name_eqs_list)
