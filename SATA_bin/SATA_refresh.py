@@ -61,9 +61,9 @@ act_tm=time.strftime("%Y-%m-%d")
 dt = datetime.strptime(act_tm, "%Y-%m-%d")
 st = dt - timedelta(days=7)
 st=st.strftime("%Y-%m-%d")
-url = 'http://cnt.rm.ingv.it/events?starttime=2023-05-09+00%3A00%3A00&endtime=2023-05-16+23%3A59%3A59&last_nd=7&minmag=-1&maxmag=10&mindepth=-10&maxdepth=1000&minlat=35&maxlat=49&minlon=5&maxlon=20&minversion=100&limit=30&orderby=ot-desc&lat=0&lon=0&maxradiuskm=-1&wheretype=area&box_search=Italia'
-st_time=url[39:49]
-end_time=url[71:81]
+url = 'http://terremoti.ingv.it/events?starttime=2023-05-09+00%3A00%3A00&endtime=2023-05-16+23%3A59%3A59&last_nd=7&minmag=-1&maxmag=10&mindepth=-10&maxdepth=1000&minlat=35&maxlat=49&minlon=5&maxlon=20&minversion=100&limit=30&orderby=ot-desc&lat=0&lon=0&maxradiuskm=-1&wheretype=area&box_search=Italia'
+st_time=url[42:52]
+end_time=url[74:84]
 url=url.replace(st_time,st)
 url=url.replace(end_time,act_tm)
 response = requests.get(url)
@@ -86,10 +86,11 @@ url1=url_e[:]
 url_e=list()
 for u in url1:
     try:
-        int(u.split('/')[-1])
+        v_temp=u.split('/')[-1]
+        v_temp=int(v_temp)
         url_e.append(u)
     except:
-        continue 
+        continue
 url_e.reverse()
 for u in url_e:
     ev_id=u.split('/')[-1]
@@ -264,22 +265,22 @@ if test_val==1:
     with open(path_e+'Earthquakes_list_with_complete_header.txt','w') as o:
         for e in earthquake_list:
             o.write(e)
-    if len(ev_gmt)<300:
+    if len(ev_gmt)<700:
         with open(path_p+'Eqs_gmt.txt','w') as o:
             for e in ev_gmt:
                 o.write(e)
     else:
-        while len(ev_gmt)>300:
+        while len(ev_gmt)>700:
             ev_gmt.remove(ev_gmt[1])
         with open(path_p+'Eqs_gmt.txt','w') as o:
             for e in ev_gmt:
                 o.write(e)
-    if len(ev_gmt_w)<300:
+    if len(ev_gmt_w)<700:
         with open(path_p+'Eqs_gmt_world.txt','w') as o:
             for e in ev_gmt_w:
                 o.write(e)
     else:
-        while len(ev_gmt_w)>300:
+        while len(ev_gmt_w)>700:
             ev_gmt_w.remove(ev_gmt_w[1])
         with open(path_p+'Eqs_gmt_world.txt','w') as o:
             for e in ev_gmt_w:
