@@ -3,7 +3,17 @@
 echo Do not close this Window!
 
 cd SATA_bin
-where python > py
+set "nome_eseguibile=python.exe"
+REM searching python.exe
+for /f "delims=" %%i in ('where %nome_eseguibile%') do (
+    echo %%i > py_temp
+    set "py_temp=py_temp"
+    for /F "delims=" %%x in (%py_temp%) do (
+     set "py_temp=%%x"
+)
+    %py_temp% Test_py_exe.py 
+)
+
 set "py=py"
 for /F "delims=" %%x in (%py%) do (
      set "py=%%x"
